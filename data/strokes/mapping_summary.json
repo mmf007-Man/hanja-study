@@ -1,0 +1,879 @@
+{
+  "totalCatalogCharacters": 637,
+  "highPriorityCount": 159,
+  "providerCoverage": {
+    "animcjk_ko": {
+      "count": 394,
+      "percentage": 61.85,
+      "highPriorityCount": 105,
+      "highPriorityPercentage": 66.04
+    },
+    "animcjk_hant": {
+      "count": 549,
+      "percentage": 86.19,
+      "highPriorityCount": 142,
+      "highPriorityPercentage": 89.31
+    },
+    "makemeahanzi": {
+      "count": 624,
+      "percentage": 97.96,
+      "highPriorityCount": 152,
+      "highPriorityPercentage": 95.6
+    },
+    "kanjivg": {
+      "count": 634,
+      "percentage": 99.53,
+      "highPriorityCount": 158,
+      "highPriorityPercentage": 99.37
+    }
+  },
+  "primaryProviderDistribution": {
+    "animcjk_ko": 394,
+    "animcjk_hant": 172,
+    "makemeahanzi": 62,
+    "kanjivg": 9,
+    "none": 0
+  },
+  "missingInMakeMeAHanzi": [
+    {
+      "id": "hanja-59C9",
+      "character": "姉",
+      "codePoint": "U+59C9",
+      "sound": "자",
+      "meanings": [
+        "손위 누이"
+      ],
+      "isHighPriority159": true
+    },
+    {
+      "id": "hanja-654E",
+      "character": "敎",
+      "codePoint": "U+654E",
+      "sound": "교",
+      "meanings": [
+        "가르치다"
+      ],
+      "isHighPriority159": true
+    },
+    {
+      "id": "hanja-64E7",
+      "character": "擧",
+      "codePoint": "U+64E7",
+      "sound": "거",
+      "meanings": [
+        "들다"
+      ],
+      "isHighPriority159": false
+    },
+    {
+      "id": "hanja-9854",
+      "character": "顔",
+      "codePoint": "U+9854",
+      "sound": "안",
+      "meanings": [
+        "얼굴"
+      ],
+      "isHighPriority159": true
+    },
+    {
+      "id": "hanja-514E",
+      "character": "兎",
+      "codePoint": "U+514E",
+      "sound": "토",
+      "meanings": [
+        "토끼"
+      ],
+      "isHighPriority159": true
+    },
+    {
+      "id": "hanja-6669",
+      "character": "晩",
+      "codePoint": "U+6669",
+      "sound": "만",
+      "meanings": [
+        "늦다"
+      ],
+      "isHighPriority159": false
+    },
+    {
+      "id": "hanja-7232",
+      "character": "爲",
+      "codePoint": "U+7232",
+      "sound": "위",
+      "meanings": [
+        "하다"
+      ],
+      "isHighPriority159": false
+    },
+    {
+      "id": "hanja-784F",
+      "character": "硏",
+      "codePoint": "U+784F",
+      "sound": "연",
+      "meanings": [
+        "갈다"
+      ],
+      "isHighPriority159": false
+    },
+    {
+      "id": "hanja-5396",
+      "character": "厖",
+      "codePoint": "U+5396",
+      "sound": "방",
+      "meanings": [
+        "크다"
+      ],
+      "isHighPriority159": true
+    },
+    {
+      "id": "hanja-98EE",
+      "character": "飮",
+      "codePoint": "U+98EE",
+      "sound": "음",
+      "meanings": [
+        "마시다"
+      ],
+      "isHighPriority159": true
+    },
+    {
+      "id": "hanja-7D76",
+      "character": "絶",
+      "codePoint": "U+7D76",
+      "sound": "절",
+      "meanings": [
+        "끊다",
+        "뛰어나다"
+      ],
+      "isHighPriority159": false
+    },
+    {
+      "id": "hanja-90DE",
+      "character": "郞",
+      "codePoint": "U+90DE",
+      "sound": "랑",
+      "meanings": [
+        "사내"
+      ],
+      "isHighPriority159": true
+    },
+    {
+      "id": "hanja-6C37",
+      "character": "氷",
+      "codePoint": "U+6C37",
+      "sound": "빙",
+      "meanings": [
+        "얼음"
+      ],
+      "isHighPriority159": false
+    }
+  ],
+  "missingInAllSources": [],
+  "strokeCountMismatchCount": 45,
+  "strokeCountMismatches": [
+    {
+      "id": "hanja-8FD1",
+      "character": "近",
+      "codePoint": "U+8FD1",
+      "sound": "근",
+      "meanings": [
+        "가깝다"
+      ],
+      "isHighPriority159": true,
+      "diffType": "辶 부수 획수·필순",
+      "counts": {
+        "animcjk_ko": 8,
+        "animcjk_hant": 8,
+        "makemeahanzi": 7
+      }
+    },
+    {
+      "id": "hanja-9078",
+      "character": "選",
+      "codePoint": "U+9078",
+      "sound": "선",
+      "meanings": [
+        "가리다"
+      ],
+      "isHighPriority159": true,
+      "diffType": "辶 부수 획수·필순",
+      "counts": {
+        "animcjk_ko": 16,
+        "animcjk_hant": 16,
+        "makemeahanzi": 15
+      }
+    },
+    {
+      "id": "hanja-9032",
+      "character": "進",
+      "codePoint": "U+9032",
+      "sound": "진",
+      "meanings": [
+        "나아가다"
+      ],
+      "isHighPriority159": true,
+      "diffType": "辶 부수 획수·필순",
+      "counts": {
+        "animcjk_hant": 12,
+        "makemeahanzi": 11
+      }
+    },
+    {
+      "id": "hanja-9000",
+      "character": "退",
+      "codePoint": "U+9000",
+      "sound": "퇴",
+      "meanings": [
+        "물러나다"
+      ],
+      "isHighPriority159": true,
+      "diffType": "辶 부수 획수·필순",
+      "counts": {
+        "animcjk_hant": 10,
+        "makemeahanzi": 9
+      }
+    },
+    {
+      "id": "hanja-7956",
+      "character": "祖",
+      "codePoint": "U+7956",
+      "sound": "조",
+      "meanings": [
+        "할아버지"
+      ],
+      "isHighPriority159": true,
+      "diffType": "示 부수 자형·필순",
+      "counts": {
+        "animcjk_ko": 10,
+        "animcjk_hant": 9,
+        "makemeahanzi": 9
+      }
+    },
+    {
+      "id": "hanja-80B2",
+      "character": "育",
+      "codePoint": "U+80B2",
+      "sound": "육",
+      "meanings": [
+        "기르다"
+      ],
+      "isHighPriority159": false,
+      "diffType": "일반 한자 획수 차이",
+      "counts": {
+        "animcjk_ko": 8,
+        "animcjk_hant": 7,
+        "makemeahanzi": 8
+      }
+    },
+    {
+      "id": "hanja-904E",
+      "character": "過",
+      "codePoint": "U+904E",
+      "sound": "과",
+      "meanings": [
+        "지나다"
+      ],
+      "isHighPriority159": true,
+      "diffType": "辶 부수 획수·필순",
+      "counts": {
+        "animcjk_ko": 13,
+        "animcjk_hant": 13,
+        "makemeahanzi": 12
+      }
+    },
+    {
+      "id": "hanja-9632",
+      "character": "防",
+      "codePoint": "U+9632",
+      "sound": "방",
+      "meanings": [
+        "막다"
+      ],
+      "isHighPriority159": true,
+      "diffType": "阝 부수 획수·필순",
+      "counts": {
+        "animcjk_hant": 7,
+        "makemeahanzi": 6
+      }
+    },
+    {
+      "id": "hanja-656C",
+      "character": "敬",
+      "codePoint": "U+656C",
+      "sound": "경",
+      "meanings": [
+        "공경"
+      ],
+      "isHighPriority159": false,
+      "diffType": "일반 한자 획수 차이",
+      "counts": {
+        "animcjk_ko": 12,
+        "animcjk_hant": 13,
+        "makemeahanzi": 12
+      }
+    },
+    {
+      "id": "hanja-9AA8",
+      "character": "骨",
+      "codePoint": "U+9AA8",
+      "sound": "골",
+      "meanings": [
+        "뼈"
+      ],
+      "isHighPriority159": true,
+      "diffType": "자형 미세차이",
+      "counts": {
+        "animcjk_hant": 10,
+        "makemeahanzi": 9
+      }
+    },
+    {
+      "id": "hanja-5DEE",
+      "character": "差",
+      "codePoint": "U+5DEE",
+      "sound": "차",
+      "meanings": [
+        "사신 보내다"
+      ],
+      "isHighPriority159": false,
+      "diffType": "일반 한자 획수 차이",
+      "counts": {
+        "animcjk_hant": 10,
+        "makemeahanzi": 9
+      }
+    },
+    {
+      "id": "hanja-8349",
+      "character": "草",
+      "codePoint": "U+8349",
+      "sound": "초",
+      "meanings": [
+        "풀"
+      ],
+      "isHighPriority159": true,
+      "diffType": "艹 부수 획수·필순",
+      "counts": {
+        "animcjk_ko": 9,
+        "animcjk_hant": 10,
+        "makemeahanzi": 9
+      }
+    },
+    {
+      "id": "hanja-4E4B",
+      "character": "之",
+      "codePoint": "U+4E4B",
+      "sound": "지",
+      "meanings": [
+        "가다",
+        "어조사"
+      ],
+      "isHighPriority159": false,
+      "diffType": "일반 한자 획수 차이",
+      "counts": {
+        "animcjk_hant": 4,
+        "makemeahanzi": 3
+      }
+    },
+    {
+      "id": "hanja-964D",
+      "character": "降",
+      "codePoint": "U+964D",
+      "sound": "강",
+      "meanings": [
+        "내리다"
+      ],
+      "isHighPriority159": true,
+      "diffType": "阝 부수 획수·필순",
+      "counts": {
+        "animcjk_hant": 9,
+        "makemeahanzi": 8
+      }
+    },
+    {
+      "id": "hanja-9664",
+      "character": "除",
+      "codePoint": "U+9664",
+      "sound": "제",
+      "meanings": [
+        "덜다"
+      ],
+      "isHighPriority159": true,
+      "diffType": "阝 부수 획수·필순",
+      "counts": {
+        "animcjk_hant": 10,
+        "makemeahanzi": 9
+      }
+    },
+    {
+      "id": "hanja-901F",
+      "character": "速",
+      "codePoint": "U+901F",
+      "sound": "속",
+      "meanings": [
+        "빠르다"
+      ],
+      "isHighPriority159": true,
+      "diffType": "辶 부수 획수·필순",
+      "counts": {
+        "animcjk_ko": 11,
+        "animcjk_hant": 11,
+        "makemeahanzi": 10
+      }
+    },
+    {
+      "id": "hanja-9020",
+      "character": "造",
+      "codePoint": "U+9020",
+      "sound": "조",
+      "meanings": [
+        "만들다"
+      ],
+      "isHighPriority159": true,
+      "diffType": "辶 부수 획수·필순",
+      "counts": {
+        "animcjk_hant": 11,
+        "makemeahanzi": 10
+      }
+    },
+    {
+      "id": "hanja-8449",
+      "character": "葉",
+      "codePoint": "U+8449",
+      "sound": "엽",
+      "meanings": [
+        "잎"
+      ],
+      "isHighPriority159": true,
+      "diffType": "艹 부수 획수·필순",
+      "counts": {
+        "animcjk_ko": 12,
+        "animcjk_hant": 13,
+        "makemeahanzi": 13
+      }
+    },
+    {
+      "id": "hanja-820A",
+      "character": "舊",
+      "codePoint": "U+820A",
+      "sound": "구",
+      "meanings": [
+        "예"
+      ],
+      "isHighPriority159": true,
+      "diffType": "정자·신자체·간체 차이",
+      "counts": {
+        "animcjk_ko": 17,
+        "animcjk_hant": 18,
+        "makemeahanzi": 18
+      }
+    },
+    {
+      "id": "hanja-9060",
+      "character": "遠",
+      "codePoint": "U+9060",
+      "sound": "원",
+      "meanings": [
+        "멀다"
+      ],
+      "isHighPriority159": true,
+      "diffType": "辶 부수 획수·필순",
+      "counts": {
+        "animcjk_ko": 14,
+        "animcjk_hant": 14,
+        "makemeahanzi": 13
+      }
+    },
+    {
+      "id": "hanja-8FFD",
+      "character": "追",
+      "codePoint": "U+8FFD",
+      "sound": "추",
+      "meanings": [
+        "쫓다"
+      ],
+      "isHighPriority159": true,
+      "diffType": "辶 부수 획수·필순",
+      "counts": {
+        "animcjk_hant": 10,
+        "makemeahanzi": 9
+      }
+    },
+    {
+      "id": "hanja-798F",
+      "character": "福",
+      "codePoint": "U+798F",
+      "sound": "복",
+      "meanings": [
+        "복"
+      ],
+      "isHighPriority159": true,
+      "diffType": "示 부수 자형·필순",
+      "counts": {
+        "animcjk_ko": 14,
+        "animcjk_hant": 13,
+        "makemeahanzi": 13
+      }
+    },
+    {
+      "id": "hanja-82E6",
+      "character": "苦",
+      "codePoint": "U+82E6",
+      "sound": "고",
+      "meanings": [
+        "쓰다"
+      ],
+      "isHighPriority159": true,
+      "diffType": "艹 부수 획수·필순",
+      "counts": {
+        "animcjk_ko": 8,
+        "animcjk_hant": 9,
+        "makemeahanzi": 8
+      }
+    },
+    {
+      "id": "hanja-89C0",
+      "character": "觀",
+      "codePoint": "U+89C0",
+      "sound": "관",
+      "meanings": [
+        "보다"
+      ],
+      "isHighPriority159": true,
+      "diffType": "정자·신자체·간체 차이",
+      "counts": {
+        "animcjk_ko": 24,
+        "animcjk_hant": 25,
+        "makemeahanzi": 25
+      }
+    },
+    {
+      "id": "hanja-90FD",
+      "character": "都",
+      "codePoint": "U+90FD",
+      "sound": "도",
+      "meanings": [
+        "도읍"
+      ],
+      "isHighPriority159": true,
+      "diffType": "자형·획수 차이",
+      "counts": {
+        "animcjk_ko": 11,
+        "animcjk_hant": 11,
+        "makemeahanzi": 10
+      }
+    },
+    {
+      "id": "hanja-9047",
+      "character": "遇",
+      "codePoint": "U+9047",
+      "sound": "우",
+      "meanings": [
+        "만나다",
+        "대접하다"
+      ],
+      "isHighPriority159": true,
+      "diffType": "辶 부수 획수·필순",
+      "counts": {
+        "animcjk_hant": 13,
+        "makemeahanzi": 12
+      }
+    },
+    {
+      "id": "hanja-9053",
+      "character": "道",
+      "codePoint": "U+9053",
+      "sound": "도",
+      "meanings": [
+        "길",
+        "말하다"
+      ],
+      "isHighPriority159": true,
+      "diffType": "辶 부수 획수·필순",
+      "counts": {
+        "animcjk_ko": 13,
+        "animcjk_hant": 13,
+        "makemeahanzi": 12
+      }
+    },
+    {
+      "id": "hanja-6D41",
+      "character": "流",
+      "codePoint": "U+6D41",
+      "sound": "류",
+      "meanings": [
+        "흐르다"
+      ],
+      "isHighPriority159": false,
+      "diffType": "일반 한자 획수 차이",
+      "counts": {
+        "animcjk_ko": 10,
+        "animcjk_hant": 9,
+        "makemeahanzi": 10
+      }
+    },
+    {
+      "id": "hanja-85E5",
+      "character": "藥",
+      "codePoint": "U+85E5",
+      "sound": "약",
+      "meanings": [
+        "약"
+      ],
+      "isHighPriority159": true,
+      "diffType": "艹 부수 획수·필순",
+      "counts": {
+        "animcjk_ko": 18,
+        "animcjk_hant": 19,
+        "makemeahanzi": 19
+      }
+    },
+    {
+      "id": "hanja-82B1",
+      "character": "花",
+      "codePoint": "U+82B1",
+      "sound": "화",
+      "meanings": [
+        "꽃"
+      ],
+      "isHighPriority159": true,
+      "diffType": "艹 부수 획수·필순",
+      "counts": {
+        "animcjk_ko": 7,
+        "animcjk_hant": 8,
+        "makemeahanzi": 7
+      }
+    },
+    {
+      "id": "hanja-843D",
+      "character": "落",
+      "codePoint": "U+843D",
+      "sound": "락",
+      "meanings": [
+        "떨어지다"
+      ],
+      "isHighPriority159": true,
+      "diffType": "艹 부수 획수·필순",
+      "counts": {
+        "animcjk_ko": 12,
+        "animcjk_hant": 13,
+        "makemeahanzi": 12
+      }
+    },
+    {
+      "id": "hanja-9023",
+      "character": "連",
+      "codePoint": "U+9023",
+      "sound": "련",
+      "meanings": [
+        "잇다"
+      ],
+      "isHighPriority159": true,
+      "diffType": "辶 부수 획수·필순",
+      "counts": {
+        "animcjk_hant": 11,
+        "makemeahanzi": 10
+      }
+    },
+    {
+      "id": "hanja-9650",
+      "character": "限",
+      "codePoint": "U+9650",
+      "sound": "한",
+      "meanings": [
+        "한정하다"
+      ],
+      "isHighPriority159": true,
+      "diffType": "阝 부수 획수·필순",
+      "counts": {
+        "animcjk_hant": 9,
+        "makemeahanzi": 8
+      }
+    },
+    {
+      "id": "hanja-967D",
+      "character": "陽",
+      "codePoint": "U+967D",
+      "sound": "양",
+      "meanings": [
+        "볕"
+      ],
+      "isHighPriority159": true,
+      "diffType": "阝 부수 획수·필순",
+      "counts": {
+        "animcjk_ko": 12,
+        "animcjk_hant": 12,
+        "makemeahanzi": 11
+      }
+    },
+    {
+      "id": "hanja-7740",
+      "character": "着",
+      "codePoint": "U+7740",
+      "sound": "착",
+      "meanings": [
+        "붙다"
+      ],
+      "isHighPriority159": false,
+      "diffType": "일반 한자 획수 차이",
+      "counts": {
+        "animcjk_ko": 12,
+        "animcjk_hant": 12,
+        "makemeahanzi": 11
+      }
+    },
+    {
+      "id": "hanja-6562",
+      "character": "敢",
+      "codePoint": "U+6562",
+      "sound": "감",
+      "meanings": [
+        "감히"
+      ],
+      "isHighPriority159": false,
+      "diffType": "일반 한자 획수 차이",
+      "counts": {
+        "animcjk_hant": 12,
+        "makemeahanzi": 11
+      }
+    },
+    {
+      "id": "hanja-83AB",
+      "character": "莫",
+      "codePoint": "U+83AB",
+      "sound": "막",
+      "meanings": [
+        "없다"
+      ],
+      "isHighPriority159": true,
+      "diffType": "艹 부수 획수·필순",
+      "counts": {
+        "animcjk_hant": 11,
+        "makemeahanzi": 10
+      }
+    },
+    {
+      "id": "hanja-83EF",
+      "character": "華",
+      "codePoint": "U+83EF",
+      "sound": "화",
+      "meanings": [
+        "빛나다"
+      ],
+      "isHighPriority159": true,
+      "diffType": "艹 부수 획수·필순",
+      "counts": {
+        "animcjk_hant": 12,
+        "makemeahanzi": 11
+      }
+    },
+    {
+      "id": "hanja-9054",
+      "character": "達",
+      "codePoint": "U+9054",
+      "sound": "달",
+      "meanings": [
+        "통달하다"
+      ],
+      "isHighPriority159": true,
+      "diffType": "辶 부수 획수·필순",
+      "counts": {
+        "animcjk_hant": 13,
+        "makemeahanzi": 12
+      }
+    },
+    {
+      "id": "hanja-795D",
+      "character": "祝",
+      "codePoint": "U+795D",
+      "sound": "축",
+      "meanings": [
+        "빌다"
+      ],
+      "isHighPriority159": true,
+      "diffType": "示 부수 자형·필순",
+      "counts": {
+        "animcjk_ko": 10,
+        "animcjk_hant": 9,
+        "makemeahanzi": 9
+      }
+    },
+    {
+      "id": "hanja-842C",
+      "character": "萬",
+      "codePoint": "U+842C",
+      "sound": "만",
+      "meanings": [
+        "일만"
+      ],
+      "isHighPriority159": true,
+      "diffType": "艹 부수 획수·필순",
+      "counts": {
+        "animcjk_ko": 12,
+        "animcjk_hant": 13,
+        "makemeahanzi": 13
+      }
+    },
+    {
+      "id": "hanja-4EE5",
+      "character": "以",
+      "codePoint": "U+4EE5",
+      "sound": "이",
+      "meanings": [
+        "써"
+      ],
+      "isHighPriority159": false,
+      "diffType": "일반 한자 획수 차이",
+      "counts": {
+        "animcjk_ko": 5,
+        "animcjk_hant": 5,
+        "makemeahanzi": 4
+      }
+    },
+    {
+      "id": "hanja-5EAD",
+      "character": "庭",
+      "codePoint": "U+5EAD",
+      "sound": "정",
+      "meanings": [
+        "뜰"
+      ],
+      "isHighPriority159": false,
+      "diffType": "일반 한자 획수 차이",
+      "counts": {
+        "animcjk_ko": 10,
+        "animcjk_hant": 10,
+        "makemeahanzi": 9
+      }
+    },
+    {
+      "id": "hanja-79AE",
+      "character": "禮",
+      "codePoint": "U+79AE",
+      "sound": "례",
+      "meanings": [
+        "예도"
+      ],
+      "isHighPriority159": true,
+      "diffType": "示 부수 자형·필순",
+      "counts": {
+        "animcjk_ko": 18,
+        "animcjk_hant": 17,
+        "makemeahanzi": 17
+      }
+    },
+    {
+      "id": "hanja-6975",
+      "character": "極",
+      "codePoint": "U+6975",
+      "sound": "극",
+      "meanings": [
+        "다하다"
+      ],
+      "isHighPriority159": false,
+      "diffType": "일반 한자 획수 차이",
+      "counts": {
+        "animcjk_hant": 13,
+        "makemeahanzi": 12
+      }
+    }
+  ]
+}

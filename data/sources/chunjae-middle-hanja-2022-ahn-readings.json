@@ -1,0 +1,5130 @@
+{
+  "schemaVersion": 1,
+  "textbookId": "chunjae-middle-hanja-2022-ahn",
+  "sourceUrl": "https://text.tsherpa.co.kr/modal/preview_file.html?filePath=/00_교과서홍보관_중학/교과서PDF/08_한문_중국어_일본어/천재_중학_한문(안대회)_교과서.pdf",
+  "retrievedAt": "2026-10-19",
+  "scope": "public-preview-new-character-boxes",
+  "entries": [
+    {
+      "id": "unit-01-hanja-6F22",
+      "characterId": "hanja-6F22",
+      "character": "漢",
+      "unitNumber": 1,
+      "page": 14,
+      "readingText": "한 한나라"
+    },
+    {
+      "id": "unit-01-hanja-5B57",
+      "characterId": "hanja-5B57",
+      "character": "字",
+      "unitNumber": 1,
+      "page": 14,
+      "readingText": "자 글자"
+    },
+    {
+      "id": "unit-01-hanja-6587",
+      "characterId": "hanja-6587",
+      "character": "文",
+      "unitNumber": 1,
+      "page": 14,
+      "readingText": "문 글월"
+    },
+    {
+      "id": "unit-01-hanja-5B50",
+      "characterId": "hanja-5B50",
+      "character": "子",
+      "unitNumber": 1,
+      "page": 14,
+      "readingText": "자 아들"
+    },
+    {
+      "id": "unit-01-hanja-66F0",
+      "characterId": "hanja-66F0",
+      "character": "曰",
+      "unitNumber": 1,
+      "page": 14,
+      "readingText": "왈 말하다"
+    },
+    {
+      "id": "unit-01-hanja-53E3",
+      "characterId": "hanja-53E3",
+      "character": "口",
+      "unitNumber": 1,
+      "page": 14,
+      "readingText": "구 입"
+    },
+    {
+      "id": "unit-01-hanja-99AC",
+      "characterId": "hanja-99AC",
+      "character": "馬",
+      "unitNumber": 1,
+      "page": 14,
+      "readingText": "마 말"
+    },
+    {
+      "id": "unit-01-hanja-8089",
+      "characterId": "hanja-8089",
+      "character": "肉",
+      "unitNumber": 1,
+      "page": 14,
+      "readingText": "육 고기"
+    },
+    {
+      "id": "unit-01-hanja-4E2D",
+      "characterId": "hanja-4E2D",
+      "character": "中",
+      "unitNumber": 1,
+      "page": 15,
+      "readingText": "중 가운데"
+    },
+    {
+      "id": "unit-01-hanja-570B",
+      "characterId": "hanja-570B",
+      "character": "國",
+      "unitNumber": 1,
+      "page": 15,
+      "readingText": "국 나라"
+    },
+    {
+      "id": "unit-01-hanja-97D3",
+      "characterId": "hanja-97D3",
+      "character": "韓",
+      "unitNumber": 1,
+      "page": 15,
+      "readingText": "한 나라 이름"
+    },
+    {
+      "id": "unit-01-hanja-65E5",
+      "characterId": "hanja-65E5",
+      "character": "日",
+      "unitNumber": 1,
+      "page": 15,
+      "readingText": "일 날, 해"
+    },
+    {
+      "id": "unit-01-hanja-672C",
+      "characterId": "hanja-672C",
+      "character": "本",
+      "unitNumber": 1,
+      "page": 15,
+      "readingText": "본 뿌리, 근본"
+    },
+    {
+      "id": "unit-01-hanja-592A",
+      "characterId": "hanja-592A",
+      "character": "太",
+      "unitNumber": 1,
+      "page": 18,
+      "readingText": "태 크다"
+    },
+    {
+      "id": "unit-01-hanja-76EE",
+      "characterId": "hanja-76EE",
+      "character": "目",
+      "unitNumber": 1,
+      "page": 18,
+      "readingText": "목 눈"
+    },
+    {
+      "id": "unit-01-hanja-4E09",
+      "characterId": "hanja-4E09",
+      "character": "三",
+      "unitNumber": 1,
+      "page": 18,
+      "readingText": "삼 셋"
+    },
+    {
+      "id": "unit-01-hanja-5DDD",
+      "characterId": "hanja-5DDD",
+      "character": "川",
+      "unitNumber": 1,
+      "page": 18,
+      "readingText": "천 내"
+    },
+    {
+      "id": "unit-01-hanja-4EBA",
+      "characterId": "hanja-4EBA",
+      "character": "人",
+      "unitNumber": 1,
+      "page": 18,
+      "readingText": "인 사람"
+    },
+    {
+      "id": "unit-01-hanja-5341",
+      "characterId": "hanja-5341",
+      "character": "十",
+      "unitNumber": 1,
+      "page": 18,
+      "readingText": "십 열"
+    },
+    {
+      "id": "unit-01-hanja-56DE",
+      "characterId": "hanja-56DE",
+      "character": "回",
+      "unitNumber": 1,
+      "page": 18,
+      "readingText": "회 돌다"
+    },
+    {
+      "id": "unit-01-hanja-5C0F",
+      "characterId": "hanja-5C0F",
+      "character": "小",
+      "unitNumber": 1,
+      "page": 18,
+      "readingText": "소 작다"
+    },
+    {
+      "id": "unit-01-hanja-8FD1",
+      "characterId": "hanja-8FD1",
+      "character": "近",
+      "unitNumber": 1,
+      "page": 18,
+      "readingText": "근 가깝다"
+    },
+    {
+      "id": "unit-01-hanja-72AC",
+      "characterId": "hanja-72AC",
+      "character": "犬",
+      "unitNumber": 1,
+      "page": 18,
+      "readingText": "견 개"
+    },
+    {
+      "id": "unit-02-hanja-725B",
+      "characterId": "hanja-725B",
+      "character": "牛",
+      "unitNumber": 2,
+      "page": 20,
+      "readingText": "우 소"
+    },
+    {
+      "id": "unit-02-hanja-6708",
+      "characterId": "hanja-6708",
+      "character": "月",
+      "unitNumber": 2,
+      "page": 20,
+      "readingText": "월 달"
+    },
+    {
+      "id": "unit-02-hanja-706B",
+      "characterId": "hanja-706B",
+      "character": "火",
+      "unitNumber": 2,
+      "page": 20,
+      "readingText": "화 불"
+    },
+    {
+      "id": "unit-02-hanja-5C71",
+      "characterId": "hanja-5C71",
+      "character": "山",
+      "unitNumber": 2,
+      "page": 20,
+      "readingText": "산 산"
+    },
+    {
+      "id": "unit-02-hanja-4E0A",
+      "characterId": "hanja-4E0A",
+      "character": "上",
+      "unitNumber": 2,
+      "page": 21,
+      "readingText": "상 위"
+    },
+    {
+      "id": "unit-02-hanja-4E0B",
+      "characterId": "hanja-4E0B",
+      "character": "下",
+      "unitNumber": 2,
+      "page": 21,
+      "readingText": "하 아래"
+    },
+    {
+      "id": "unit-02-hanja-672B",
+      "characterId": "hanja-672B",
+      "character": "末",
+      "unitNumber": 2,
+      "page": 21,
+      "readingText": "말 끝"
+    },
+    {
+      "id": "unit-02-hanja-4E00",
+      "characterId": "hanja-4E00",
+      "character": "一",
+      "unitNumber": 2,
+      "page": 21,
+      "readingText": "일 하나"
+    },
+    {
+      "id": "unit-02-hanja-6C34",
+      "characterId": "hanja-6C34",
+      "character": "水",
+      "unitNumber": 2,
+      "page": 26,
+      "readingText": "수 물"
+    },
+    {
+      "id": "unit-02-hanja-6728",
+      "characterId": "hanja-6728",
+      "character": "木",
+      "unitNumber": 2,
+      "page": 26,
+      "readingText": "목 나무"
+    },
+    {
+      "id": "unit-02-hanja-91D1",
+      "characterId": "hanja-91D1",
+      "character": "金",
+      "unitNumber": 2,
+      "page": 26,
+      "readingText": "금 쇠"
+    },
+    {
+      "id": "unit-02-hanja-571F",
+      "characterId": "hanja-571F",
+      "character": "土",
+      "unitNumber": 2,
+      "page": 26,
+      "readingText": "토 흙"
+    },
+    {
+      "id": "unit-02-hanja-4E8C",
+      "characterId": "hanja-4E8C",
+      "character": "二",
+      "unitNumber": 2,
+      "page": 26,
+      "readingText": "이 둘"
+    },
+    {
+      "id": "unit-02-hanja-56DB",
+      "characterId": "hanja-56DB",
+      "character": "四",
+      "unitNumber": 2,
+      "page": 26,
+      "readingText": "사 넷"
+    },
+    {
+      "id": "unit-02-hanja-4E94",
+      "characterId": "hanja-4E94",
+      "character": "五",
+      "unitNumber": 2,
+      "page": 26,
+      "readingText": "오 다섯"
+    },
+    {
+      "id": "unit-02-hanja-516D",
+      "characterId": "hanja-516D",
+      "character": "六",
+      "unitNumber": 2,
+      "page": 26,
+      "readingText": "륙 여섯"
+    },
+    {
+      "id": "unit-02-hanja-4E03",
+      "characterId": "hanja-4E03",
+      "character": "七",
+      "unitNumber": 2,
+      "page": 26,
+      "readingText": "칠 일곱"
+    },
+    {
+      "id": "unit-02-hanja-516B",
+      "characterId": "hanja-516B",
+      "character": "八",
+      "unitNumber": 2,
+      "page": 26,
+      "readingText": "팔 여덟"
+    },
+    {
+      "id": "unit-02-hanja-4E5D",
+      "characterId": "hanja-4E5D",
+      "character": "九",
+      "unitNumber": 2,
+      "page": 26,
+      "readingText": "구 아홉"
+    },
+    {
+      "id": "unit-02-hanja-8ECD",
+      "characterId": "hanja-8ECD",
+      "character": "軍",
+      "unitNumber": 2,
+      "page": 26,
+      "readingText": "군 군사"
+    },
+    {
+      "id": "unit-02-hanja-5C11",
+      "characterId": "hanja-5C11",
+      "character": "少",
+      "unitNumber": 2,
+      "page": 26,
+      "readingText": "소 적다"
+    },
+    {
+      "id": "unit-02-hanja-5E74",
+      "characterId": "hanja-5E74",
+      "character": "年",
+      "unitNumber": 2,
+      "page": 26,
+      "readingText": "년 해"
+    },
+    {
+      "id": "unit-02-hanja-6642",
+      "characterId": "hanja-6642",
+      "character": "時",
+      "unitNumber": 2,
+      "page": 26,
+      "readingText": "시 때"
+    },
+    {
+      "id": "unit-02-hanja-8A08",
+      "characterId": "hanja-8A08",
+      "character": "計",
+      "unitNumber": 2,
+      "page": 26,
+      "readingText": "계 세다"
+    },
+    {
+      "id": "unit-02-hanja-5927",
+      "characterId": "hanja-5927",
+      "character": "大",
+      "unitNumber": 2,
+      "page": 26,
+      "readingText": "대 크다"
+    },
+    {
+      "id": "unit-02-hanja-7537",
+      "characterId": "hanja-7537",
+      "character": "男",
+      "unitNumber": 2,
+      "page": 26,
+      "readingText": "남 남자"
+    },
+    {
+      "id": "unit-02-hanja-5973",
+      "characterId": "hanja-5973",
+      "character": "女",
+      "unitNumber": 2,
+      "page": 26,
+      "readingText": "녀 여자"
+    },
+    {
+      "id": "unit-03-hanja-597D",
+      "characterId": "hanja-597D",
+      "character": "好",
+      "unitNumber": 3,
+      "page": 28,
+      "readingText": "호 좋다"
+    },
+    {
+      "id": "unit-03-hanja-6797",
+      "characterId": "hanja-6797",
+      "character": "林",
+      "unitNumber": 3,
+      "page": 28,
+      "readingText": "림 수풀"
+    },
+    {
+      "id": "unit-03-hanja-4F11",
+      "characterId": "hanja-4F11",
+      "character": "休",
+      "unitNumber": 3,
+      "page": 28,
+      "readingText": "휴 쉬다"
+    },
+    {
+      "id": "unit-03-hanja-708E",
+      "characterId": "hanja-708E",
+      "character": "炎",
+      "unitNumber": 3,
+      "page": 28,
+      "readingText": "염 불꽃"
+    },
+    {
+      "id": "unit-03-hanja-9580",
+      "characterId": "hanja-9580",
+      "character": "門",
+      "unitNumber": 3,
+      "page": 29,
+      "readingText": "문 문"
+    },
+    {
+      "id": "unit-03-hanja-8033",
+      "characterId": "hanja-8033",
+      "character": "耳",
+      "unitNumber": 3,
+      "page": 29,
+      "readingText": "이 귀"
+    },
+    {
+      "id": "unit-03-hanja-805E",
+      "characterId": "hanja-805E",
+      "character": "聞",
+      "unitNumber": 3,
+      "page": 29,
+      "readingText": "문 듣다"
+    },
+    {
+      "id": "unit-03-hanja-554F",
+      "characterId": "hanja-554F",
+      "character": "問",
+      "unitNumber": 3,
+      "page": 29,
+      "readingText": "문 묻다"
+    },
+    {
+      "id": "unit-03-hanja-8CA1",
+      "characterId": "hanja-8CA1",
+      "character": "財",
+      "unitNumber": 3,
+      "page": 29,
+      "readingText": "재 재물"
+    },
+    {
+      "id": "unit-03-hanja-5FD8",
+      "characterId": "hanja-5FD8",
+      "character": "忘",
+      "unitNumber": 3,
+      "page": 29,
+      "readingText": "망 잊다"
+    },
+    {
+      "id": "unit-03-hanja-624D",
+      "characterId": "hanja-624D",
+      "character": "才",
+      "unitNumber": 3,
+      "page": 29,
+      "readingText": "재 재주"
+    },
+    {
+      "id": "unit-03-hanja-8C9D",
+      "characterId": "hanja-8C9D",
+      "character": "貝",
+      "unitNumber": 3,
+      "page": 29,
+      "readingText": "패 조개"
+    },
+    {
+      "id": "unit-03-hanja-5FC3",
+      "characterId": "hanja-5FC3",
+      "character": "心",
+      "unitNumber": 3,
+      "page": 29,
+      "readingText": "심 마음"
+    },
+    {
+      "id": "unit-03-hanja-4EA1",
+      "characterId": "hanja-4EA1",
+      "character": "亡",
+      "unitNumber": 3,
+      "page": 29,
+      "readingText": "망 망하다"
+    },
+    {
+      "id": "unit-03-hanja-6D77",
+      "characterId": "hanja-6D77",
+      "character": "海",
+      "unitNumber": 3,
+      "page": 34,
+      "readingText": "해 바다"
+    },
+    {
+      "id": "unit-03-hanja-8CDE",
+      "characterId": "hanja-8CDE",
+      "character": "賞",
+      "unitNumber": 3,
+      "page": 34,
+      "readingText": "상 상 주다"
+    },
+    {
+      "id": "unit-03-hanja-624B",
+      "characterId": "hanja-624B",
+      "character": "手",
+      "unitNumber": 3,
+      "page": 34,
+      "readingText": "수 손"
+    },
+    {
+      "id": "unit-03-hanja-6253",
+      "characterId": "hanja-6253",
+      "character": "打",
+      "unitNumber": 3,
+      "page": 34,
+      "readingText": "타 때리다"
+    },
+    {
+      "id": "unit-03-hanja-96E8",
+      "characterId": "hanja-96E8",
+      "character": "雨",
+      "unitNumber": 3,
+      "page": 34,
+      "readingText": "우 비"
+    },
+    {
+      "id": "unit-03-hanja-971C",
+      "characterId": "hanja-971C",
+      "character": "霜",
+      "unitNumber": 3,
+      "page": 34,
+      "readingText": "상 서리"
+    },
+    {
+      "id": "unit-03-hanja-5200",
+      "characterId": "hanja-5200",
+      "character": "刀",
+      "unitNumber": 3,
+      "page": 34,
+      "readingText": "도 칼"
+    },
+    {
+      "id": "unit-03-hanja-4ED9",
+      "characterId": "hanja-4ED9",
+      "character": "仙",
+      "unitNumber": 3,
+      "page": 34,
+      "readingText": "선 신선"
+    },
+    {
+      "id": "unit-03-hanja-5FD9",
+      "characterId": "hanja-5FD9",
+      "character": "忙",
+      "unitNumber": 3,
+      "page": 34,
+      "readingText": "망 바쁘다"
+    },
+    {
+      "id": "unit-03-hanja-6C5F",
+      "characterId": "hanja-6C5F",
+      "character": "江",
+      "unitNumber": 3,
+      "page": 34,
+      "readingText": "강 강"
+    },
+    {
+      "id": "unit-03-hanja-6307",
+      "characterId": "hanja-6307",
+      "character": "指",
+      "unitNumber": 3,
+      "page": 34,
+      "readingText": "지 가리키다"
+    },
+    {
+      "id": "unit-03-hanja-5211",
+      "characterId": "hanja-5211",
+      "character": "刑",
+      "unitNumber": 3,
+      "page": 34,
+      "readingText": "형 형벌"
+    },
+    {
+      "id": "unit-03-hanja-5473",
+      "characterId": "hanja-5473",
+      "character": "味",
+      "unitNumber": 3,
+      "page": 34,
+      "readingText": "미 맛"
+    },
+    {
+      "id": "unit-03-hanja-8DB3",
+      "characterId": "hanja-8DB3",
+      "character": "足",
+      "unitNumber": 3,
+      "page": 34,
+      "readingText": "족 발"
+    },
+    {
+      "id": "unit-03-hanja-982D",
+      "characterId": "hanja-982D",
+      "character": "頭",
+      "unitNumber": 3,
+      "page": 34,
+      "readingText": "두 머리"
+    },
+    {
+      "id": "unit-03-hanja-89D2",
+      "characterId": "hanja-89D2",
+      "character": "角",
+      "unitNumber": 3,
+      "page": 34,
+      "readingText": "각 뿔"
+    },
+    {
+      "id": "unit-04-hanja-81EA",
+      "characterId": "hanja-81EA",
+      "character": "自",
+      "unitNumber": 4,
+      "page": 40,
+      "readingText": "자 스스로"
+    },
+    {
+      "id": "unit-04-hanja-59D3",
+      "characterId": "hanja-59D3",
+      "character": "姓",
+      "unitNumber": 4,
+      "page": 42,
+      "readingText": "성 성씨"
+    },
+    {
+      "id": "unit-04-hanja-540D",
+      "characterId": "hanja-540D",
+      "character": "名",
+      "unitNumber": 4,
+      "page": 42,
+      "readingText": "명 이름"
+    },
+    {
+      "id": "unit-04-hanja-4F4F",
+      "characterId": "hanja-4F4F",
+      "character": "住",
+      "unitNumber": 4,
+      "page": 42,
+      "readingText": "주 살다"
+    },
+    {
+      "id": "unit-04-hanja-6240",
+      "characterId": "hanja-6240",
+      "character": "所",
+      "unitNumber": 4,
+      "page": 42,
+      "readingText": "소 바, 곳"
+    },
+    {
+      "id": "unit-04-hanja-9078",
+      "characterId": "hanja-9078",
+      "character": "選",
+      "unitNumber": 4,
+      "page": 42,
+      "readingText": "선 가리다"
+    },
+    {
+      "id": "unit-04-hanja-8208",
+      "characterId": "hanja-8208",
+      "character": "興",
+      "unitNumber": 4,
+      "page": 43,
+      "readingText": "흥 일어나다"
+    },
+    {
+      "id": "unit-04-hanja-95DC",
+      "characterId": "hanja-95DC",
+      "character": "關",
+      "unitNumber": 4,
+      "page": 43,
+      "readingText": "관 관계하다"
+    },
+    {
+      "id": "unit-04-hanja-9032",
+      "characterId": "hanja-9032",
+      "character": "進",
+      "unitNumber": 4,
+      "page": 43,
+      "readingText": "진 나아가다"
+    },
+    {
+      "id": "unit-04-hanja-8DEF",
+      "characterId": "hanja-8DEF",
+      "character": "路",
+      "unitNumber": 4,
+      "page": 43,
+      "readingText": "로 길"
+    },
+    {
+      "id": "unit-04-hanja-5317",
+      "characterId": "hanja-5317",
+      "character": "北",
+      "unitNumber": 4,
+      "page": 46,
+      "readingText": "북 북쪽"
+    },
+    {
+      "id": "unit-04-hanja-897F",
+      "characterId": "hanja-897F",
+      "character": "西",
+      "unitNumber": 4,
+      "page": 46,
+      "readingText": "서 서쪽"
+    },
+    {
+      "id": "unit-04-hanja-5357",
+      "characterId": "hanja-5357",
+      "character": "南",
+      "unitNumber": 4,
+      "page": 46,
+      "readingText": "남 남쪽"
+    },
+    {
+      "id": "unit-04-hanja-6771",
+      "characterId": "hanja-6771",
+      "character": "東",
+      "unitNumber": 4,
+      "page": 46,
+      "readingText": "동 동쪽"
+    },
+    {
+      "id": "unit-04-hanja-9000",
+      "characterId": "hanja-9000",
+      "character": "退",
+      "unitNumber": 4,
+      "page": 46,
+      "readingText": "퇴 물러나다"
+    },
+    {
+      "id": "unit-04-hanja-51FA",
+      "characterId": "hanja-51FA",
+      "character": "出",
+      "unitNumber": 4,
+      "page": 46,
+      "readingText": "출 나다"
+    },
+    {
+      "id": "unit-04-hanja-5165",
+      "characterId": "hanja-5165",
+      "character": "入",
+      "unitNumber": 4,
+      "page": 46,
+      "readingText": "입 들다"
+    },
+    {
+      "id": "unit-04-hanja-671B",
+      "characterId": "hanja-671B",
+      "character": "望",
+      "unitNumber": 4,
+      "page": 46,
+      "readingText": "망 바라다"
+    },
+    {
+      "id": "unit-04-hanja-4FE1",
+      "characterId": "hanja-4FE1",
+      "character": "信",
+      "unitNumber": 4,
+      "page": 46,
+      "readingText": "신 믿다"
+    },
+    {
+      "id": "unit-04-hanja-9858",
+      "characterId": "hanja-9858",
+      "character": "願",
+      "unitNumber": 4,
+      "page": 46,
+      "readingText": "원 원하다"
+    },
+    {
+      "id": "unit-04-hanja-5BB6",
+      "characterId": "hanja-5BB6",
+      "character": "家",
+      "unitNumber": 4,
+      "page": 46,
+      "readingText": "가 집"
+    },
+    {
+      "id": "unit-04-hanja-65CF",
+      "characterId": "hanja-65CF",
+      "character": "族",
+      "unitNumber": 4,
+      "page": 46,
+      "readingText": "족 겨레"
+    },
+    {
+      "id": "unit-04-hanja-89AA",
+      "characterId": "hanja-89AA",
+      "character": "親",
+      "unitNumber": 4,
+      "page": 46,
+      "readingText": "친 친하다"
+    },
+    {
+      "id": "unit-04-hanja-7956",
+      "characterId": "hanja-7956",
+      "character": "祖",
+      "unitNumber": 4,
+      "page": 46,
+      "readingText": "조 할아버지"
+    },
+    {
+      "id": "unit-04-hanja-7236",
+      "characterId": "hanja-7236",
+      "character": "父",
+      "unitNumber": 4,
+      "page": 46,
+      "readingText": "부 아버지"
+    },
+    {
+      "id": "unit-04-hanja-6BCD",
+      "characterId": "hanja-6BCD",
+      "character": "母",
+      "unitNumber": 4,
+      "page": 46,
+      "readingText": "모 어머니"
+    },
+    {
+      "id": "unit-04-hanja-5144",
+      "characterId": "hanja-5144",
+      "character": "兄",
+      "unitNumber": 4,
+      "page": 46,
+      "readingText": "형 형"
+    },
+    {
+      "id": "unit-04-hanja-5F1F",
+      "characterId": "hanja-5F1F",
+      "character": "弟",
+      "unitNumber": 4,
+      "page": 46,
+      "readingText": "제 아우"
+    },
+    {
+      "id": "unit-04-hanja-59C9",
+      "characterId": "hanja-59C9",
+      "character": "姉",
+      "unitNumber": 4,
+      "page": 46,
+      "readingText": "자 손위 누이"
+    },
+    {
+      "id": "unit-04-hanja-59B9",
+      "characterId": "hanja-59B9",
+      "character": "妹",
+      "unitNumber": 4,
+      "page": 46,
+      "readingText": "매 손아래 누이"
+    },
+    {
+      "id": "unit-04-hanja-5BF8",
+      "characterId": "hanja-5BF8",
+      "character": "寸",
+      "unitNumber": 4,
+      "page": 46,
+      "readingText": "촌 마디"
+    },
+    {
+      "id": "unit-04-hanja-6578",
+      "characterId": "hanja-6578",
+      "character": "數",
+      "unitNumber": 4,
+      "page": 46,
+      "readingText": "수 세다"
+    },
+    {
+      "id": "unit-05-hanja-5B78",
+      "characterId": "hanja-5B78",
+      "character": "學",
+      "unitNumber": 5,
+      "page": 48,
+      "readingText": "학 배우다"
+    },
+    {
+      "id": "unit-05-hanja-6821",
+      "characterId": "hanja-6821",
+      "character": "校",
+      "unitNumber": 5,
+      "page": 48,
+      "readingText": "교 학교"
+    },
+    {
+      "id": "unit-05-hanja-79D1",
+      "characterId": "hanja-79D1",
+      "character": "科",
+      "unitNumber": 5,
+      "page": 48,
+      "readingText": "과 과목"
+    },
+    {
+      "id": "unit-05-hanja-767B",
+      "characterId": "hanja-767B",
+      "character": "登",
+      "unitNumber": 5,
+      "page": 50,
+      "readingText": "등 오르다"
+    },
+    {
+      "id": "unit-05-hanja-6388",
+      "characterId": "hanja-6388",
+      "character": "授",
+      "unitNumber": 5,
+      "page": 50,
+      "readingText": "수 주다"
+    },
+    {
+      "id": "unit-05-hanja-696D",
+      "characterId": "hanja-696D",
+      "character": "業",
+      "unitNumber": 5,
+      "page": 50,
+      "readingText": "업 일"
+    },
+    {
+      "id": "unit-05-hanja-591A",
+      "characterId": "hanja-591A",
+      "character": "多",
+      "unitNumber": 5,
+      "page": 50,
+      "readingText": "다 많다"
+    },
+    {
+      "id": "unit-05-hanja-60C5",
+      "characterId": "hanja-60C5",
+      "character": "情",
+      "unitNumber": 5,
+      "page": 50,
+      "readingText": "정 뜻, 정"
+    },
+    {
+      "id": "unit-05-hanja-8CE3",
+      "characterId": "hanja-8CE3",
+      "character": "賣",
+      "unitNumber": 5,
+      "page": 51,
+      "readingText": "매 팔다"
+    },
+    {
+      "id": "unit-05-hanja-5E97",
+      "characterId": "hanja-5E97",
+      "character": "店",
+      "unitNumber": 5,
+      "page": 51,
+      "readingText": "점 가게"
+    },
+    {
+      "id": "unit-05-hanja-7D66",
+      "characterId": "hanja-7D66",
+      "character": "給",
+      "unitNumber": 5,
+      "page": 51,
+      "readingText": "급 주다"
+    },
+    {
+      "id": "unit-05-hanja-98DF",
+      "characterId": "hanja-98DF",
+      "character": "食",
+      "unitNumber": 5,
+      "page": 51,
+      "readingText": "식 먹다"
+    },
+    {
+      "id": "unit-05-hanja-653E",
+      "characterId": "hanja-653E",
+      "character": "放",
+      "unitNumber": 5,
+      "page": 51,
+      "readingText": "방 놓다"
+    },
+    {
+      "id": "unit-05-hanja-958B",
+      "characterId": "hanja-958B",
+      "character": "開",
+      "unitNumber": 5,
+      "page": 54,
+      "readingText": "개 열다"
+    },
+    {
+      "id": "unit-05-hanja-5546",
+      "characterId": "hanja-5546",
+      "character": "商",
+      "unitNumber": 5,
+      "page": 54,
+      "readingText": "상 장사"
+    },
+    {
+      "id": "unit-05-hanja-66F8",
+      "characterId": "hanja-66F8",
+      "character": "書",
+      "unitNumber": 5,
+      "page": 54,
+      "readingText": "서 책"
+    },
+    {
+      "id": "unit-05-hanja-9589",
+      "characterId": "hanja-9589",
+      "character": "閉",
+      "unitNumber": 5,
+      "page": 54,
+      "readingText": "폐 닫다"
+    },
+    {
+      "id": "unit-05-hanja-8CB7",
+      "characterId": "hanja-8CB7",
+      "character": "買",
+      "unitNumber": 5,
+      "page": 54,
+      "readingText": "매 사다"
+    },
+    {
+      "id": "unit-05-hanja-53D7",
+      "characterId": "hanja-53D7",
+      "character": "受",
+      "unitNumber": 5,
+      "page": 54,
+      "readingText": "수 받다"
+    },
+    {
+      "id": "unit-05-hanja-654E",
+      "characterId": "hanja-654E",
+      "character": "敎",
+      "unitNumber": 5,
+      "page": 54,
+      "readingText": "교 가르치다"
+    },
+    {
+      "id": "unit-05-hanja-5BA4",
+      "characterId": "hanja-5BA4",
+      "character": "室",
+      "unitNumber": 5,
+      "page": 54,
+      "readingText": "실 집"
+    },
+    {
+      "id": "unit-05-hanja-80B2",
+      "characterId": "hanja-80B2",
+      "character": "育",
+      "unitNumber": 5,
+      "page": 54,
+      "readingText": "육 기르다"
+    },
+    {
+      "id": "unit-05-hanja-8A13",
+      "characterId": "hanja-8A13",
+      "character": "訓",
+      "unitNumber": 5,
+      "page": 54,
+      "readingText": "훈 가르치다"
+    },
+    {
+      "id": "unit-05-hanja-904E",
+      "characterId": "hanja-904E",
+      "character": "過",
+      "unitNumber": 5,
+      "page": 54,
+      "readingText": "과 지나다"
+    },
+    {
+      "id": "unit-05-hanja-53BB",
+      "characterId": "hanja-53BB",
+      "character": "去",
+      "unitNumber": 5,
+      "page": 54,
+      "readingText": "거 가다"
+    },
+    {
+      "id": "unit-05-hanja-64E7",
+      "characterId": "hanja-64E7",
+      "character": "擧",
+      "unitNumber": 5,
+      "page": 54,
+      "readingText": "거 들다"
+    },
+    {
+      "id": "unit-05-hanja-9632",
+      "characterId": "hanja-9632",
+      "character": "防",
+      "unitNumber": 5,
+      "page": 54,
+      "readingText": "방 막다"
+    },
+    {
+      "id": "unit-05-hanja-7D93",
+      "characterId": "hanja-7D93",
+      "character": "經",
+      "unitNumber": 5,
+      "page": 54,
+      "readingText": "경 글, 지나다"
+    },
+    {
+      "id": "unit-05-hanja-656C",
+      "characterId": "hanja-656C",
+      "character": "敬",
+      "unitNumber": 5,
+      "page": 54,
+      "readingText": "경 공경"
+    },
+    {
+      "id": "unit-05-hanja-8001",
+      "characterId": "hanja-8001",
+      "character": "老",
+      "unitNumber": 5,
+      "page": 54,
+      "readingText": "로 늙다"
+    },
+    {
+      "id": "unit-06-hanja-8005",
+      "characterId": "hanja-8005",
+      "character": "者",
+      "unitNumber": 6,
+      "page": 56,
+      "readingText": "자 사람"
+    },
+    {
+      "id": "unit-06-hanja-5929",
+      "characterId": "hanja-5929",
+      "character": "天",
+      "unitNumber": 6,
+      "page": 58,
+      "readingText": "천 하늘"
+    },
+    {
+      "id": "unit-06-hanja-5E72",
+      "characterId": "hanja-5E72",
+      "character": "干",
+      "unitNumber": 6,
+      "page": 58,
+      "readingText": "간 방패, 천간"
+    },
+    {
+      "id": "unit-06-hanja-5730",
+      "characterId": "hanja-5730",
+      "character": "地",
+      "unitNumber": 6,
+      "page": 58,
+      "readingText": "지 땅"
+    },
+    {
+      "id": "unit-06-hanja-652F",
+      "characterId": "hanja-652F",
+      "character": "支",
+      "unitNumber": 6,
+      "page": 58,
+      "readingText": "지 지탱하다, 지지"
+    },
+    {
+      "id": "unit-06-hanja-540C",
+      "characterId": "hanja-540C",
+      "character": "同",
+      "unitNumber": 6,
+      "page": 58,
+      "readingText": "동 같다"
+    },
+    {
+      "id": "unit-06-hanja-7532",
+      "characterId": "hanja-7532",
+      "character": "甲",
+      "unitNumber": 6,
+      "page": 58,
+      "readingText": "갑 갑옷, 첫째 천간"
+    },
+    {
+      "id": "unit-06-hanja-6B63",
+      "characterId": "hanja-6B63",
+      "character": "正",
+      "unitNumber": 6,
+      "page": 58,
+      "readingText": "정 바르다"
+    },
+    {
+      "id": "unit-06-hanja-5348",
+      "characterId": "hanja-5348",
+      "character": "午",
+      "unitNumber": 6,
+      "page": 58,
+      "readingText": "오 낮, 일곱째 지지"
+    },
+    {
+      "id": "unit-06-hanja-5F8C",
+      "characterId": "hanja-5F8C",
+      "character": "後",
+      "unitNumber": 6,
+      "page": 58,
+      "readingText": "후 뒤"
+    },
+    {
+      "id": "unit-06-hanja-6539",
+      "characterId": "hanja-6539",
+      "character": "改",
+      "unitNumber": 6,
+      "page": 58,
+      "readingText": "개 고치다"
+    },
+    {
+      "id": "unit-06-hanja-9769",
+      "characterId": "hanja-9769",
+      "character": "革",
+      "unitNumber": 6,
+      "page": 58,
+      "readingText": "혁 가죽, 바꾸다"
+    },
+    {
+      "id": "unit-06-hanja-5C45",
+      "characterId": "hanja-5C45",
+      "character": "居",
+      "unitNumber": 6,
+      "page": 62,
+      "readingText": "거 살다"
+    },
+    {
+      "id": "unit-06-hanja-97F3",
+      "characterId": "hanja-97F3",
+      "character": "音",
+      "unitNumber": 6,
+      "page": 62,
+      "readingText": "음 소리"
+    },
+    {
+      "id": "unit-06-hanja-5316",
+      "characterId": "hanja-5316",
+      "character": "化",
+      "unitNumber": 6,
+      "page": 62,
+      "readingText": "화 되다"
+    },
+    {
+      "id": "unit-06-hanja-5171",
+      "characterId": "hanja-5171",
+      "character": "共",
+      "unitNumber": 6,
+      "page": 62,
+      "readingText": "공 함께"
+    },
+    {
+      "id": "unit-06-hanja-524D",
+      "characterId": "hanja-524D",
+      "character": "前",
+      "unitNumber": 6,
+      "page": 62,
+      "readingText": "전 앞"
+    },
+    {
+      "id": "unit-06-hanja-5DE6",
+      "characterId": "hanja-5DE6",
+      "character": "左",
+      "unitNumber": 6,
+      "page": 62,
+      "readingText": "좌 왼쪽"
+    },
+    {
+      "id": "unit-06-hanja-53F3",
+      "characterId": "hanja-53F3",
+      "character": "右",
+      "unitNumber": 6,
+      "page": 62,
+      "readingText": "우 오른쪽"
+    },
+    {
+      "id": "unit-06-hanja-7B54",
+      "characterId": "hanja-7B54",
+      "character": "答",
+      "unitNumber": 6,
+      "page": 62,
+      "readingText": "답 대답하다"
+    },
+    {
+      "id": "unit-06-hanja-8AA4",
+      "characterId": "hanja-8AA4",
+      "character": "誤",
+      "unitNumber": 6,
+      "page": 62,
+      "readingText": "오 그르치다"
+    },
+    {
+      "id": "unit-06-hanja-76F4",
+      "characterId": "hanja-76F4",
+      "character": "直",
+      "unitNumber": 6,
+      "page": 62,
+      "readingText": "직 곧다"
+    },
+    {
+      "id": "unit-06-hanja-6625",
+      "characterId": "hanja-6625",
+      "character": "春",
+      "unitNumber": 6,
+      "page": 62,
+      "readingText": "춘 봄"
+    },
+    {
+      "id": "unit-06-hanja-590F",
+      "characterId": "hanja-590F",
+      "character": "夏",
+      "unitNumber": 6,
+      "page": 62,
+      "readingText": "하 여름"
+    },
+    {
+      "id": "unit-06-hanja-79CB",
+      "characterId": "hanja-79CB",
+      "character": "秋",
+      "unitNumber": 6,
+      "page": 62,
+      "readingText": "추 가을"
+    },
+    {
+      "id": "unit-06-hanja-51AC",
+      "characterId": "hanja-51AC",
+      "character": "冬",
+      "unitNumber": 6,
+      "page": 62,
+      "readingText": "동 겨울"
+    },
+    {
+      "id": "unit-06-hanja-7ACB",
+      "characterId": "hanja-7ACB",
+      "character": "立",
+      "unitNumber": 6,
+      "page": 62,
+      "readingText": "립 서다"
+    },
+    {
+      "id": "unit-06-hanja-5BD2",
+      "characterId": "hanja-5BD2",
+      "character": "寒",
+      "unitNumber": 6,
+      "page": 62,
+      "readingText": "한 차다"
+    },
+    {
+      "id": "unit-06-hanja-81F3",
+      "characterId": "hanja-81F3",
+      "character": "至",
+      "unitNumber": 6,
+      "page": 62,
+      "readingText": "지 이르다"
+    },
+    {
+      "id": "unit-06-hanja-767D",
+      "characterId": "hanja-767D",
+      "character": "白",
+      "unitNumber": 6,
+      "page": 62,
+      "readingText": "백 희다"
+    },
+    {
+      "id": "unit-06-hanja-9732",
+      "characterId": "hanja-9732",
+      "character": "露",
+      "unitNumber": 6,
+      "page": 62,
+      "readingText": "로 이슬"
+    },
+    {
+      "id": "unit-07-hanja-9577",
+      "characterId": "hanja-9577",
+      "character": "長",
+      "unitNumber": 7,
+      "page": 68,
+      "readingText": "장 길다"
+    },
+    {
+      "id": "unit-07-hanja-5834",
+      "characterId": "hanja-5834",
+      "character": "場",
+      "unitNumber": 7,
+      "page": 68,
+      "readingText": "장 마당"
+    },
+    {
+      "id": "unit-07-hanja-5C07",
+      "characterId": "hanja-5C07",
+      "character": "將",
+      "unitNumber": 7,
+      "page": 68,
+      "readingText": "장 장수"
+    },
+    {
+      "id": "unit-07-hanja-5FD7",
+      "characterId": "hanja-5FD7",
+      "character": "志",
+      "unitNumber": 7,
+      "page": 70,
+      "readingText": "지 뜻"
+    },
+    {
+      "id": "unit-07-hanja-52A9",
+      "characterId": "hanja-52A9",
+      "character": "助",
+      "unitNumber": 7,
+      "page": 70,
+      "readingText": "조 돕다"
+    },
+    {
+      "id": "unit-07-hanja-76CA",
+      "characterId": "hanja-76CA",
+      "character": "益",
+      "unitNumber": 7,
+      "page": 70,
+      "readingText": "익 더하다, 더욱"
+    },
+    {
+      "id": "unit-07-hanja-58EF",
+      "characterId": "hanja-58EF",
+      "character": "壯",
+      "unitNumber": 7,
+      "page": 70,
+      "readingText": "장 씩씩하다"
+    },
+    {
+      "id": "unit-07-hanja-5343",
+      "characterId": "hanja-5343",
+      "character": "千",
+      "unitNumber": 7,
+      "page": 70,
+      "readingText": "천 일천"
+    },
+    {
+      "id": "unit-07-hanja-91CC",
+      "characterId": "hanja-91CC",
+      "character": "里",
+      "unitNumber": 7,
+      "page": 70,
+      "readingText": "리 마을, 거리 단위"
+    },
+    {
+      "id": "unit-07-hanja-773C",
+      "characterId": "hanja-773C",
+      "character": "眼",
+      "unitNumber": 7,
+      "page": 70,
+      "readingText": "안 눈"
+    },
+    {
+      "id": "unit-07-hanja-9435",
+      "characterId": "hanja-9435",
+      "character": "鐵",
+      "unitNumber": 7,
+      "page": 70,
+      "readingText": "철 쇠"
+    },
+    {
+      "id": "unit-07-hanja-9762",
+      "characterId": "hanja-9762",
+      "character": "面",
+      "unitNumber": 7,
+      "page": 70,
+      "readingText": "면 얼굴"
+    },
+    {
+      "id": "unit-07-hanja-76AE",
+      "characterId": "hanja-76AE",
+      "character": "皮",
+      "unitNumber": 7,
+      "page": 70,
+      "readingText": "피 가죽"
+    },
+    {
+      "id": "unit-07-hanja-5047",
+      "characterId": "hanja-5047",
+      "character": "假",
+      "unitNumber": 7,
+      "page": 74,
+      "readingText": "가 거짓"
+    },
+    {
+      "id": "unit-07-hanja-5C0D",
+      "characterId": "hanja-5C0D",
+      "character": "對",
+      "unitNumber": 7,
+      "page": 74,
+      "readingText": "대 대하다"
+    },
+    {
+      "id": "unit-07-hanja-9854",
+      "characterId": "hanja-9854",
+      "character": "顔",
+      "unitNumber": 7,
+      "page": 74,
+      "readingText": "안 얼굴"
+    },
+    {
+      "id": "unit-07-hanja-756B",
+      "characterId": "hanja-756B",
+      "character": "畫",
+      "unitNumber": 7,
+      "page": 74,
+      "readingText": "화 그림",
+      "transcriptionNote": "교과서 본문 74쪽·부록 207쪽 정자 畫(U+756B, 12획) 육안 대조 확정"
+    },
+    {
+      "id": "unit-07-hanja-77ED",
+      "characterId": "hanja-77ED",
+      "character": "短",
+      "unitNumber": 7,
+      "page": 74,
+      "readingText": "단 짧다"
+    },
+    {
+      "id": "unit-07-hanja-9AD8",
+      "characterId": "hanja-9AD8",
+      "character": "高",
+      "unitNumber": 7,
+      "page": 74,
+      "readingText": "고 높다"
+    },
+    {
+      "id": "unit-07-hanja-4F4E",
+      "characterId": "hanja-4F4E",
+      "character": "低",
+      "unitNumber": 7,
+      "page": 74,
+      "readingText": "저 낮다"
+    },
+    {
+      "id": "unit-07-hanja-6551",
+      "characterId": "hanja-6551",
+      "character": "救",
+      "unitNumber": 7,
+      "page": 74,
+      "readingText": "구 구원하다"
+    },
+    {
+      "id": "unit-07-hanja-6276",
+      "characterId": "hanja-6276",
+      "character": "扶",
+      "unitNumber": 7,
+      "page": 74,
+      "readingText": "부 돕다"
+    },
+    {
+      "id": "unit-07-hanja-5354",
+      "characterId": "hanja-5354",
+      "character": "協",
+      "unitNumber": 7,
+      "page": 74,
+      "readingText": "협 돕다"
+    },
+    {
+      "id": "unit-07-hanja-8072",
+      "characterId": "hanja-8072",
+      "character": "聲",
+      "unitNumber": 7,
+      "page": 74,
+      "readingText": "성 소리"
+    },
+    {
+      "id": "unit-07-hanja-6A02",
+      "characterId": "hanja-6A02",
+      "character": "樂",
+      "unitNumber": 7,
+      "page": 74,
+      "readingText": "락 즐겁다 / 악 노래"
+    },
+    {
+      "id": "unit-07-hanja-5224",
+      "characterId": "hanja-5224",
+      "character": "判",
+      "unitNumber": 7,
+      "page": 74,
+      "readingText": "판 판단하다"
+    },
+    {
+      "id": "unit-07-hanja-4E8B",
+      "characterId": "hanja-4E8B",
+      "character": "事",
+      "unitNumber": 7,
+      "page": 74,
+      "readingText": "사 일"
+    },
+    {
+      "id": "unit-07-hanja-98DB",
+      "characterId": "hanja-98DB",
+      "character": "飛",
+      "unitNumber": 7,
+      "page": 74,
+      "readingText": "비 날다"
+    },
+    {
+      "id": "unit-07-hanja-884C",
+      "characterId": "hanja-884C",
+      "character": "行",
+      "unitNumber": 7,
+      "page": 74,
+      "readingText": "행 다니다"
+    },
+    {
+      "id": "unit-07-hanja-58EB",
+      "characterId": "hanja-58EB",
+      "character": "士",
+      "unitNumber": 7,
+      "page": 74,
+      "readingText": "사 선비"
+    },
+    {
+      "id": "unit-07-hanja-91AB",
+      "characterId": "hanja-91AB",
+      "character": "醫",
+      "unitNumber": 7,
+      "page": 74,
+      "readingText": "의 의원"
+    },
+    {
+      "id": "unit-07-hanja-5E2B",
+      "characterId": "hanja-5E2B",
+      "character": "師",
+      "unitNumber": 7,
+      "page": 74,
+      "readingText": "사 스승"
+    },
+    {
+      "id": "unit-08-hanja-529B",
+      "characterId": "hanja-529B",
+      "character": "力",
+      "unitNumber": 8,
+      "page": 76,
+      "readingText": "력 힘"
+    },
+    {
+      "id": "unit-08-hanja-5F3A",
+      "characterId": "hanja-5F3A",
+      "character": "强",
+      "unitNumber": 8,
+      "page": 76,
+      "readingText": "강 강하다"
+    },
+    {
+      "id": "unit-08-hanja-5F15",
+      "characterId": "hanja-5F15",
+      "character": "引",
+      "unitNumber": 8,
+      "page": 76,
+      "readingText": "인 끌다"
+    },
+    {
+      "id": "unit-08-hanja-9DC4",
+      "characterId": "hanja-9DC4",
+      "character": "鷄",
+      "unitNumber": 8,
+      "page": 78,
+      "readingText": "계 닭"
+    },
+    {
+      "id": "unit-08-hanja-5375",
+      "characterId": "hanja-5375",
+      "character": "卵",
+      "unitNumber": 8,
+      "page": 78,
+      "readingText": "란 알"
+    },
+    {
+      "id": "unit-08-hanja-6709",
+      "characterId": "hanja-6709",
+      "character": "有",
+      "unitNumber": 8,
+      "page": 78,
+      "readingText": "유 있다"
+    },
+    {
+      "id": "unit-08-hanja-9AA8",
+      "characterId": "hanja-9AA8",
+      "character": "骨",
+      "unitNumber": 8,
+      "page": 78,
+      "readingText": "골 뼈"
+    },
+    {
+      "id": "unit-08-hanja-54B8",
+      "characterId": "hanja-54B8",
+      "character": "咸",
+      "unitNumber": 8,
+      "page": 78,
+      "readingText": "함 다"
+    },
+    {
+      "id": "unit-08-hanja-5DEE",
+      "characterId": "hanja-5DEE",
+      "character": "差",
+      "unitNumber": 8,
+      "page": 78,
+      "readingText": "차 사신 보내다"
+    },
+    {
+      "id": "unit-08-hanja-4F7F",
+      "characterId": "hanja-4F7F",
+      "character": "使",
+      "unitNumber": 8,
+      "page": 78,
+      "readingText": "사 부리다, 사신"
+    },
+    {
+      "id": "unit-08-hanja-7D50",
+      "characterId": "hanja-7D50",
+      "character": "結",
+      "unitNumber": 8,
+      "page": 78,
+      "readingText": "결 맺다"
+    },
+    {
+      "id": "unit-08-hanja-8349",
+      "characterId": "hanja-8349",
+      "character": "草",
+      "unitNumber": 8,
+      "page": 78,
+      "readingText": "초 풀"
+    },
+    {
+      "id": "unit-08-hanja-5831",
+      "characterId": "hanja-5831",
+      "character": "報",
+      "unitNumber": 8,
+      "page": 78,
+      "readingText": "보 갚다"
+    },
+    {
+      "id": "unit-08-hanja-6069",
+      "characterId": "hanja-6069",
+      "character": "恩",
+      "unitNumber": 8,
+      "page": 78,
+      "readingText": "은 은혜"
+    },
+    {
+      "id": "unit-08-hanja-9B5A",
+      "characterId": "hanja-9B5A",
+      "character": "魚",
+      "unitNumber": 8,
+      "page": 78,
+      "readingText": "어 물고기"
+    },
+    {
+      "id": "unit-08-hanja-4E4B",
+      "characterId": "hanja-4E4B",
+      "character": "之",
+      "unitNumber": 8,
+      "page": 78,
+      "readingText": "지 가다, 어조사"
+    },
+    {
+      "id": "unit-08-hanja-4EA4",
+      "characterId": "hanja-4EA4",
+      "character": "交",
+      "unitNumber": 8,
+      "page": 78,
+      "readingText": "교 사귀다"
+    },
+    {
+      "id": "unit-08-hanja-87A2",
+      "characterId": "hanja-87A2",
+      "character": "螢",
+      "unitNumber": 8,
+      "page": 78,
+      "readingText": "형 반딧불이"
+    },
+    {
+      "id": "unit-08-hanja-96EA",
+      "characterId": "hanja-96EA",
+      "character": "雪",
+      "unitNumber": 8,
+      "page": 78,
+      "readingText": "설 눈"
+    },
+    {
+      "id": "unit-08-hanja-529F",
+      "characterId": "hanja-529F",
+      "character": "功",
+      "unitNumber": 8,
+      "page": 78,
+      "readingText": "공 공로"
+    },
+    {
+      "id": "unit-08-hanja-8B58",
+      "characterId": "hanja-8B58",
+      "character": "識",
+      "unitNumber": 8,
+      "page": 82,
+      "readingText": "식 알다"
+    },
+    {
+      "id": "unit-08-hanja-7528",
+      "characterId": "hanja-7528",
+      "character": "用",
+      "unitNumber": 8,
+      "page": 82,
+      "readingText": "용 쓰다"
+    },
+    {
+      "id": "unit-08-hanja-7F6A",
+      "characterId": "hanja-7F6A",
+      "character": "罪",
+      "unitNumber": 8,
+      "page": 82,
+      "readingText": "죄 허물"
+    },
+    {
+      "id": "unit-08-hanja-56FA",
+      "characterId": "hanja-56FA",
+      "character": "固",
+      "unitNumber": 8,
+      "page": 82,
+      "readingText": "고 굳다"
+    },
+    {
+      "id": "unit-08-hanja-7121",
+      "characterId": "hanja-7121",
+      "character": "無",
+      "unitNumber": 8,
+      "page": 82,
+      "readingText": "무 없다"
+    },
+    {
+      "id": "unit-08-hanja-5F31",
+      "characterId": "hanja-5F31",
+      "character": "弱",
+      "unitNumber": 8,
+      "page": 82,
+      "readingText": "약 약하다"
+    },
+    {
+      "id": "unit-08-hanja-964D",
+      "characterId": "hanja-964D",
+      "character": "降",
+      "unitNumber": 8,
+      "page": 82,
+      "readingText": "강 내리다"
+    },
+    {
+      "id": "unit-08-hanja-9664",
+      "characterId": "hanja-9664",
+      "character": "除",
+      "unitNumber": 8,
+      "page": 82,
+      "readingText": "제 덜다"
+    },
+    {
+      "id": "unit-08-hanja-66B4",
+      "characterId": "hanja-66B4",
+      "character": "暴",
+      "unitNumber": 8,
+      "page": 82,
+      "readingText": "폭 사납다"
+    },
+    {
+      "id": "unit-08-hanja-665D",
+      "characterId": "hanja-665D",
+      "character": "晝",
+      "unitNumber": 8,
+      "page": 82,
+      "readingText": "주 낮"
+    },
+    {
+      "id": "unit-08-hanja-591C",
+      "characterId": "hanja-591C",
+      "character": "夜",
+      "unitNumber": 8,
+      "page": 82,
+      "readingText": "야 밤"
+    },
+    {
+      "id": "unit-08-hanja-71B1",
+      "characterId": "hanja-71B1",
+      "character": "熱",
+      "unitNumber": 8,
+      "page": 82,
+      "readingText": "열 덥다"
+    },
+    {
+      "id": "unit-08-hanja-7B46",
+      "characterId": "hanja-7B46",
+      "character": "筆",
+      "unitNumber": 8,
+      "page": 82,
+      "readingText": "필 붓"
+    },
+    {
+      "id": "unit-08-hanja-8A18",
+      "characterId": "hanja-8A18",
+      "character": "記",
+      "unitNumber": 8,
+      "page": 82,
+      "readingText": "기 기록하다"
+    },
+    {
+      "id": "unit-08-hanja-8996",
+      "characterId": "hanja-8996",
+      "character": "視",
+      "unitNumber": 8,
+      "page": 82,
+      "readingText": "시 보다"
+    },
+    {
+      "id": "unit-08-hanja-807D",
+      "characterId": "hanja-807D",
+      "character": "聽",
+      "unitNumber": 8,
+      "page": 82,
+      "readingText": "청 듣다"
+    },
+    {
+      "id": "unit-09-hanja-677E",
+      "characterId": "hanja-677E",
+      "character": "松",
+      "unitNumber": 9,
+      "page": 84,
+      "readingText": "송 소나무"
+    },
+    {
+      "id": "unit-09-hanja-6750",
+      "characterId": "hanja-6750",
+      "character": "材",
+      "unitNumber": 9,
+      "page": 84,
+      "readingText": "재 재목"
+    },
+    {
+      "id": "unit-09-hanja-690D",
+      "characterId": "hanja-690D",
+      "character": "植",
+      "unitNumber": 9,
+      "page": 84,
+      "readingText": "식 심다"
+    },
+    {
+      "id": "unit-09-hanja-8ECA",
+      "characterId": "hanja-8ECA",
+      "character": "車",
+      "unitNumber": 9,
+      "page": 84,
+      "readingText": "거 수레 / 차 차"
+    },
+    {
+      "id": "unit-09-hanja-6CB9",
+      "characterId": "hanja-6CB9",
+      "character": "油",
+      "unitNumber": 9,
+      "page": 84,
+      "readingText": "유 기름"
+    },
+    {
+      "id": "unit-09-hanja-6F01",
+      "characterId": "hanja-6F01",
+      "character": "漁",
+      "unitNumber": 9,
+      "page": 86,
+      "readingText": "어 고기 잡다"
+    },
+    {
+      "id": "unit-09-hanja-5229",
+      "characterId": "hanja-5229",
+      "character": "利",
+      "unitNumber": 9,
+      "page": 86,
+      "readingText": "리 이롭다"
+    },
+    {
+      "id": "unit-09-hanja-5B88",
+      "characterId": "hanja-5B88",
+      "character": "守",
+      "unitNumber": 9,
+      "page": 86,
+      "readingText": "수 지키다"
+    },
+    {
+      "id": "unit-09-hanja-682A",
+      "characterId": "hanja-682A",
+      "character": "株",
+      "unitNumber": 9,
+      "page": 86,
+      "readingText": "주 그루터기"
+    },
+    {
+      "id": "unit-09-hanja-5F85",
+      "characterId": "hanja-5F85",
+      "character": "待",
+      "unitNumber": 9,
+      "page": 86,
+      "readingText": "대 기다리다"
+    },
+    {
+      "id": "unit-09-hanja-514E",
+      "characterId": "hanja-514E",
+      "character": "兎",
+      "unitNumber": 9,
+      "page": 86,
+      "readingText": "토 토끼"
+    },
+    {
+      "id": "unit-09-hanja-5668",
+      "characterId": "hanja-5668",
+      "character": "器",
+      "unitNumber": 9,
+      "page": 86,
+      "readingText": "기 그릇"
+    },
+    {
+      "id": "unit-09-hanja-6669",
+      "characterId": "hanja-6669",
+      "character": "晩",
+      "unitNumber": 9,
+      "page": 86,
+      "readingText": "만 늦다"
+    },
+    {
+      "id": "unit-09-hanja-6210",
+      "characterId": "hanja-6210",
+      "character": "成",
+      "unitNumber": 9,
+      "page": 86,
+      "readingText": "성 이루다"
+    },
+    {
+      "id": "unit-09-hanja-671D",
+      "characterId": "hanja-671D",
+      "character": "朝",
+      "unitNumber": 9,
+      "page": 86,
+      "readingText": "조 아침"
+    },
+    {
+      "id": "unit-09-hanja-66AE",
+      "characterId": "hanja-66AE",
+      "character": "暮",
+      "unitNumber": 9,
+      "page": 86,
+      "readingText": "모 저물다"
+    },
+    {
+      "id": "unit-09-hanja-6B65",
+      "characterId": "hanja-6B65",
+      "character": "步",
+      "unitNumber": 9,
+      "page": 86,
+      "readingText": "보 걸음"
+    },
+    {
+      "id": "unit-09-hanja-767E",
+      "characterId": "hanja-767E",
+      "character": "百",
+      "unitNumber": 9,
+      "page": 86,
+      "readingText": "백 일백"
+    },
+    {
+      "id": "unit-09-hanja-5F92",
+      "characterId": "hanja-5F92",
+      "character": "徒",
+      "unitNumber": 9,
+      "page": 90,
+      "readingText": "도 걸어다니다"
+    },
+    {
+      "id": "unit-09-hanja-901F",
+      "characterId": "hanja-901F",
+      "character": "速",
+      "unitNumber": 9,
+      "page": 90,
+      "readingText": "속 빠르다"
+    },
+    {
+      "id": "unit-09-hanja-8B93",
+      "characterId": "hanja-8B93",
+      "character": "讓",
+      "unitNumber": 9,
+      "page": 90,
+      "readingText": "양 사양하다"
+    },
+    {
+      "id": "unit-09-hanja-521D",
+      "characterId": "hanja-521D",
+      "character": "初",
+      "unitNumber": 9,
+      "page": 90,
+      "readingText": "초 처음"
+    },
+    {
+      "id": "unit-09-hanja-5BB3",
+      "characterId": "hanja-5BB3",
+      "character": "害",
+      "unitNumber": 9,
+      "page": 90,
+      "readingText": "해 해롭다"
+    },
+    {
+      "id": "unit-09-hanja-65E9",
+      "characterId": "hanja-65E9",
+      "character": "早",
+      "unitNumber": 9,
+      "page": 90,
+      "readingText": "조 이르다"
+    },
+    {
+      "id": "unit-09-hanja-5B8C",
+      "characterId": "hanja-5B8C",
+      "character": "完",
+      "unitNumber": 9,
+      "page": 90,
+      "readingText": "완 완전하다"
+    },
+    {
+      "id": "unit-09-hanja-5408",
+      "characterId": "hanja-5408",
+      "character": "合",
+      "unitNumber": 9,
+      "page": 90,
+      "readingText": "합 합하다"
+    },
+    {
+      "id": "unit-09-hanja-9020",
+      "characterId": "hanja-9020",
+      "character": "造",
+      "unitNumber": 9,
+      "page": 90,
+      "readingText": "조 만들다"
+    },
+    {
+      "id": "unit-09-hanja-77F3",
+      "characterId": "hanja-77F3",
+      "character": "石",
+      "unitNumber": 9,
+      "page": 90,
+      "readingText": "석 돌"
+    },
+    {
+      "id": "unit-09-hanja-5DD6",
+      "characterId": "hanja-5DD6",
+      "character": "巖",
+      "unitNumber": 9,
+      "page": 90,
+      "readingText": "암 바위"
+    },
+    {
+      "id": "unit-09-hanja-91DD",
+      "characterId": "hanja-91DD",
+      "character": "針",
+      "unitNumber": 9,
+      "page": 90,
+      "readingText": "침 바늘"
+    },
+    {
+      "id": "unit-09-hanja-8449",
+      "characterId": "hanja-8449",
+      "character": "葉",
+      "unitNumber": 9,
+      "page": 90,
+      "readingText": "엽 잎"
+    },
+    {
+      "id": "unit-09-hanja-6A39",
+      "characterId": "hanja-6A39",
+      "character": "樹",
+      "unitNumber": 9,
+      "page": 90,
+      "readingText": "수 나무"
+    },
+    {
+      "id": "unit-09-hanja-7720",
+      "characterId": "hanja-7720",
+      "character": "眠",
+      "unitNumber": 9,
+      "page": 90,
+      "readingText": "면 자다"
+    },
+    {
+      "id": "unit-09-hanja-812B",
+      "characterId": "hanja-812B",
+      "character": "脫",
+      "unitNumber": 9,
+      "page": 90,
+      "readingText": "탈 벗다"
+    },
+    {
+      "id": "unit-09-hanja-5E7C",
+      "characterId": "hanja-5E7C",
+      "character": "幼",
+      "unitNumber": 9,
+      "page": 90,
+      "readingText": "유 어리다"
+    },
+    {
+      "id": "unit-09-hanja-87F2",
+      "characterId": "hanja-87F2",
+      "character": "蟲",
+      "unitNumber": 9,
+      "page": 90,
+      "readingText": "충 벌레"
+    },
+    {
+      "id": "unit-10-hanja-53CB",
+      "characterId": "hanja-53CB",
+      "character": "友",
+      "unitNumber": 10,
+      "page": 92,
+      "readingText": "우 벗"
+    },
+    {
+      "id": "unit-10-hanja-670B",
+      "characterId": "hanja-670B",
+      "character": "朋",
+      "unitNumber": 10,
+      "page": 92,
+      "readingText": "붕 벗"
+    },
+    {
+      "id": "unit-10-hanja-6230",
+      "characterId": "hanja-6230",
+      "character": "戰",
+      "unitNumber": 10,
+      "page": 92,
+      "readingText": "전 싸움"
+    },
+    {
+      "id": "unit-10-hanja-6613",
+      "characterId": "hanja-6613",
+      "character": "易",
+      "unitNumber": 10,
+      "page": 94,
+      "readingText": "역 바꾸다"
+    },
+    {
+      "id": "unit-10-hanja-601D",
+      "characterId": "hanja-601D",
+      "character": "思",
+      "unitNumber": 10,
+      "page": 94,
+      "readingText": "사 생각"
+    },
+    {
+      "id": "unit-10-hanja-4EC1",
+      "characterId": "hanja-4EC1",
+      "character": "仁",
+      "unitNumber": 10,
+      "page": 94,
+      "readingText": "인 어질다"
+    },
+    {
+      "id": "unit-10-hanja-8005",
+      "characterId": "hanja-8005",
+      "character": "者",
+      "unitNumber": 10,
+      "page": 94,
+      "readingText": "자 사람"
+    },
+    {
+      "id": "unit-10-hanja-6575",
+      "characterId": "hanja-6575",
+      "character": "敵",
+      "unitNumber": 10,
+      "page": 94,
+      "readingText": "적 대적하다"
+    },
+    {
+      "id": "unit-10-hanja-5F62",
+      "characterId": "hanja-5F62",
+      "character": "形",
+      "unitNumber": 10,
+      "page": 94,
+      "readingText": "형 모양"
+    },
+    {
+      "id": "unit-10-hanja-5C31",
+      "characterId": "hanja-5C31",
+      "character": "就",
+      "unitNumber": 10,
+      "page": 94,
+      "readingText": "취 나아가다"
+    },
+    {
+      "id": "unit-10-hanja-6EAB",
+      "characterId": "hanja-6EAB",
+      "character": "溫",
+      "unitNumber": 10,
+      "page": 94,
+      "readingText": "온 따뜻하다"
+    },
+    {
+      "id": "unit-10-hanja-6545",
+      "characterId": "hanja-6545",
+      "character": "故",
+      "unitNumber": 10,
+      "page": 94,
+      "readingText": "고 연고, 예"
+    },
+    {
+      "id": "unit-10-hanja-77E5",
+      "characterId": "hanja-77E5",
+      "character": "知",
+      "unitNumber": 10,
+      "page": 94,
+      "readingText": "지 알다"
+    },
+    {
+      "id": "unit-10-hanja-65B0",
+      "characterId": "hanja-65B0",
+      "character": "新",
+      "unitNumber": 10,
+      "page": 94,
+      "readingText": "신 새롭다"
+    },
+    {
+      "id": "unit-10-hanja-96E3",
+      "characterId": "hanja-96E3",
+      "character": "難",
+      "unitNumber": 10,
+      "page": 98,
+      "readingText": "난 어렵다"
+    },
+    {
+      "id": "unit-10-hanja-820A",
+      "characterId": "hanja-820A",
+      "character": "舊",
+      "unitNumber": 10,
+      "page": 98,
+      "readingText": "구 예"
+    },
+    {
+      "id": "unit-10-hanja-9060",
+      "characterId": "hanja-9060",
+      "character": "遠",
+      "unitNumber": 10,
+      "page": 98,
+      "readingText": "원 멀다"
+    },
+    {
+      "id": "unit-10-hanja-57FA",
+      "characterId": "hanja-57FA",
+      "character": "基",
+      "unitNumber": 10,
+      "page": 98,
+      "readingText": "기 터"
+    },
+    {
+      "id": "unit-10-hanja-8056",
+      "characterId": "hanja-8056",
+      "character": "聖",
+      "unitNumber": 10,
+      "page": 98,
+      "readingText": "성 성인"
+    },
+    {
+      "id": "unit-10-hanja-8655",
+      "characterId": "hanja-8655",
+      "character": "處",
+      "unitNumber": 10,
+      "page": 98,
+      "readingText": "처 곳"
+    },
+    {
+      "id": "unit-10-hanja-6E34",
+      "characterId": "hanja-6E34",
+      "character": "渴",
+      "unitNumber": 10,
+      "page": 98,
+      "readingText": "갈 목마르다"
+    },
+    {
+      "id": "unit-10-hanja-6C42",
+      "characterId": "hanja-6C42",
+      "character": "求",
+      "unitNumber": 10,
+      "page": 98,
+      "readingText": "구 구하다"
+    },
+    {
+      "id": "unit-10-hanja-8FFD",
+      "characterId": "hanja-8FFD",
+      "character": "追",
+      "unitNumber": 10,
+      "page": 98,
+      "readingText": "추 쫓다"
+    },
+    {
+      "id": "unit-10-hanja-5E78",
+      "characterId": "hanja-5E78",
+      "character": "幸",
+      "unitNumber": 10,
+      "page": 98,
+      "readingText": "행 다행"
+    },
+    {
+      "id": "unit-10-hanja-798F",
+      "characterId": "hanja-798F",
+      "character": "福",
+      "unitNumber": 10,
+      "page": 98,
+      "readingText": "복 복"
+    },
+    {
+      "id": "unit-10-hanja-61C9",
+      "characterId": "hanja-61C9",
+      "character": "應",
+      "unitNumber": 10,
+      "page": 98,
+      "readingText": "응 응하다"
+    },
+    {
+      "id": "unit-10-hanja-6025",
+      "characterId": "hanja-6025",
+      "character": "急",
+      "unitNumber": 10,
+      "page": 98,
+      "readingText": "급 급하다"
+    },
+    {
+      "id": "unit-10-hanja-9999",
+      "characterId": "hanja-9999",
+      "character": "香",
+      "unitNumber": 10,
+      "page": 98,
+      "readingText": "향 향기"
+    },
+    {
+      "id": "unit-10-hanja-6C23",
+      "characterId": "hanja-6C23",
+      "character": "氣",
+      "unitNumber": 10,
+      "page": 98,
+      "readingText": "기 기운"
+    },
+    {
+      "id": "unit-10-hanja-7159",
+      "characterId": "hanja-7159",
+      "character": "煙",
+      "unitNumber": 10,
+      "page": 98,
+      "readingText": "연 연기"
+    },
+    {
+      "id": "unit-11-hanja-8A00",
+      "characterId": "hanja-8A00",
+      "character": "言",
+      "unitNumber": 11,
+      "page": 104,
+      "readingText": "언 말씀"
+    },
+    {
+      "id": "unit-11-hanja-8AC7",
+      "characterId": "hanja-8AC7",
+      "character": "談",
+      "unitNumber": 11,
+      "page": 104,
+      "readingText": "담 말씀"
+    },
+    {
+      "id": "unit-11-hanja-5FB7",
+      "characterId": "hanja-5FB7",
+      "character": "德",
+      "unitNumber": 11,
+      "page": 104,
+      "readingText": "덕 크다, 덕"
+    },
+    {
+      "id": "unit-11-hanja-4FD7",
+      "characterId": "hanja-4FD7",
+      "character": "俗",
+      "unitNumber": 11,
+      "page": 104,
+      "readingText": "속 풍속"
+    },
+    {
+      "id": "unit-11-hanja-7B11",
+      "characterId": "hanja-7B11",
+      "character": "笑",
+      "unitNumber": 11,
+      "page": 104,
+      "readingText": "소 웃다"
+    },
+    {
+      "id": "unit-11-hanja-82E6",
+      "characterId": "hanja-82E6",
+      "character": "苦",
+      "unitNumber": 11,
+      "page": 106,
+      "readingText": "고 쓰다"
+    },
+    {
+      "id": "unit-11-hanja-76E1",
+      "characterId": "hanja-76E1",
+      "character": "盡",
+      "unitNumber": 11,
+      "page": 106,
+      "readingText": "진 다하다"
+    },
+    {
+      "id": "unit-11-hanja-7518",
+      "characterId": "hanja-7518",
+      "character": "甘",
+      "unitNumber": 11,
+      "page": 106,
+      "readingText": "감 달다"
+    },
+    {
+      "id": "unit-11-hanja-4F86",
+      "characterId": "hanja-4F86",
+      "character": "來",
+      "unitNumber": 11,
+      "page": 106,
+      "readingText": "래 오다"
+    },
+    {
+      "id": "unit-11-hanja-5750",
+      "characterId": "hanja-5750",
+      "character": "坐",
+      "unitNumber": 11,
+      "page": 106,
+      "readingText": "좌 앉다"
+    },
+    {
+      "id": "unit-11-hanja-4E95",
+      "characterId": "hanja-4E95",
+      "character": "井",
+      "unitNumber": 11,
+      "page": 106,
+      "readingText": "정 우물"
+    },
+    {
+      "id": "unit-11-hanja-89C0",
+      "characterId": "hanja-89C0",
+      "character": "觀",
+      "unitNumber": 11,
+      "page": 106,
+      "readingText": "관 보다"
+    },
+    {
+      "id": "unit-11-hanja-543E",
+      "characterId": "hanja-543E",
+      "character": "吾",
+      "unitNumber": 11,
+      "page": 106,
+      "readingText": "오 나"
+    },
+    {
+      "id": "unit-11-hanja-9F3B",
+      "characterId": "hanja-9F3B",
+      "character": "鼻",
+      "unitNumber": 11,
+      "page": 106,
+      "readingText": "비 코"
+    },
+    {
+      "id": "unit-11-hanja-5C3A",
+      "characterId": "hanja-5C3A",
+      "character": "尺",
+      "unitNumber": 11,
+      "page": 106,
+      "readingText": "척 자"
+    },
+    {
+      "id": "unit-11-hanja-7F8E",
+      "characterId": "hanja-7F8E",
+      "character": "美",
+      "unitNumber": 11,
+      "page": 106,
+      "readingText": "미 아름답다"
+    },
+    {
+      "id": "unit-11-hanja-6B72",
+      "characterId": "hanja-6B72",
+      "character": "歲",
+      "unitNumber": 11,
+      "page": 106,
+      "readingText": "세 해, 나이"
+    },
+    {
+      "id": "unit-11-hanja-7FD2",
+      "characterId": "hanja-7FD2",
+      "character": "習",
+      "unitNumber": 11,
+      "page": 106,
+      "readingText": "습 익히다, 버릇"
+    },
+    {
+      "id": "unit-11-hanja-4E8E",
+      "characterId": "hanja-4E8E",
+      "character": "于",
+      "unitNumber": 11,
+      "page": 106,
+      "readingText": "우 어조사"
+    },
+    {
+      "id": "unit-11-hanja-5F97",
+      "characterId": "hanja-5F97",
+      "character": "得",
+      "unitNumber": 11,
+      "page": 110,
+      "readingText": "득 얻다"
+    },
+    {
+      "id": "unit-11-hanja-5FA9",
+      "characterId": "hanja-5FA9",
+      "character": "復",
+      "unitNumber": 11,
+      "page": 110,
+      "readingText": "복 돌아오다"
+    },
+    {
+      "id": "unit-11-hanja-5BE6",
+      "characterId": "hanja-5BE6",
+      "character": "實",
+      "unitNumber": 11,
+      "page": 110,
+      "readingText": "실 열매, 실제"
+    },
+    {
+      "id": "unit-11-hanja-7DF4",
+      "characterId": "hanja-7DF4",
+      "character": "練",
+      "unitNumber": 11,
+      "page": 110,
+      "readingText": "련 익히다"
+    },
+    {
+      "id": "unit-11-hanja-5F80",
+      "characterId": "hanja-5F80",
+      "character": "往",
+      "unitNumber": 11,
+      "page": 110,
+      "readingText": "왕 가다"
+    },
+    {
+      "id": "unit-11-hanja-5167",
+      "characterId": "hanja-5167",
+      "character": "內",
+      "unitNumber": 11,
+      "page": 110,
+      "readingText": "내 안"
+    },
+    {
+      "id": "unit-11-hanja-5916",
+      "characterId": "hanja-5916",
+      "character": "外",
+      "unitNumber": 11,
+      "page": 110,
+      "readingText": "외 바깥"
+    },
+    {
+      "id": "unit-11-hanja-5149",
+      "characterId": "hanja-5149",
+      "character": "光",
+      "unitNumber": 11,
+      "page": 110,
+      "readingText": "광 빛"
+    },
+    {
+      "id": "unit-11-hanja-8846",
+      "characterId": "hanja-8846",
+      "character": "衆",
+      "unitNumber": 11,
+      "page": 110,
+      "readingText": "중 무리"
+    },
+    {
+      "id": "unit-11-hanja-5BDF",
+      "characterId": "hanja-5BDF",
+      "character": "察",
+      "unitNumber": 11,
+      "page": 110,
+      "readingText": "찰 살피다"
+    },
+    {
+      "id": "unit-11-hanja-7530",
+      "characterId": "hanja-7530",
+      "character": "田",
+      "unitNumber": 11,
+      "page": 110,
+      "readingText": "전 밭"
+    },
+    {
+      "id": "unit-11-hanja-5712",
+      "characterId": "hanja-5712",
+      "character": "園",
+      "unitNumber": 11,
+      "page": 110,
+      "readingText": "원 동산"
+    },
+    {
+      "id": "unit-11-hanja-8FB2",
+      "characterId": "hanja-8FB2",
+      "character": "農",
+      "unitNumber": 11,
+      "page": 110,
+      "readingText": "농 농사"
+    },
+    {
+      "id": "unit-11-hanja-6751",
+      "characterId": "hanja-6751",
+      "character": "村",
+      "unitNumber": 11,
+      "page": 110,
+      "readingText": "촌 마을"
+    },
+    {
+      "id": "unit-11-hanja-8C50",
+      "characterId": "hanja-8C50",
+      "character": "豐",
+      "unitNumber": 11,
+      "page": 110,
+      "readingText": "풍 풍성하다",
+      "transcriptionNote": "교과서 본문 110쪽·부록 206쪽 정자 豐(U+8C50, 18획) 육안 대조 확정"
+    },
+    {
+      "id": "unit-11-hanja-5E02",
+      "characterId": "hanja-5E02",
+      "character": "市",
+      "unitNumber": 11,
+      "page": 110,
+      "readingText": "시 시장"
+    },
+    {
+      "id": "unit-11-hanja-73FE",
+      "characterId": "hanja-73FE",
+      "character": "現",
+      "unitNumber": 11,
+      "page": 110,
+      "readingText": "현 나타나다"
+    },
+    {
+      "id": "unit-11-hanja-4EE3",
+      "characterId": "hanja-4EE3",
+      "character": "代",
+      "unitNumber": 11,
+      "page": 110,
+      "readingText": "대 대신하다"
+    },
+    {
+      "id": "unit-12-hanja-7701",
+      "characterId": "hanja-7701",
+      "character": "省",
+      "unitNumber": 12,
+      "page": 112,
+      "readingText": "성 살피다"
+    },
+    {
+      "id": "unit-12-hanja-6B78",
+      "characterId": "hanja-6B78",
+      "character": "歸",
+      "unitNumber": 12,
+      "page": 112,
+      "readingText": "귀 돌아가다"
+    },
+    {
+      "id": "unit-12-hanja-53CD",
+      "characterId": "hanja-53CD",
+      "character": "反",
+      "unitNumber": 12,
+      "page": 112,
+      "readingText": "반 돌이키다"
+    },
+    {
+      "id": "unit-12-hanja-80FD",
+      "characterId": "hanja-80FD",
+      "character": "能",
+      "unitNumber": 12,
+      "page": 114,
+      "readingText": "능 능하다"
+    },
+    {
+      "id": "unit-12-hanja-5DF1",
+      "characterId": "hanja-5DF1",
+      "character": "己",
+      "unitNumber": 12,
+      "page": 114,
+      "readingText": "기 몸, 자기"
+    },
+    {
+      "id": "unit-12-hanja-59CB",
+      "characterId": "hanja-59CB",
+      "character": "始",
+      "unitNumber": 12,
+      "page": 114,
+      "readingText": "시 처음"
+    },
+    {
+      "id": "unit-12-hanja-6628",
+      "characterId": "hanja-6628",
+      "character": "昨",
+      "unitNumber": 12,
+      "page": 114,
+      "readingText": "작 어제"
+    },
+    {
+      "id": "unit-12-hanja-5DF2",
+      "characterId": "hanja-5DF2",
+      "character": "已",
+      "unitNumber": 12,
+      "page": 114,
+      "readingText": "이 이미"
+    },
+    {
+      "id": "unit-12-hanja-660E",
+      "characterId": "hanja-660E",
+      "character": "明",
+      "unitNumber": 12,
+      "page": 114,
+      "readingText": "명 밝다"
+    },
+    {
+      "id": "unit-12-hanja-672A",
+      "characterId": "hanja-672A",
+      "character": "未",
+      "unitNumber": 12,
+      "page": 114,
+      "readingText": "미 아니다"
+    },
+    {
+      "id": "unit-12-hanja-6B32",
+      "characterId": "hanja-6B32",
+      "character": "欲",
+      "unitNumber": 12,
+      "page": 114,
+      "readingText": "욕 하고자 하다"
+    },
+    {
+      "id": "unit-12-hanja-7232",
+      "characterId": "hanja-7232",
+      "character": "爲",
+      "unitNumber": 12,
+      "page": 114,
+      "readingText": "위 하다"
+    },
+    {
+      "id": "unit-12-hanja-53EA",
+      "characterId": "hanja-53EA",
+      "character": "只",
+      "unitNumber": 12,
+      "page": 114,
+      "readingText": "지 다만"
+    },
+    {
+      "id": "unit-12-hanja-5728",
+      "characterId": "hanja-5728",
+      "character": "在",
+      "unitNumber": 12,
+      "page": 114,
+      "readingText": "재 있다"
+    },
+    {
+      "id": "unit-12-hanja-7576",
+      "characterId": "hanja-7576",
+      "character": "當",
+      "unitNumber": 12,
+      "page": 114,
+      "readingText": "당 마땅, 당하다"
+    },
+    {
+      "id": "unit-12-hanja-5802",
+      "characterId": "hanja-5802",
+      "character": "堂",
+      "unitNumber": 12,
+      "page": 118,
+      "readingText": "당 집"
+    },
+    {
+      "id": "unit-12-hanja-6697",
+      "characterId": "hanja-6697",
+      "character": "暗",
+      "unitNumber": 12,
+      "page": 118,
+      "readingText": "암 어둡다"
+    },
+    {
+      "id": "unit-12-hanja-9BAE",
+      "characterId": "hanja-9BAE",
+      "character": "鮮",
+      "unitNumber": 12,
+      "page": 118,
+      "readingText": "선 곱다"
+    },
+    {
+      "id": "unit-12-hanja-8B49",
+      "characterId": "hanja-8B49",
+      "character": "證",
+      "unitNumber": 12,
+      "page": 118,
+      "readingText": "증 증거"
+    },
+    {
+      "id": "unit-12-hanja-7D42",
+      "characterId": "hanja-7D42",
+      "character": "終",
+      "unitNumber": 12,
+      "page": 118,
+      "readingText": "종 마치다, 끝"
+    },
+    {
+      "id": "unit-12-hanja-5B58",
+      "characterId": "hanja-5B58",
+      "character": "存",
+      "unitNumber": 12,
+      "page": 118,
+      "readingText": "존 있다"
+    },
+    {
+      "id": "unit-12-hanja-6280",
+      "characterId": "hanja-6280",
+      "character": "技",
+      "unitNumber": 12,
+      "page": 118,
+      "readingText": "기 재주"
+    },
+    {
+      "id": "unit-12-hanja-85DD",
+      "characterId": "hanja-85DD",
+      "character": "藝",
+      "unitNumber": 12,
+      "page": 118,
+      "readingText": "예 재주"
+    },
+    {
+      "id": "unit-12-hanja-6548",
+      "characterId": "hanja-6548",
+      "character": "效",
+      "unitNumber": 12,
+      "page": 118,
+      "readingText": "효 본받다, 보람"
+    },
+    {
+      "id": "unit-12-hanja-6B77",
+      "characterId": "hanja-6B77",
+      "character": "歷",
+      "unitNumber": 12,
+      "page": 118,
+      "readingText": "력 지내다"
+    },
+    {
+      "id": "unit-12-hanja-53F2",
+      "characterId": "hanja-53F2",
+      "character": "史",
+      "unitNumber": 12,
+      "page": 118,
+      "readingText": "사 역사"
+    },
+    {
+      "id": "unit-12-hanja-541B",
+      "characterId": "hanja-541B",
+      "character": "君",
+      "unitNumber": 12,
+      "page": 118,
+      "readingText": "군 임금"
+    },
+    {
+      "id": "unit-12-hanja-81E3",
+      "characterId": "hanja-81E3",
+      "character": "臣",
+      "unitNumber": 12,
+      "page": 118,
+      "readingText": "신 신하"
+    },
+    {
+      "id": "unit-12-hanja-5F8B",
+      "characterId": "hanja-5F8B",
+      "character": "律",
+      "unitNumber": 12,
+      "page": 118,
+      "readingText": "률 법칙"
+    },
+    {
+      "id": "unit-12-hanja-4EE4",
+      "characterId": "hanja-4EE4",
+      "character": "令",
+      "unitNumber": 12,
+      "page": 118,
+      "readingText": "령 하여금, 명령"
+    },
+    {
+      "id": "unit-12-hanja-90FD",
+      "characterId": "hanja-90FD",
+      "character": "都",
+      "unitNumber": 12,
+      "page": 118,
+      "readingText": "도 도읍"
+    },
+    {
+      "id": "unit-12-hanja-9091",
+      "characterId": "hanja-9091",
+      "character": "邑",
+      "unitNumber": 12,
+      "page": 118,
+      "readingText": "읍 고을"
+    },
+    {
+      "id": "unit-13-hanja-5982",
+      "characterId": "hanja-5982",
+      "character": "如",
+      "unitNumber": 13,
+      "page": 120,
+      "readingText": "여 같다"
+    },
+    {
+      "id": "unit-13-hanja-611B",
+      "characterId": "hanja-611B",
+      "character": "愛",
+      "unitNumber": 13,
+      "page": 122,
+      "readingText": "애 사랑"
+    },
+    {
+      "id": "unit-13-hanja-6052",
+      "characterId": "hanja-6052",
+      "character": "恒",
+      "unitNumber": 13,
+      "page": 122,
+      "readingText": "항 항상"
+    },
+    {
+      "id": "unit-13-hanja-65BC",
+      "characterId": "hanja-65BC",
+      "character": "於",
+      "unitNumber": 13,
+      "page": 122,
+      "readingText": "어 어조사"
+    },
+    {
+      "id": "unit-13-hanja-5176",
+      "characterId": "hanja-5176",
+      "character": "其",
+      "unitNumber": 13,
+      "page": 122,
+      "readingText": "기 그"
+    },
+    {
+      "id": "unit-13-hanja-8EAB",
+      "characterId": "hanja-8EAB",
+      "character": "身",
+      "unitNumber": 13,
+      "page": 122,
+      "readingText": "신 몸"
+    },
+    {
+      "id": "unit-13-hanja-5404",
+      "characterId": "hanja-5404",
+      "character": "各",
+      "unitNumber": 13,
+      "page": 122,
+      "readingText": "각 각자"
+    },
+    {
+      "id": "unit-13-hanja-5BF6",
+      "characterId": "hanja-5BF6",
+      "character": "寶",
+      "unitNumber": 13,
+      "page": 122,
+      "readingText": "보 보배"
+    },
+    {
+      "id": "unit-13-hanja-4E0D",
+      "characterId": "hanja-4E0D",
+      "character": "不",
+      "unitNumber": 13,
+      "page": 122,
+      "readingText": "불/부 아니다"
+    },
+    {
+      "id": "unit-13-hanja-52FF",
+      "characterId": "hanja-52FF",
+      "character": "勿",
+      "unitNumber": 13,
+      "page": 122,
+      "readingText": "물 말다"
+    },
+    {
+      "id": "unit-13-hanja-65BD",
+      "characterId": "hanja-65BD",
+      "character": "施",
+      "unitNumber": 13,
+      "page": 122,
+      "readingText": "시 베풀다"
+    },
+    {
+      "id": "unit-13-hanja-6B64",
+      "characterId": "hanja-6B64",
+      "character": "此",
+      "unitNumber": 13,
+      "page": 122,
+      "readingText": "차 이"
+    },
+    {
+      "id": "unit-13-hanja-4EA6",
+      "characterId": "hanja-4EA6",
+      "character": "亦",
+      "unitNumber": 13,
+      "page": 122,
+      "readingText": "역 또"
+    },
+    {
+      "id": "unit-13-hanja-4E5F",
+      "characterId": "hanja-4E5F",
+      "character": "也",
+      "unitNumber": 13,
+      "page": 122,
+      "readingText": "야 어조사"
+    },
+    {
+      "id": "unit-13-hanja-53EF",
+      "characterId": "hanja-53EF",
+      "character": "可",
+      "unitNumber": 13,
+      "page": 122,
+      "readingText": "가 옳다"
+    },
+    {
+      "id": "unit-13-hanja-5584",
+      "characterId": "hanja-5584",
+      "character": "善",
+      "unitNumber": 13,
+      "page": 122,
+      "readingText": "선 착하다, 잘"
+    },
+    {
+      "id": "unit-13-hanja-9047",
+      "characterId": "hanja-9047",
+      "character": "遇",
+      "unitNumber": 13,
+      "page": 122,
+      "readingText": "우 만나다, 대접하다"
+    },
+    {
+      "id": "unit-13-hanja-60E1",
+      "characterId": "hanja-60E1",
+      "character": "惡",
+      "unitNumber": 13,
+      "page": 126,
+      "readingText": "악 악하다"
+    },
+    {
+      "id": "unit-13-hanja-610F",
+      "characterId": "hanja-610F",
+      "character": "意",
+      "unitNumber": 13,
+      "page": 126,
+      "readingText": "의 뜻"
+    },
+    {
+      "id": "unit-13-hanja-6148",
+      "characterId": "hanja-6148",
+      "character": "慈",
+      "unitNumber": 13,
+      "page": 126,
+      "readingText": "자 사랑하다"
+    },
+    {
+      "id": "unit-13-hanja-6700",
+      "characterId": "hanja-6700",
+      "character": "最",
+      "unitNumber": 13,
+      "page": 126,
+      "readingText": "최 가장"
+    },
+    {
+      "id": "unit-13-hanja-9AD4",
+      "characterId": "hanja-9AD4",
+      "character": "體",
+      "unitNumber": 13,
+      "page": 126,
+      "readingText": "체 몸"
+    },
+    {
+      "id": "unit-13-hanja-4ED6",
+      "characterId": "hanja-4ED6",
+      "character": "他",
+      "unitNumber": 13,
+      "page": 126,
+      "readingText": "타 다르다, 남"
+    },
+    {
+      "id": "unit-13-hanja-6F54",
+      "characterId": "hanja-6F54",
+      "character": "潔",
+      "unitNumber": 13,
+      "page": 126,
+      "readingText": "결 깨끗하다"
+    },
+    {
+      "id": "unit-13-hanja-52D5",
+      "characterId": "hanja-52D5",
+      "character": "動",
+      "unitNumber": 13,
+      "page": 126,
+      "readingText": "동 움직이다"
+    },
+    {
+      "id": "unit-13-hanja-5B5D",
+      "characterId": "hanja-5B5D",
+      "character": "孝",
+      "unitNumber": 13,
+      "page": 126,
+      "readingText": "효 효도"
+    },
+    {
+      "id": "unit-13-hanja-611F",
+      "characterId": "hanja-611F",
+      "character": "感",
+      "unitNumber": 13,
+      "page": 126,
+      "readingText": "감 느끼다"
+    },
+    {
+      "id": "unit-13-hanja-559C",
+      "characterId": "hanja-559C",
+      "character": "喜",
+      "unitNumber": 13,
+      "page": 126,
+      "readingText": "희 기쁘다"
+    },
+    {
+      "id": "unit-13-hanja-6085",
+      "characterId": "hanja-6085",
+      "character": "悅",
+      "unitNumber": 13,
+      "page": 126,
+      "readingText": "열 기쁘다"
+    },
+    {
+      "id": "unit-13-hanja-6012",
+      "characterId": "hanja-6012",
+      "character": "怒",
+      "unitNumber": 13,
+      "page": 126,
+      "readingText": "노 성내다"
+    },
+    {
+      "id": "unit-13-hanja-767C",
+      "characterId": "hanja-767C",
+      "character": "發",
+      "unitNumber": 13,
+      "page": 126,
+      "readingText": "발 피다, 드러내다"
+    },
+    {
+      "id": "unit-13-hanja-60B2",
+      "characterId": "hanja-60B2",
+      "character": "悲",
+      "unitNumber": 13,
+      "page": 126,
+      "readingText": "비 슬프다"
+    },
+    {
+      "id": "unit-13-hanja-54C0",
+      "characterId": "hanja-54C0",
+      "character": "哀",
+      "unitNumber": 13,
+      "page": 126,
+      "readingText": "애 슬프다"
+    },
+    {
+      "id": "unit-13-hanja-5FEB",
+      "characterId": "hanja-5FEB",
+      "character": "快",
+      "unitNumber": 13,
+      "page": 126,
+      "readingText": "쾌 유쾌하다"
+    },
+    {
+      "id": "unit-14-hanja-751F",
+      "characterId": "hanja-751F",
+      "character": "生",
+      "unitNumber": 14,
+      "page": 128,
+      "readingText": "생 나다"
+    },
+    {
+      "id": "unit-14-hanja-547D",
+      "characterId": "hanja-547D",
+      "character": "命",
+      "unitNumber": 14,
+      "page": 128,
+      "readingText": "명 목숨"
+    },
+    {
+      "id": "unit-14-hanja-6D3B",
+      "characterId": "hanja-6D3B",
+      "character": "活",
+      "unitNumber": 14,
+      "page": 128,
+      "readingText": "활 살다"
+    },
+    {
+      "id": "unit-14-hanja-53C8",
+      "characterId": "hanja-53C8",
+      "character": "又",
+      "unitNumber": 14,
+      "page": 130,
+      "readingText": "우 또"
+    },
+    {
+      "id": "unit-14-hanja-9053",
+      "characterId": "hanja-9053",
+      "character": "道",
+      "unitNumber": 14,
+      "page": 130,
+      "readingText": "도 길, 말하다"
+    },
+    {
+      "id": "unit-14-hanja-8AAA",
+      "characterId": "hanja-8AAA",
+      "character": "說",
+      "unitNumber": 14,
+      "page": 130,
+      "readingText": "설 말씀"
+    },
+    {
+      "id": "unit-14-hanja-898B",
+      "characterId": "hanja-898B",
+      "character": "見",
+      "unitNumber": 14,
+      "page": 130,
+      "readingText": "견 보다"
+    },
+    {
+      "id": "unit-14-hanja-7FA9",
+      "characterId": "hanja-7FA9",
+      "character": "義",
+      "unitNumber": 14,
+      "page": 130,
+      "readingText": "의 옳다"
+    },
+    {
+      "id": "unit-14-hanja-5371",
+      "characterId": "hanja-5371",
+      "character": "危",
+      "unitNumber": 14,
+      "page": 130,
+      "readingText": "위 위태롭다"
+    },
+    {
+      "id": "unit-14-hanja-5FC5",
+      "characterId": "hanja-5FC5",
+      "character": "必",
+      "unitNumber": 14,
+      "page": 130,
+      "readingText": "필 반드시"
+    },
+    {
+      "id": "unit-14-hanja-6B7B",
+      "characterId": "hanja-6B7B",
+      "character": "死",
+      "unitNumber": 14,
+      "page": 130,
+      "readingText": "사 죽다"
+    },
+    {
+      "id": "unit-14-hanja-5247",
+      "characterId": "hanja-5247",
+      "character": "則",
+      "unitNumber": 14,
+      "page": 130,
+      "readingText": "칙 법칙 / 즉 곧"
+    },
+    {
+      "id": "unit-14-hanja-9808",
+      "characterId": "hanja-9808",
+      "character": "須",
+      "unitNumber": 14,
+      "page": 134,
+      "readingText": "수 반드시"
+    },
+    {
+      "id": "unit-14-hanja-52DD",
+      "characterId": "hanja-52DD",
+      "character": "勝",
+      "unitNumber": 14,
+      "page": 134,
+      "readingText": "승 이기다"
+    },
+    {
+      "id": "unit-14-hanja-8981",
+      "characterId": "hanja-8981",
+      "character": "要",
+      "unitNumber": 14,
+      "page": 134,
+      "readingText": "요 중요하다"
+    },
+    {
+      "id": "unit-14-hanja-6557",
+      "characterId": "hanja-6557",
+      "character": "敗",
+      "unitNumber": 14,
+      "page": 134,
+      "readingText": "패 지다"
+    },
+    {
+      "id": "unit-14-hanja-8003",
+      "characterId": "hanja-8003",
+      "character": "考",
+      "unitNumber": 14,
+      "page": 134,
+      "readingText": "고 생각하다"
+    },
+    {
+      "id": "unit-14-hanja-5B89",
+      "characterId": "hanja-5B89",
+      "character": "安",
+      "unitNumber": 14,
+      "page": 134,
+      "readingText": "안 편안하다"
+    },
+    {
+      "id": "unit-14-hanja-66F2",
+      "characterId": "hanja-66F2",
+      "character": "曲",
+      "unitNumber": 14,
+      "page": 134,
+      "readingText": "곡 굽다, 노래"
+    },
+    {
+      "id": "unit-14-hanja-5F0F",
+      "characterId": "hanja-5F0F",
+      "character": "式",
+      "unitNumber": 14,
+      "page": 134,
+      "readingText": "식 법"
+    },
+    {
+      "id": "unit-14-hanja-7A2E",
+      "characterId": "hanja-7A2E",
+      "character": "種",
+      "unitNumber": 14,
+      "page": 134,
+      "readingText": "종 씨, 갈래"
+    },
+    {
+      "id": "unit-14-hanja-6B4C",
+      "characterId": "hanja-6B4C",
+      "character": "歌",
+      "unitNumber": 14,
+      "page": 134,
+      "readingText": "가 노래"
+    },
+    {
+      "id": "unit-14-hanja-821E",
+      "characterId": "hanja-821E",
+      "character": "舞",
+      "unitNumber": 14,
+      "page": 134,
+      "readingText": "무 춤추다"
+    },
+    {
+      "id": "unit-14-hanja-784F",
+      "characterId": "hanja-784F",
+      "character": "硏",
+      "unitNumber": 14,
+      "page": 134,
+      "readingText": "연 갈다"
+    },
+    {
+      "id": "unit-14-hanja-7A76",
+      "characterId": "hanja-7A76",
+      "character": "究",
+      "unitNumber": 14,
+      "page": 134,
+      "readingText": "구 연구하다"
+    },
+    {
+      "id": "unit-14-hanja-7B97",
+      "characterId": "hanja-7B97",
+      "character": "算",
+      "unitNumber": 14,
+      "page": 134,
+      "readingText": "산 셈하다"
+    },
+    {
+      "id": "unit-14-hanja-7AF6",
+      "characterId": "hanja-7AF6",
+      "character": "競",
+      "unitNumber": 14,
+      "page": 134,
+      "readingText": "경 다투다"
+    },
+    {
+      "id": "unit-14-hanja-722D",
+      "characterId": "hanja-722D",
+      "character": "爭",
+      "unitNumber": 14,
+      "page": 134,
+      "readingText": "쟁 다투다"
+    },
+    {
+      "id": "unit-14-hanja-5148",
+      "characterId": "hanja-5148",
+      "character": "先",
+      "unitNumber": 14,
+      "page": 134,
+      "readingText": "선 먼저"
+    },
+    {
+      "id": "unit-15-hanja-65C5",
+      "characterId": "hanja-65C5",
+      "character": "旅",
+      "unitNumber": 15,
+      "page": 140,
+      "readingText": "려 나그네"
+    },
+    {
+      "id": "unit-15-hanja-6D41",
+      "characterId": "hanja-6D41",
+      "character": "流",
+      "unitNumber": 15,
+      "page": 140,
+      "readingText": "류 흐르다"
+    },
+    {
+      "id": "unit-15-hanja-5B6B",
+      "characterId": "hanja-5B6B",
+      "character": "孫",
+      "unitNumber": 15,
+      "page": 142,
+      "readingText": "손 손자"
+    },
+    {
+      "id": "unit-15-hanja-8B80",
+      "characterId": "hanja-8B80",
+      "character": "讀",
+      "unitNumber": 15,
+      "page": 142,
+      "readingText": "독 읽다"
+    },
+    {
+      "id": "unit-15-hanja-85E5",
+      "characterId": "hanja-85E5",
+      "character": "藥",
+      "unitNumber": 15,
+      "page": 142,
+      "readingText": "약 약"
+    },
+    {
+      "id": "unit-15-hanja-9152",
+      "characterId": "hanja-9152",
+      "character": "酒",
+      "unitNumber": 15,
+      "page": 142,
+      "readingText": "주 술"
+    },
+    {
+      "id": "unit-15-hanja-731B",
+      "characterId": "hanja-731B",
+      "character": "猛",
+      "unitNumber": 15,
+      "page": 142,
+      "readingText": "맹 사납다"
+    },
+    {
+      "id": "unit-15-hanja-4F5C",
+      "characterId": "hanja-4F5C",
+      "character": "作",
+      "unitNumber": 15,
+      "page": 142,
+      "readingText": "작 짓다"
+    },
+    {
+      "id": "unit-15-hanja-53E5",
+      "characterId": "hanja-53E5",
+      "character": "句",
+      "unitNumber": 15,
+      "page": 142,
+      "readingText": "구 글귀"
+    },
+    {
+      "id": "unit-15-hanja-8D70",
+      "characterId": "hanja-8D70",
+      "character": "走",
+      "unitNumber": 15,
+      "page": 142,
+      "readingText": "주 달리다"
+    },
+    {
+      "id": "unit-15-hanja-6885",
+      "characterId": "hanja-6885",
+      "character": "梅",
+      "unitNumber": 15,
+      "page": 142,
+      "readingText": "매 매화"
+    },
+    {
+      "id": "unit-15-hanja-82B1",
+      "characterId": "hanja-82B1",
+      "character": "花",
+      "unitNumber": 15,
+      "page": 142,
+      "readingText": "화 꽃"
+    },
+    {
+      "id": "unit-15-hanja-843D",
+      "characterId": "hanja-843D",
+      "character": "落",
+      "unitNumber": 15,
+      "page": 142,
+      "readingText": "락 떨어지다"
+    },
+    {
+      "id": "unit-15-hanja-8A9E",
+      "characterId": "hanja-8A9E",
+      "character": "語",
+      "unitNumber": 15,
+      "page": 142,
+      "readingText": "어 말씀"
+    },
+    {
+      "id": "unit-15-hanja-5352",
+      "characterId": "hanja-5352",
+      "character": "卒",
+      "unitNumber": 15,
+      "page": 142,
+      "readingText": "졸 마치다"
+    },
+    {
+      "id": "unit-15-hanja-9038",
+      "characterId": "hanja-9038",
+      "character": "逸",
+      "unitNumber": 15,
+      "page": 142,
+      "readingText": "일 편안하다"
+    },
+    {
+      "id": "unit-15-hanja-7AF9",
+      "characterId": "hanja-7AF9",
+      "character": "竹",
+      "unitNumber": 15,
+      "page": 142,
+      "readingText": "죽 대나무"
+    },
+    {
+      "id": "unit-15-hanja-6C7A",
+      "characterId": "hanja-6C7A",
+      "character": "決",
+      "unitNumber": 15,
+      "page": 146,
+      "readingText": "결 결정하다"
+    },
+    {
+      "id": "unit-15-hanja-5099",
+      "characterId": "hanja-5099",
+      "character": "備",
+      "unitNumber": 15,
+      "page": 146,
+      "readingText": "비 갖추다"
+    },
+    {
+      "id": "unit-15-hanja-8A71",
+      "characterId": "hanja-8A71",
+      "character": "話",
+      "unitNumber": 15,
+      "page": 146,
+      "readingText": "화 말씀"
+    },
+    {
+      "id": "unit-15-hanja-76F8",
+      "characterId": "hanja-76F8",
+      "character": "相",
+      "unitNumber": 15,
+      "page": 146,
+      "readingText": "상 서로"
+    },
+    {
+      "id": "unit-15-hanja-88FD",
+      "characterId": "hanja-88FD",
+      "character": "製",
+      "unitNumber": 15,
+      "page": 146,
+      "readingText": "제 짓다"
+    },
+    {
+      "id": "unit-15-hanja-9023",
+      "characterId": "hanja-9023",
+      "character": "連",
+      "unitNumber": 15,
+      "page": 146,
+      "readingText": "련 잇다"
+    },
+    {
+      "id": "unit-15-hanja-7E8C",
+      "characterId": "hanja-7E8C",
+      "character": "續",
+      "unitNumber": 15,
+      "page": 146,
+      "readingText": "속 잇다"
+    },
+    {
+      "id": "unit-15-hanja-7DDA",
+      "characterId": "hanja-7DDA",
+      "character": "線",
+      "unitNumber": 15,
+      "page": 146,
+      "readingText": "선 줄"
+    },
+    {
+      "id": "unit-15-hanja-96FB",
+      "characterId": "hanja-96FB",
+      "character": "電",
+      "unitNumber": 15,
+      "page": 146,
+      "readingText": "전 번개, 전기"
+    },
+    {
+      "id": "unit-15-hanja-9650",
+      "characterId": "hanja-9650",
+      "character": "限",
+      "unitNumber": 15,
+      "page": 146,
+      "readingText": "한 한정하다"
+    },
+    {
+      "id": "unit-15-hanja-5915",
+      "characterId": "hanja-5915",
+      "character": "夕",
+      "unitNumber": 15,
+      "page": 146,
+      "readingText": "석 저녁"
+    },
+    {
+      "id": "unit-15-hanja-967D",
+      "characterId": "hanja-967D",
+      "character": "陽",
+      "unitNumber": 15,
+      "page": 146,
+      "readingText": "양 볕"
+    },
+    {
+      "id": "unit-15-hanja-98A8",
+      "characterId": "hanja-98A8",
+      "character": "風",
+      "unitNumber": 15,
+      "page": 146,
+      "readingText": "풍 바람"
+    },
+    {
+      "id": "unit-15-hanja-666F",
+      "characterId": "hanja-666F",
+      "character": "景",
+      "unitNumber": 15,
+      "page": 146,
+      "readingText": "경 경치"
+    },
+    {
+      "id": "unit-15-hanja-975C",
+      "characterId": "hanja-975C",
+      "character": "靜",
+      "unitNumber": 15,
+      "page": 146,
+      "readingText": "정 고요하다"
+    },
+    {
+      "id": "unit-15-hanja-7269",
+      "characterId": "hanja-7269",
+      "character": "物",
+      "unitNumber": 15,
+      "page": 146,
+      "readingText": "물 물건"
+    },
+    {
+      "id": "unit-15-hanja-6EAA",
+      "characterId": "hanja-6EAA",
+      "character": "溪",
+      "unitNumber": 15,
+      "page": 146,
+      "readingText": "계 시내"
+    },
+    {
+      "id": "unit-15-hanja-8C37",
+      "characterId": "hanja-8C37",
+      "character": "谷",
+      "unitNumber": 15,
+      "page": 146,
+      "readingText": "곡 골짜기"
+    },
+    {
+      "id": "unit-15-hanja-5152",
+      "characterId": "hanja-5152",
+      "character": "兒",
+      "unitNumber": 15,
+      "page": 146,
+      "readingText": "아 아이"
+    },
+    {
+      "id": "unit-15-hanja-7AE5",
+      "characterId": "hanja-7AE5",
+      "character": "童",
+      "unitNumber": 15,
+      "page": 146,
+      "readingText": "동 아이"
+    },
+    {
+      "id": "unit-16-hanja-7740",
+      "characterId": "hanja-7740",
+      "character": "着",
+      "unitNumber": 16,
+      "page": 148,
+      "readingText": "착 붙다"
+    },
+    {
+      "id": "unit-16-hanja-6027",
+      "characterId": "hanja-6027",
+      "character": "性",
+      "unitNumber": 16,
+      "page": 150,
+      "readingText": "성 성품"
+    },
+    {
+      "id": "unit-16-hanja-732B",
+      "characterId": "hanja-732B",
+      "character": "猫",
+      "unitNumber": 16,
+      "page": 150,
+      "readingText": "묘 고양이"
+    },
+    {
+      "id": "unit-16-hanja-5BAE",
+      "characterId": "hanja-5BAE",
+      "character": "宮",
+      "unitNumber": 16,
+      "page": 150,
+      "readingText": "궁 집"
+    },
+    {
+      "id": "unit-16-hanja-5617",
+      "characterId": "hanja-5617",
+      "character": "嘗",
+      "unitNumber": 16,
+      "page": 150,
+      "readingText": "상 일찍이"
+    },
+    {
+      "id": "unit-16-hanja-755C",
+      "characterId": "hanja-755C",
+      "character": "畜",
+      "unitNumber": 16,
+      "page": 150,
+      "readingText": "축 짐승 / 휵 기르다"
+    },
+    {
+      "id": "unit-16-hanja-8272",
+      "characterId": "hanja-8272",
+      "character": "色",
+      "unitNumber": 16,
+      "page": 150,
+      "readingText": "색 빛"
+    },
+    {
+      "id": "unit-16-hanja-9EC3",
+      "characterId": "hanja-9EC3",
+      "character": "黃",
+      "unitNumber": 16,
+      "page": 150,
+      "readingText": "황 누렇다"
+    },
+    {
+      "id": "unit-16-hanja-751A",
+      "characterId": "hanja-751A",
+      "character": "甚",
+      "unitNumber": 16,
+      "page": 150,
+      "readingText": "심 심하다"
+    },
+    {
+      "id": "unit-16-hanja-5396",
+      "characterId": "hanja-5396",
+      "character": "厖",
+      "unitNumber": 16,
+      "page": 150,
+      "readingText": "방 크다",
+      "transcriptionNote": "공개 텍스트에서 한자 글리프가 누락되어 150쪽 화면과 대조해 厖을 복원함."
+    },
+    {
+      "id": "unit-16-hanja-865F",
+      "characterId": "hanja-865F",
+      "character": "號",
+      "unitNumber": 16,
+      "page": 150,
+      "readingText": "호 이름, 부르다"
+    },
+    {
+      "id": "unit-16-hanja-6BCF",
+      "characterId": "hanja-6BCF",
+      "character": "每",
+      "unitNumber": 16,
+      "page": 150,
+      "readingText": "매 매양"
+    },
+    {
+      "id": "unit-16-hanja-5B98",
+      "characterId": "hanja-5B98",
+      "character": "官",
+      "unitNumber": 16,
+      "page": 150,
+      "readingText": "관 벼슬"
+    },
+    {
+      "id": "unit-16-hanja-6295",
+      "characterId": "hanja-6295",
+      "character": "投",
+      "unitNumber": 16,
+      "page": 150,
+      "readingText": "투 던지다"
+    },
+    {
+      "id": "unit-16-hanja-7136",
+      "characterId": "hanja-7136",
+      "character": "然",
+      "unitNumber": 16,
+      "page": 150,
+      "readingText": "연 그렇다"
+    },
+    {
+      "id": "unit-16-hanja-6562",
+      "characterId": "hanja-6562",
+      "character": "敢",
+      "unitNumber": 16,
+      "page": 150,
+      "readingText": "감 감히"
+    },
+    {
+      "id": "unit-16-hanja-9280",
+      "characterId": "hanja-9280",
+      "character": "銀",
+      "unitNumber": 16,
+      "page": 154,
+      "readingText": "은 은"
+    },
+    {
+      "id": "unit-16-hanja-8CA8",
+      "characterId": "hanja-8CA8",
+      "character": "貨",
+      "unitNumber": 16,
+      "page": 154,
+      "readingText": "화 재화"
+    },
+    {
+      "id": "unit-16-hanja-7D14",
+      "characterId": "hanja-7D14",
+      "character": "純",
+      "unitNumber": 16,
+      "page": 154,
+      "readingText": "순 순수하다"
+    },
+    {
+      "id": "unit-16-hanja-8CAF",
+      "characterId": "hanja-8CAF",
+      "character": "貯",
+      "unitNumber": 16,
+      "page": 154,
+      "readingText": "저 쌓다"
+    },
+    {
+      "id": "unit-16-hanja-8D64",
+      "characterId": "hanja-8D64",
+      "character": "赤",
+      "unitNumber": 16,
+      "page": 154,
+      "readingText": "적 붉다"
+    },
+    {
+      "id": "unit-16-hanja-9751",
+      "characterId": "hanja-9751",
+      "character": "靑",
+      "unitNumber": 16,
+      "page": 154,
+      "readingText": "청 푸르다"
+    },
+    {
+      "id": "unit-16-hanja-9ED1",
+      "characterId": "hanja-9ED1",
+      "character": "黑",
+      "unitNumber": 16,
+      "page": 154,
+      "readingText": "흑 검다"
+    },
+    {
+      "id": "unit-16-hanja-5DE8",
+      "characterId": "hanja-5DE8",
+      "character": "巨",
+      "unitNumber": 16,
+      "page": 154,
+      "readingText": "거 크다"
+    },
+    {
+      "id": "unit-16-hanja-83AB",
+      "characterId": "hanja-83AB",
+      "character": "莫",
+      "unitNumber": 16,
+      "page": 154,
+      "readingText": "막 없다"
+    },
+    {
+      "id": "unit-16-hanja-5049",
+      "characterId": "hanja-5049",
+      "character": "偉",
+      "unitNumber": 16,
+      "page": 154,
+      "readingText": "위 크다"
+    },
+    {
+      "id": "unit-16-hanja-9CE5",
+      "characterId": "hanja-9CE5",
+      "character": "鳥",
+      "unitNumber": 16,
+      "page": 154,
+      "readingText": "조 새"
+    },
+    {
+      "id": "unit-16-hanja-6597",
+      "characterId": "hanja-6597",
+      "character": "斗",
+      "unitNumber": 16,
+      "page": 154,
+      "readingText": "두 말, 별 이름"
+    },
+    {
+      "id": "unit-16-hanja-661F",
+      "characterId": "hanja-661F",
+      "character": "星",
+      "unitNumber": 16,
+      "page": 154,
+      "readingText": "성 별"
+    },
+    {
+      "id": "unit-16-hanja-864E",
+      "characterId": "hanja-864E",
+      "character": "虎",
+      "unitNumber": 16,
+      "page": 154,
+      "readingText": "호 범"
+    },
+    {
+      "id": "unit-16-hanja-60A3",
+      "characterId": "hanja-60A3",
+      "character": "患",
+      "unitNumber": 16,
+      "page": 154,
+      "readingText": "환 근심"
+    },
+    {
+      "id": "unit-16-hanja-7523",
+      "characterId": "hanja-7523",
+      "character": "産",
+      "unitNumber": 16,
+      "page": 154,
+      "readingText": "산 낳다"
+    },
+    {
+      "id": "unit-16-hanja-990A",
+      "characterId": "hanja-990A",
+      "character": "養",
+      "unitNumber": 16,
+      "page": 154,
+      "readingText": "양 기르다"
+    },
+    {
+      "id": "unit-17-hanja-9593",
+      "characterId": "hanja-9593",
+      "character": "間",
+      "unitNumber": 17,
+      "page": 156,
+      "readingText": "간 사이"
+    },
+    {
+      "id": "unit-17-hanja-54C1",
+      "characterId": "hanja-54C1",
+      "character": "品",
+      "unitNumber": 17,
+      "page": 156,
+      "readingText": "품 물건"
+    },
+    {
+      "id": "unit-17-hanja-6211",
+      "characterId": "hanja-6211",
+      "character": "我",
+      "unitNumber": 17,
+      "page": 158,
+      "readingText": "아 나"
+    },
+    {
+      "id": "unit-17-hanja-52D9",
+      "characterId": "hanja-52D9",
+      "character": "務",
+      "unitNumber": 17,
+      "page": 158,
+      "readingText": "무 힘쓰다"
+    },
+    {
+      "id": "unit-17-hanja-5F7C",
+      "characterId": "hanja-5F7C",
+      "character": "彼",
+      "unitNumber": 17,
+      "page": 158,
+      "readingText": "피 저"
+    },
+    {
+      "id": "unit-17-hanja-8CB4",
+      "characterId": "hanja-8CB4",
+      "character": "貴",
+      "unitNumber": 17,
+      "page": 158,
+      "readingText": "귀 귀하다"
+    },
+    {
+      "id": "unit-17-hanja-65B9",
+      "characterId": "hanja-65B9",
+      "character": "方",
+      "unitNumber": 17,
+      "page": 158,
+      "readingText": "방 모, 방위"
+    },
+    {
+      "id": "unit-17-hanja-8863",
+      "characterId": "hanja-8863",
+      "character": "衣",
+      "unitNumber": 17,
+      "page": 158,
+      "readingText": "의 옷"
+    },
+    {
+      "id": "unit-17-hanja-670D",
+      "characterId": "hanja-670D",
+      "character": "服",
+      "unitNumber": 17,
+      "page": 158,
+      "readingText": "복 옷"
+    },
+    {
+      "id": "unit-17-hanja-98EE",
+      "characterId": "hanja-98EE",
+      "character": "飮",
+      "unitNumber": 17,
+      "page": 158,
+      "readingText": "음 마시다"
+    },
+    {
+      "id": "unit-17-hanja-7D76",
+      "characterId": "hanja-7D76",
+      "character": "絶",
+      "unitNumber": 17,
+      "page": 158,
+      "readingText": "절 끊다, 뛰어나다"
+    },
+    {
+      "id": "unit-17-hanja-5168",
+      "characterId": "hanja-5168",
+      "character": "全",
+      "unitNumber": 17,
+      "page": 162,
+      "readingText": "전 모두"
+    },
+    {
+      "id": "unit-17-hanja-6CBB",
+      "characterId": "hanja-6CBB",
+      "character": "治",
+      "unitNumber": 17,
+      "page": 162,
+      "readingText": "치 다스리다"
+    },
+    {
+      "id": "unit-17-hanja-4F4D",
+      "characterId": "hanja-4F4D",
+      "character": "位",
+      "unitNumber": 17,
+      "page": 162,
+      "readingText": "위 자리"
+    },
+    {
+      "id": "unit-17-hanja-653F",
+      "characterId": "hanja-653F",
+      "character": "政",
+      "unitNumber": 17,
+      "page": 162,
+      "readingText": "정 정사"
+    },
+    {
+      "id": "unit-17-hanja-69AE",
+      "characterId": "hanja-69AE",
+      "character": "榮",
+      "unitNumber": 17,
+      "page": 162,
+      "readingText": "영 영화롭다"
+    },
+    {
+      "id": "unit-17-hanja-83EF",
+      "characterId": "hanja-83EF",
+      "character": "華",
+      "unitNumber": 17,
+      "page": 162,
+      "readingText": "화 빛나다"
+    },
+    {
+      "id": "unit-17-hanja-8302",
+      "characterId": "hanja-8302",
+      "character": "茂",
+      "unitNumber": 17,
+      "page": 162,
+      "readingText": "무 무성하다"
+    },
+    {
+      "id": "unit-17-hanja-76DB",
+      "characterId": "hanja-76DB",
+      "character": "盛",
+      "unitNumber": 17,
+      "page": 162,
+      "readingText": "성 성하다"
+    },
+    {
+      "id": "unit-17-hanja-502B",
+      "characterId": "hanja-502B",
+      "character": "倫",
+      "unitNumber": 17,
+      "page": 162,
+      "readingText": "륜 인륜"
+    },
+    {
+      "id": "unit-17-hanja-5999",
+      "characterId": "hanja-5999",
+      "character": "妙",
+      "unitNumber": 17,
+      "page": 162,
+      "readingText": "묘 묘하다"
+    },
+    {
+      "id": "unit-17-hanja-4E16",
+      "characterId": "hanja-4E16",
+      "character": "世",
+      "unitNumber": 17,
+      "page": 162,
+      "readingText": "세 세상"
+    },
+    {
+      "id": "unit-17-hanja-52A0",
+      "characterId": "hanja-52A0",
+      "character": "加",
+      "unitNumber": 17,
+      "page": 162,
+      "readingText": "가 더하다"
+    },
+    {
+      "id": "unit-17-hanja-539F",
+      "characterId": "hanja-539F",
+      "character": "原",
+      "unitNumber": 17,
+      "page": 162,
+      "readingText": "원 근원"
+    },
+    {
+      "id": "unit-17-hanja-56E0",
+      "characterId": "hanja-56E0",
+      "character": "因",
+      "unitNumber": 17,
+      "page": 162,
+      "readingText": "인 인하다"
+    },
+    {
+      "id": "unit-17-hanja-679C",
+      "characterId": "hanja-679C",
+      "character": "果",
+      "unitNumber": 17,
+      "page": 162,
+      "readingText": "과 열매"
+    },
+    {
+      "id": "unit-17-hanja-7279",
+      "characterId": "hanja-7279",
+      "character": "特",
+      "unitNumber": 17,
+      "page": 162,
+      "readingText": "특 특별하다"
+    },
+    {
+      "id": "unit-17-hanja-5225",
+      "characterId": "hanja-5225",
+      "character": "別",
+      "unitNumber": 17,
+      "page": 162,
+      "readingText": "별 다르다"
+    },
+    {
+      "id": "unit-17-hanja-5E73",
+      "characterId": "hanja-5E73",
+      "character": "平",
+      "unitNumber": 17,
+      "page": 162,
+      "readingText": "평 평평하다"
+    },
+    {
+      "id": "unit-17-hanja-51E1",
+      "characterId": "hanja-51E1",
+      "character": "凡",
+      "unitNumber": 17,
+      "page": 162,
+      "readingText": "범 무릇, 보통"
+    },
+    {
+      "id": "unit-18-hanja-4E3B",
+      "characterId": "hanja-4E3B",
+      "character": "主",
+      "unitNumber": 18,
+      "page": 168,
+      "readingText": "주 주인"
+    },
+    {
+      "id": "unit-18-hanja-984C",
+      "characterId": "hanja-984C",
+      "character": "題",
+      "unitNumber": 18,
+      "page": 168,
+      "readingText": "제 제목"
+    },
+    {
+      "id": "unit-18-hanja-6C11",
+      "characterId": "hanja-6C11",
+      "character": "民",
+      "unitNumber": 18,
+      "page": 168,
+      "readingText": "민 백성"
+    },
+    {
+      "id": "unit-18-hanja-516C",
+      "characterId": "hanja-516C",
+      "character": "公",
+      "unitNumber": 18,
+      "page": 170,
+      "readingText": "공 공평하다"
+    },
+    {
+      "id": "unit-18-hanja-738B",
+      "characterId": "hanja-738B",
+      "character": "王",
+      "unitNumber": 18,
+      "page": 170,
+      "readingText": "왕 임금"
+    },
+    {
+      "id": "unit-18-hanja-5E38",
+      "characterId": "hanja-5E38",
+      "character": "常",
+      "unitNumber": 18,
+      "page": 170,
+      "readingText": "상 항상"
+    },
+    {
+      "id": "unit-18-hanja-6C5D",
+      "characterId": "hanja-6C5D",
+      "character": "汝",
+      "unitNumber": 18,
+      "page": 170,
+      "readingText": "여 너"
+    },
+    {
+      "id": "unit-18-hanja-9054",
+      "characterId": "hanja-9054",
+      "character": "達",
+      "unitNumber": 18,
+      "page": 170,
+      "readingText": "달 통달하다"
+    },
+    {
+      "id": "unit-18-hanja-5A66",
+      "characterId": "hanja-5A66",
+      "character": "婦",
+      "unitNumber": 18,
+      "page": 170,
+      "readingText": "부 아내"
+    },
+    {
+      "id": "unit-18-hanja-4ECA",
+      "characterId": "hanja-4ECA",
+      "character": "今",
+      "unitNumber": 18,
+      "page": 170,
+      "readingText": "금 이제"
+    },
+    {
+      "id": "unit-18-hanja-4F55",
+      "characterId": "hanja-4F55",
+      "character": "何",
+      "unitNumber": 18,
+      "page": 170,
+      "readingText": "하 어찌"
+    },
+    {
+      "id": "unit-18-hanja-4E4E",
+      "characterId": "hanja-4E4E",
+      "character": "乎",
+      "unitNumber": 18,
+      "page": 170,
+      "readingText": "호 어조사"
+    },
+    {
+      "id": "unit-18-hanja-5339",
+      "characterId": "hanja-5339",
+      "character": "匹",
+      "unitNumber": 18,
+      "page": 170,
+      "readingText": "필 짝"
+    },
+    {
+      "id": "unit-18-hanja-592B",
+      "characterId": "hanja-592B",
+      "character": "夫",
+      "unitNumber": 18,
+      "page": 170,
+      "readingText": "부 사내"
+    },
+    {
+      "id": "unit-18-hanja-7336",
+      "characterId": "hanja-7336",
+      "character": "猶",
+      "unitNumber": 18,
+      "page": 170,
+      "readingText": "유 오히려"
+    },
+    {
+      "id": "unit-18-hanja-6CC1",
+      "characterId": "hanja-6CC1",
+      "character": "況",
+      "unitNumber": 18,
+      "page": 170,
+      "readingText": "황 하물며"
+    },
+    {
+      "id": "unit-18-hanja-5C0A",
+      "characterId": "hanja-5C0A",
+      "character": "尊",
+      "unitNumber": 18,
+      "page": 170,
+      "readingText": "존 높다"
+    },
+    {
+      "id": "unit-18-hanja-6696",
+      "characterId": "hanja-6696",
+      "character": "暖",
+      "unitNumber": 18,
+      "page": 174,
+      "readingText": "난 따뜻하다"
+    },
+    {
+      "id": "unit-18-hanja-5EA6",
+      "characterId": "hanja-5EA6",
+      "character": "度",
+      "unitNumber": 18,
+      "page": 174,
+      "readingText": "도 법도"
+    },
+    {
+      "id": "unit-18-hanja-9806",
+      "characterId": "hanja-9806",
+      "character": "順",
+      "unitNumber": 18,
+      "page": 174,
+      "readingText": "순 순하다"
+    },
+    {
+      "id": "unit-18-hanja-6CC9",
+      "characterId": "hanja-6CC9",
+      "character": "泉",
+      "unitNumber": 18,
+      "page": 174,
+      "readingText": "천 샘"
+    },
+    {
+      "id": "unit-18-hanja-5BA2",
+      "characterId": "hanja-5BA2",
+      "character": "客",
+      "unitNumber": 18,
+      "page": 174,
+      "readingText": "객 손님"
+    },
+    {
+      "id": "unit-18-hanja-53E4",
+      "characterId": "hanja-53E4",
+      "character": "古",
+      "unitNumber": 18,
+      "page": 174,
+      "readingText": "고 예"
+    },
+    {
+      "id": "unit-18-hanja-5931",
+      "characterId": "hanja-5931",
+      "character": "失",
+      "unitNumber": 18,
+      "page": 174,
+      "readingText": "실 잃다"
+    },
+    {
+      "id": "unit-18-hanja-907A",
+      "characterId": "hanja-907A",
+      "character": "遺",
+      "unitNumber": 18,
+      "page": 174,
+      "readingText": "유 남기다"
+    },
+    {
+      "id": "unit-18-hanja-5FE0",
+      "characterId": "hanja-5FE0",
+      "character": "忠",
+      "unitNumber": 18,
+      "page": 174,
+      "readingText": "충 충성"
+    },
+    {
+      "id": "unit-18-hanja-5A5A",
+      "characterId": "hanja-5A5A",
+      "character": "婚",
+      "unitNumber": 18,
+      "page": 174,
+      "readingText": "혼 혼인하다"
+    },
+    {
+      "id": "unit-18-hanja-90DE",
+      "characterId": "hanja-90DE",
+      "character": "郞",
+      "unitNumber": 18,
+      "page": 174,
+      "readingText": "랑 사내"
+    },
+    {
+      "id": "unit-18-hanja-4FBF",
+      "characterId": "hanja-4FBF",
+      "character": "便",
+      "unitNumber": 18,
+      "page": 174,
+      "readingText": "편 편하다, 소식"
+    },
+    {
+      "id": "unit-18-hanja-7D19",
+      "characterId": "hanja-7D19",
+      "character": "紙",
+      "unitNumber": 18,
+      "page": 174,
+      "readingText": "지 종이"
+    },
+    {
+      "id": "unit-18-hanja-7D04",
+      "characterId": "hanja-7D04",
+      "character": "約",
+      "unitNumber": 18,
+      "page": 174,
+      "readingText": "약 맺다"
+    },
+    {
+      "id": "unit-18-hanja-795D",
+      "characterId": "hanja-795D",
+      "character": "祝",
+      "unitNumber": 18,
+      "page": 174,
+      "readingText": "축 빌다"
+    },
+    {
+      "id": "unit-18-hanja-8CC0",
+      "characterId": "hanja-8CC0",
+      "character": "賀",
+      "unitNumber": 18,
+      "page": 174,
+      "readingText": "하 하례하다"
+    },
+    {
+      "id": "unit-19-hanja-5206",
+      "characterId": "hanja-5206",
+      "character": "分",
+      "unitNumber": 19,
+      "page": 176,
+      "readingText": "분 나누다"
+    },
+    {
+      "id": "unit-19-hanja-89E3",
+      "characterId": "hanja-89E3",
+      "character": "解",
+      "unitNumber": 19,
+      "page": 176,
+      "readingText": "해 풀다"
+    },
+    {
+      "id": "unit-19-hanja-7B49",
+      "characterId": "hanja-7B49",
+      "character": "等",
+      "unitNumber": 19,
+      "page": 176,
+      "readingText": "등 같다"
+    },
+    {
+      "id": "unit-19-hanja-842C",
+      "characterId": "hanja-842C",
+      "character": "萬",
+      "unitNumber": 19,
+      "page": 178,
+      "readingText": "만 일만"
+    },
+    {
+      "id": "unit-19-hanja-53D6",
+      "characterId": "hanja-53D6",
+      "character": "取",
+      "unitNumber": 19,
+      "page": 178,
+      "readingText": "취 가지다"
+    },
+    {
+      "id": "unit-19-hanja-4EE5",
+      "characterId": "hanja-4EE5",
+      "character": "以",
+      "unitNumber": 19,
+      "page": 178,
+      "readingText": "이 써"
+    },
+    {
+      "id": "unit-19-hanja-9918",
+      "characterId": "hanja-9918",
+      "character": "餘",
+      "unitNumber": 19,
+      "page": 178,
+      "readingText": "여 남다"
+    },
+    {
+      "id": "unit-19-hanja-8F38",
+      "characterId": "hanja-8F38",
+      "character": "輸",
+      "unitNumber": 19,
+      "page": 178,
+      "readingText": "수 보내다"
+    },
+    {
+      "id": "unit-19-hanja-6D6E",
+      "characterId": "hanja-6D6E",
+      "character": "浮",
+      "unitNumber": 19,
+      "page": 178,
+      "readingText": "부 뜨다"
+    },
+    {
+      "id": "unit-19-hanja-96C6",
+      "characterId": "hanja-96C6",
+      "character": "集",
+      "unitNumber": 19,
+      "page": 178,
+      "readingText": "집 모으다"
+    },
+    {
+      "id": "unit-19-hanja-5EAD",
+      "characterId": "hanja-5EAD",
+      "character": "庭",
+      "unitNumber": 19,
+      "page": 178,
+      "readingText": "정 뜰"
+    },
+    {
+      "id": "unit-19-hanja-96F2",
+      "characterId": "hanja-96F2",
+      "character": "雲",
+      "unitNumber": 19,
+      "page": 178,
+      "readingText": "운 구름"
+    },
+    {
+      "id": "unit-19-hanja-82E5",
+      "characterId": "hanja-82E5",
+      "character": "若",
+      "unitNumber": 19,
+      "page": 178,
+      "readingText": "약 같다"
+    },
+    {
+      "id": "unit-19-hanja-980C",
+      "characterId": "hanja-980C",
+      "character": "頌",
+      "unitNumber": 19,
+      "page": 178,
+      "readingText": "송 기리다"
+    },
+    {
+      "id": "unit-19-hanja-6563",
+      "characterId": "hanja-6563",
+      "character": "散",
+      "unitNumber": 19,
+      "page": 182,
+      "readingText": "산 흩어지다"
+    },
+    {
+      "id": "unit-19-hanja-5BC6",
+      "characterId": "hanja-5BC6",
+      "character": "密",
+      "unitNumber": 19,
+      "page": 182,
+      "readingText": "밀 빽빽하다"
+    },
+    {
+      "id": "unit-19-hanja-8A69",
+      "characterId": "hanja-8A69",
+      "character": "詩",
+      "unitNumber": 19,
+      "page": 182,
+      "readingText": "시 글, 시"
+    },
+    {
+      "id": "unit-19-hanja-63A1",
+      "characterId": "hanja-63A1",
+      "character": "採",
+      "unitNumber": 19,
+      "page": 182,
+      "readingText": "채 캐다"
+    },
+    {
+      "id": "unit-19-hanja-60E0",
+      "characterId": "hanja-60E0",
+      "character": "惠",
+      "unitNumber": 19,
+      "page": 182,
+      "readingText": "혜 은혜"
+    },
+    {
+      "id": "unit-19-hanja-8CA7",
+      "characterId": "hanja-8CA7",
+      "character": "貧",
+      "unitNumber": 19,
+      "page": 182,
+      "readingText": "빈 가난하다"
+    },
+    {
+      "id": "unit-19-hanja-5BCC",
+      "characterId": "hanja-5BCC",
+      "character": "富",
+      "unitNumber": 19,
+      "page": 182,
+      "readingText": "부 부유하다"
+    },
+    {
+      "id": "unit-19-hanja-5FF5",
+      "characterId": "hanja-5FF5",
+      "character": "念",
+      "unitNumber": 19,
+      "page": 182,
+      "readingText": "념 생각"
+    },
+    {
+      "id": "unit-19-hanja-6CE2",
+      "characterId": "hanja-6CE2",
+      "character": "波",
+      "unitNumber": 19,
+      "page": 182,
+      "readingText": "파 물결"
+    },
+    {
+      "id": "unit-19-hanja-6068",
+      "characterId": "hanja-6068",
+      "character": "恨",
+      "unitNumber": 19,
+      "page": 182,
+      "readingText": "한 한하다"
+    },
+    {
+      "id": "unit-19-hanja-8B1D",
+      "characterId": "hanja-8B1D",
+      "character": "謝",
+      "unitNumber": 19,
+      "page": 182,
+      "readingText": "사 사례하다"
+    },
+    {
+      "id": "unit-19-hanja-79AE",
+      "characterId": "hanja-79AE",
+      "character": "禮",
+      "unitNumber": 19,
+      "page": 182,
+      "readingText": "례 예도"
+    },
+    {
+      "id": "unit-19-hanja-5949",
+      "characterId": "hanja-5949",
+      "character": "奉",
+      "unitNumber": 19,
+      "page": 182,
+      "readingText": "봉 받들다"
+    },
+    {
+      "id": "unit-19-hanja-4ED5",
+      "characterId": "hanja-4ED5",
+      "character": "仕",
+      "unitNumber": 19,
+      "page": 182,
+      "readingText": "사 벼슬, 섬기다"
+    },
+    {
+      "id": "unit-19-hanja-6B21",
+      "characterId": "hanja-6B21",
+      "character": "次",
+      "unitNumber": 19,
+      "page": 182,
+      "readingText": "차 버금"
+    },
+    {
+      "id": "unit-19-hanja-4F8B",
+      "characterId": "hanja-4F8B",
+      "character": "例",
+      "unitNumber": 19,
+      "page": 182,
+      "readingText": "례 법식"
+    },
+    {
+      "id": "unit-19-hanja-770B",
+      "characterId": "hanja-770B",
+      "character": "看",
+      "unitNumber": 19,
+      "page": 182,
+      "readingText": "간 보다"
+    },
+    {
+      "id": "unit-19-hanja-75C5",
+      "characterId": "hanja-75C5",
+      "character": "病",
+      "unitNumber": 19,
+      "page": 182,
+      "readingText": "병 병"
+    },
+    {
+      "id": "unit-19-hanja-4F9D",
+      "characterId": "hanja-4F9D",
+      "character": "依",
+      "unitNumber": 19,
+      "page": 182,
+      "readingText": "의 기대다"
+    },
+    {
+      "id": "unit-20-hanja-7F8A",
+      "characterId": "hanja-7F8A",
+      "character": "羊",
+      "unitNumber": 20,
+      "page": 184,
+      "readingText": "양 양"
+    },
+    {
+      "id": "unit-20-hanja-7406",
+      "characterId": "hanja-7406",
+      "character": "理",
+      "unitNumber": 20,
+      "page": 184,
+      "readingText": "리 다스리다, 이치"
+    },
+    {
+      "id": "unit-20-hanja-5175",
+      "characterId": "hanja-5175",
+      "character": "兵",
+      "unitNumber": 20,
+      "page": 184,
+      "readingText": "병 군사"
+    },
+    {
+      "id": "unit-20-hanja-662F",
+      "characterId": "hanja-662F",
+      "character": "是",
+      "unitNumber": 20,
+      "page": 186,
+      "readingText": "시 옳다, 이"
+    },
+    {
+      "id": "unit-20-hanja-91CD",
+      "characterId": "hanja-91CD",
+      "character": "重",
+      "unitNumber": 20,
+      "page": 186,
+      "readingText": "중 무겁다"
+    },
+    {
+      "id": "unit-20-hanja-6839",
+      "characterId": "hanja-6839",
+      "character": "根",
+      "unitNumber": 20,
+      "page": 186,
+      "readingText": "근 뿌리"
+    },
+    {
+      "id": "unit-20-hanja-547C",
+      "characterId": "hanja-547C",
+      "character": "呼",
+      "unitNumber": 20,
+      "page": 186,
+      "readingText": "호 부르다"
+    },
+    {
+      "id": "unit-20-hanja-4F59",
+      "characterId": "hanja-4F59",
+      "character": "余",
+      "unitNumber": 20,
+      "page": 186,
+      "readingText": "여 나"
+    },
+    {
+      "id": "unit-20-hanja-7368",
+      "characterId": "hanja-7368",
+      "character": "獨",
+      "unitNumber": 20,
+      "page": 186,
+      "readingText": "독 홀로"
+    },
+    {
+      "id": "unit-20-hanja-6D0B",
+      "characterId": "hanja-6D0B",
+      "character": "洋",
+      "unitNumber": 20,
+      "page": 186,
+      "readingText": "양 큰 바다"
+    },
+    {
+      "id": "unit-20-hanja-548C",
+      "characterId": "hanja-548C",
+      "character": "和",
+      "unitNumber": 20,
+      "page": 186,
+      "readingText": "화 화목하다"
+    },
+    {
+      "id": "unit-20-hanja-61BE",
+      "characterId": "hanja-61BE",
+      "character": "憾",
+      "unitNumber": 20,
+      "page": 186,
+      "readingText": "감 섭섭하다"
+    },
+    {
+      "id": "unit-20-hanja-7109",
+      "characterId": "hanja-7109",
+      "character": "焉",
+      "unitNumber": 20,
+      "page": 186,
+      "readingText": "언 어찌, 어조사"
+    },
+    {
+      "id": "unit-20-hanja-5CF6",
+      "characterId": "hanja-5CF6",
+      "character": "島",
+      "unitNumber": 20,
+      "page": 190,
+      "readingText": "도 섬"
+    },
+    {
+      "id": "unit-20-hanja-623F",
+      "characterId": "hanja-623F",
+      "character": "房",
+      "unitNumber": 20,
+      "page": 190,
+      "readingText": "방 방"
+    },
+    {
+      "id": "unit-20-hanja-5531",
+      "characterId": "hanja-5531",
+      "character": "唱",
+      "unitNumber": 20,
+      "page": 190,
+      "readingText": "창 부르다"
+    },
+    {
+      "id": "unit-20-hanja-55AE",
+      "characterId": "hanja-55AE",
+      "character": "單",
+      "unitNumber": 20,
+      "page": 190,
+      "readingText": "단 홑"
+    },
+    {
+      "id": "unit-20-hanja-975E",
+      "characterId": "hanja-975E",
+      "character": "非",
+      "unitNumber": 20,
+      "page": 190,
+      "readingText": "비 아니다, 그르다"
+    },
+    {
+      "id": "unit-20-hanja-8D77",
+      "characterId": "hanja-8D77",
+      "character": "起",
+      "unitNumber": 20,
+      "page": 190,
+      "readingText": "기 일어나다"
+    },
+    {
+      "id": "unit-20-hanja-4F0F",
+      "characterId": "hanja-4F0F",
+      "character": "伏",
+      "unitNumber": 20,
+      "page": 190,
+      "readingText": "복 엎드리다"
+    },
+    {
+      "id": "unit-20-hanja-5747",
+      "characterId": "hanja-5747",
+      "character": "均",
+      "unitNumber": 20,
+      "page": 190,
+      "readingText": "균 고르다"
+    },
+    {
+      "id": "unit-20-hanja-7D20",
+      "characterId": "hanja-7D20",
+      "character": "素",
+      "unitNumber": 20,
+      "page": 190,
+      "readingText": "소 본디"
+    },
+    {
+      "id": "unit-20-hanja-5B9A",
+      "characterId": "hanja-5B9A",
+      "character": "定",
+      "unitNumber": 20,
+      "page": 190,
+      "readingText": "정 정하다"
+    },
+    {
+      "id": "unit-20-hanja-6C37",
+      "characterId": "hanja-6C37",
+      "character": "氷",
+      "unitNumber": 20,
+      "page": 190,
+      "readingText": "빙 얼음"
+    },
+    {
+      "id": "unit-20-hanja-6CB3",
+      "characterId": "hanja-6CB3",
+      "character": "河",
+      "unitNumber": 20,
+      "page": 190,
+      "readingText": "하 물"
+    },
+    {
+      "id": "unit-20-hanja-754C",
+      "characterId": "hanja-754C",
+      "character": "界",
+      "unitNumber": 20,
+      "page": 190,
+      "readingText": "계 지경"
+    },
+    {
+      "id": "unit-20-hanja-5B87",
+      "characterId": "hanja-5B87",
+      "character": "宇",
+      "unitNumber": 20,
+      "page": 190,
+      "readingText": "우 집"
+    },
+    {
+      "id": "unit-20-hanja-5B99",
+      "characterId": "hanja-5B99",
+      "character": "宙",
+      "unitNumber": 20,
+      "page": 190,
+      "readingText": "주 집"
+    },
+    {
+      "id": "unit-20-hanja-7834",
+      "characterId": "hanja-7834",
+      "character": "破",
+      "unitNumber": 20,
+      "page": 190,
+      "readingText": "파 깨뜨리다"
+    },
+    {
+      "id": "unit-20-hanja-7247",
+      "characterId": "hanja-7247",
+      "character": "片",
+      "unitNumber": 20,
+      "page": 190,
+      "readingText": "편 조각"
+    },
+    {
+      "id": "unit-20-hanja-6975",
+      "characterId": "hanja-6975",
+      "character": "極",
+      "unitNumber": 20,
+      "page": 190,
+      "readingText": "극 다하다"
+    },
+    {
+      "id": "unit-20-hanja-8CEA",
+      "characterId": "hanja-8CEA",
+      "character": "質",
+      "unitNumber": 20,
+      "page": 190,
+      "readingText": "질 바탕"
+    },
+    {
+      "id": "unit-20-hanja-91CF",
+      "characterId": "hanja-91CF",
+      "character": "量",
+      "unitNumber": 20,
+      "page": 190,
+      "readingText": "량 헤아리다"
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "date": "2026-10-19",
+    "method": "All extracted new-character entries compared with the ordered catalog; notation and repeated entries checked; all multiple-reading entries and the missing glyph checked visually.",
+    "visualCheckPages": [
+      74,
+      84,
+      110,
+      122,
+      130,
+      150
+    ],
+    "verifiedAgainstPhysicalBook": false
+  }
+}

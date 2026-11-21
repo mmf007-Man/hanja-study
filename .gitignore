@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+/tmp/
+data/sources/chunjae-middle-hanja-2022-ahn-pages/
+data/sources/chunjae-middle-hanja-2022-ahn-stroke-checks/
+data/strokes/raw_mapped.json

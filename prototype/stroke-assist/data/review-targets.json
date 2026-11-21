@@ -1,0 +1,4188 @@
+[
+  {
+    "order": 7,
+    "id": "hanja-99AC",
+    "character": "馬",
+    "codePoint": "U+99AC",
+    "docReading": "마: 말",
+    "readings": [
+      {
+        "sound": "마",
+        "meanings": [
+          "말"
+        ]
+      }
+    ],
+    "readingDisplay": "마: 말",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 10,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 14쪽·10획 대조 일치 확인 (정자·간체 차이: 한국 정자 馬(10획) vs 중국 간체 马(3획))",
+    "notes": "교과서 본문 14쪽·10획 대조 일치 확인 (정자·간체 차이: 한국 정자 馬(10획) vs 중국 간체 马(3획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 10,
+    "id": "hanja-570B",
+    "character": "國",
+    "codePoint": "U+570B",
+    "docReading": "국: 나라",
+    "readings": [
+      {
+        "sound": "국",
+        "meanings": [
+          "나라"
+        ]
+      }
+    ],
+    "readingDisplay": "국: 나라",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 11,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 15쪽·11획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 國(11획) vs 일본 신자체 国(8획) / 중국 간체 国(8획))",
+    "notes": "교과서 본문 15쪽·11획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 國(11획) vs 일본 신자체 国(8획) / 중국 간체 国(8획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 22,
+    "id": "hanja-8FD1",
+    "character": "近",
+    "codePoint": "U+8FD1",
+    "docReading": "근: 가깝다",
+    "readings": [
+      {
+        "sound": "근",
+        "meanings": [
+          "가깝다"
+        ]
+      }
+    ],
+    "readingDisplay": "근: 가깝다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 8,
+    "category": "집중 검수 159자",
+    "detail": "전통 책받침(辶 4획, 8획) 교과서 19쪽 필순 규칙 8번, QR 영상 및 196쪽 일치 확인 완료",
+    "notes": "전통 책받침(辶 4획, 8획) 교과서 19쪽 필순 규칙 8번, QR 영상 및 196쪽 일치 확인 완료",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 26,
+    "id": "hanja-706B",
+    "character": "火",
+    "codePoint": "U+706B",
+    "docReading": "화: 불",
+    "readings": [
+      {
+        "sound": "화",
+        "meanings": [
+          "불"
+        ]
+      }
+    ],
+    "readingDisplay": "화: 불",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 4,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 20쪽·4획 대조 일치 확인 (대표 필순 주의: 한국(좌점→우점→가운데삐침→파임) vs 중국(좌점→삐침→우점→파임) (4획))",
+    "notes": "교과서 본문 20쪽·4획 대조 일치 확인 (대표 필순 주의: 한국(좌점→우점→가운데삐침→파임) vs 중국(좌점→삐침→우점→파임) (4획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 34,
+    "id": "hanja-91D1",
+    "character": "金",
+    "codePoint": "U+91D1",
+    "docReading": "금: 쇠",
+    "readings": [
+      {
+        "sound": "금",
+        "meanings": [
+          "쇠"
+        ]
+      }
+    ],
+    "readingDisplay": "금: 쇠",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 8,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 26쪽·8획 대조 일치 확인 (정자·간체 차이: 한국 정자 金(8획) vs 중국 간체 金/钅(변 3획))",
+    "notes": "교과서 본문 26쪽·8획 대조 일치 확인 (정자·간체 차이: 한국 정자 金(8획) vs 중국 간체 金/钅(변 3획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 42,
+    "id": "hanja-4E5D",
+    "character": "九",
+    "codePoint": "U+4E5D",
+    "docReading": "구: 아홉",
+    "readings": [
+      {
+        "sound": "구",
+        "meanings": [
+          "아홉"
+        ]
+      }
+    ],
+    "readingDisplay": "구: 아홉",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 2,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 26쪽·2획 대조 일치 확인 (대표 필순 주의: 한국/일본(삐침 먼저, 2획) vs 중국(꺾임갈고리 먼저))",
+    "notes": "교과서 본문 26쪽·2획 대조 일치 확인 (대표 필순 주의: 한국/일본(삐침 먼저, 2획) vs 중국(꺾임갈고리 먼저))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 47,
+    "id": "hanja-8A08",
+    "character": "計",
+    "codePoint": "U+8A08",
+    "docReading": "계: 세다",
+    "readings": [
+      {
+        "sound": "계",
+        "meanings": [
+          "세다"
+        ]
+      }
+    ],
+    "readingDisplay": "계: 세다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 9,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 26쪽·9획 대조 일치 확인 (정자·간체 차이: 한국 정자 計(9획) vs 중국 간체 计(4획))",
+    "notes": "교과서 본문 26쪽·9획 대조 일치 확인 (정자·간체 차이: 한국 정자 計(9획) vs 중국 간체 计(4획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 55,
+    "id": "hanja-9580",
+    "character": "門",
+    "codePoint": "U+9580",
+    "docReading": "문: 문",
+    "readings": [
+      {
+        "sound": "문",
+        "meanings": [
+          "문"
+        ]
+      }
+    ],
+    "readingDisplay": "문: 문",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 8,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 29쪽·8획 대조 일치 확인 (門 부수 필순·정자: 한국 정자 8획 좌세로→가로꺾임 필순 vs 중국 门(3획))",
+    "notes": "교과서 본문 29쪽·8획 대조 일치 확인 (門 부수 필순·정자: 한국 정자 8획 좌세로→가로꺾임 필순 vs 중국 门(3획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 56,
+    "id": "hanja-8033",
+    "character": "耳",
+    "codePoint": "U+8033",
+    "docReading": "이: 귀",
+    "readings": [
+      {
+        "sound": "이",
+        "meanings": [
+          "귀"
+        ]
+      }
+    ],
+    "readingDisplay": "이: 귀",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 6,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 29쪽·6획 대조 일치 확인 (대표 필순 주의: 가로(1)→세로(2)→세로(3)→가로(4)→가로(5)→가로(6) (6획))",
+    "notes": "교과서 본문 29쪽·6획 대조 일치 확인 (대표 필순 주의: 가로(1)→세로(2)→세로(3)→가로(4)→가로(5)→가로(6) (6획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 57,
+    "id": "hanja-805E",
+    "character": "聞",
+    "codePoint": "U+805E",
+    "docReading": "문: 듣다",
+    "readings": [
+      {
+        "sound": "문",
+        "meanings": [
+          "듣다"
+        ]
+      }
+    ],
+    "readingDisplay": "문: 듣다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 14,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 29쪽·14획 대조 일치 확인 (門 부수 필순·정자: 정자 14획 vs 중국 闻(9획), 내부 耳 필순 주의)",
+    "notes": "교과서 본문 29쪽·14획 대조 일치 확인 (門 부수 필순·정자: 정자 14획 vs 중국 闻(9획), 내부 耳 필순 주의)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 58,
+    "id": "hanja-554F",
+    "character": "問",
+    "codePoint": "U+554F",
+    "docReading": "문: 묻다",
+    "readings": [
+      {
+        "sound": "문",
+        "meanings": [
+          "묻다"
+        ]
+      }
+    ],
+    "readingDisplay": "문: 묻다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 11,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 29쪽·11획 대조 일치 확인 (門 부수 필순·정자: 정자 11획 vs 중국 问(6획))",
+    "notes": "교과서 본문 29쪽·11획 대조 일치 확인 (門 부수 필순·정자: 정자 11획 vs 중국 问(6획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 66,
+    "id": "hanja-8CDE",
+    "character": "賞",
+    "codePoint": "U+8CDE",
+    "docReading": "상: 상 주다",
+    "readings": [
+      {
+        "sound": "상",
+        "meanings": [
+          "상 주다"
+        ]
+      }
+    ],
+    "readingDisplay": "상: 상 주다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 15,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 34쪽·15획 대조 일치 확인 (상단 尙+하단 貝 15획 정자 일치)",
+    "notes": "교과서 본문 34쪽·15획 대조 일치 확인 (상단 尙+하단 貝 15획 정자 일치)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 80,
+    "id": "hanja-89D2",
+    "character": "角",
+    "codePoint": "U+89D2",
+    "docReading": "각: 뿔",
+    "readings": [
+      {
+        "sound": "각",
+        "meanings": [
+          "뿔"
+        ]
+      }
+    ],
+    "readingDisplay": "각: 뿔",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 7,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 34쪽·7획 대조 일치 확인 (한국 정자 중앙 세로 돌출 7획 일치)",
+    "notes": "교과서 본문 34쪽·7획 대조 일치 확인 (한국 정자 중앙 세로 돌출 7획 일치)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 86,
+    "id": "hanja-9078",
+    "character": "選",
+    "codePoint": "U+9078",
+    "docReading": "선: 가리다",
+    "readings": [
+      {
+        "sound": "선",
+        "meanings": [
+          "가리다"
+        ]
+      }
+    ],
+    "readingDisplay": "선: 가리다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 16,
+    "category": "집중 검수 159자",
+    "detail": "전통 책받침(辶 4획, 점 2개) 부합 확인 완료 (animcjk_ko, 16획)",
+    "notes": "전통 책받침(辶 4획, 점 2개) 부합 확인 완료 (animcjk_ko, 16획)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 88,
+    "id": "hanja-95DC",
+    "character": "關",
+    "codePoint": "U+95DC",
+    "docReading": "관: 관계하다",
+    "readings": [
+      {
+        "sound": "관",
+        "meanings": [
+          "관계하다"
+        ]
+      }
+    ],
+    "readingDisplay": "관: 관계하다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 19,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 43쪽·19획 대조 일치 확인 (門 부수 필순·정자: 한국 정자 關(19획) vs 일본 関(14획) vs 중국 关(6획))",
+    "notes": "교과서 본문 43쪽·19획 대조 일치 확인 (門 부수 필순·정자: 한국 정자 關(19획) vs 일본 関(14획) vs 중국 关(6획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 89,
+    "id": "hanja-9032",
+    "character": "進",
+    "codePoint": "U+9032",
+    "docReading": "진: 나아가다",
+    "readings": [
+      {
+        "sound": "진",
+        "meanings": [
+          "나아가다"
+        ]
+      }
+    ],
+    "readingDisplay": "진: 나아가다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 12,
+    "category": "집중 검수 159자",
+    "detail": "전통 책받침(辶 4획, 점 2개) 부합 확인 완료 (animcjk_hant, 12획)",
+    "notes": "전통 책받침(辶 4획, 점 2개) 부합 확인 완료 (animcjk_hant, 12획)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 94,
+    "id": "hanja-6771",
+    "character": "東",
+    "codePoint": "U+6771",
+    "docReading": "동: 동쪽",
+    "readings": [
+      {
+        "sound": "동",
+        "meanings": [
+          "동쪽"
+        ]
+      }
+    ],
+    "readingDisplay": "동: 동쪽",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 8,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 46쪽·8획 대조 일치 확인 (정자·간체 차이: 한국 정자 東(8획) vs 중국 간체 东(5획))",
+    "notes": "교과서 본문 46쪽·8획 대조 일치 확인 (정자·간체 차이: 한국 정자 東(8획) vs 중국 간체 东(5획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 95,
+    "id": "hanja-9000",
+    "character": "退",
+    "codePoint": "U+9000",
+    "docReading": "퇴: 물러나다",
+    "readings": [
+      {
+        "sound": "퇴",
+        "meanings": [
+          "물러나다"
+        ]
+      }
+    ],
+    "readingDisplay": "퇴: 물러나다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 10,
+    "category": "집중 검수 159자",
+    "detail": "전통 책받침(辶 4획, 점 2개) 부합 확인 완료 (animcjk_hant, 10획)",
+    "notes": "전통 책받침(辶 4획, 점 2개) 부합 확인 완료 (animcjk_hant, 10획)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 104,
+    "id": "hanja-7956",
+    "character": "祖",
+    "codePoint": "U+7956",
+    "docReading": "조: 할아버지",
+    "readings": [
+      {
+        "sound": "조",
+        "meanings": [
+          "할아버지"
+        ]
+      }
+    ],
+    "readingDisplay": "조: 할아버지",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 10,
+    "category": "집중 검수 159자",
+    "detail": "보일 시 부수(示 5획) 교과서 부록 공식 총획과 100% 일치 확인 완료 (animcjk_ko, 10획)",
+    "notes": "보일 시 부수(示 5획) 교과서 부록 공식 총획과 100% 일치 확인 완료 (animcjk_ko, 10획)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 106,
+    "id": "hanja-6BCD",
+    "character": "母",
+    "codePoint": "U+6BCD",
+    "docReading": "모: 어머니",
+    "readings": [
+      {
+        "sound": "모",
+        "meanings": [
+          "어머니"
+        ]
+      }
+    ],
+    "readingDisplay": "모: 어머니",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 5,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 46쪽·5획 일치 확인. 실제 medians/획순 확인: 1:세로꺾임(ㄴ)→2:가로꺾임갈고리(ㄱ)→3:상점→4:하점→5:가로관통선(5획), 별도 교과서 필순 번호 없음",
+    "notes": "교과서 본문 46쪽·5획 일치 확인. 실제 medians/획순 확인: 1:세로꺾임(ㄴ)→2:가로꺾임갈고리(ㄱ)→3:상점→4:하점→5:가로관통선(5획), 별도 교과서 필순 번호 없음",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 109,
+    "id": "hanja-59C9",
+    "character": "姉",
+    "codePoint": "U+59C9",
+    "docReading": "자: 손위 누이",
+    "readings": [
+      {
+        "sound": "자",
+        "meanings": [
+          "손위 누이"
+        ]
+      }
+    ],
+    "readingDisplay": "자: 손위 누이",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "corrected_internal",
+    "provider": "kanjivg",
+    "renderMode": "stroke",
+    "strokeCount": 8,
+    "category": "자체 보정 정체자",
+    "detail": "[3단계 보정 완료] KanjiVG 8획(女 3획 + 市 5획) 스케일링 완료. 교과서 부록 203쪽 8획 공식 일치 확인.",
+    "notes": "KanjiVG 8획(女 3획 + 市 5획) 스케일링 완료. 교과서 부록 203쪽 8획 공식 일치 확인.",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 113,
+    "id": "hanja-5B78",
+    "character": "學",
+    "codePoint": "U+5B78",
+    "docReading": "학: 배우다",
+    "readings": [
+      {
+        "sound": "학",
+        "meanings": [
+          "배우다"
+        ]
+      }
+    ],
+    "readingDisplay": "학: 배우다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 16,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 48쪽·16획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 學(16획) vs 일본 신자체 学(8획) / 중국 간체 学)",
+    "notes": "교과서 본문 48쪽·16획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 學(16획) vs 일본 신자체 学(8획) / 중국 간체 学)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 118,
+    "id": "hanja-696D",
+    "character": "業",
+    "codePoint": "U+696D",
+    "docReading": "업: 일",
+    "readings": [
+      {
+        "sound": "업",
+        "meanings": [
+          "일"
+        ]
+      }
+    ],
+    "readingDisplay": "업: 일",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 13,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 50쪽·13획 대조 일치 확인 (정자·간체 차이: 한국 정자 業(13획) vs 중국 간체 业(5획))",
+    "notes": "교과서 본문 50쪽·13획 대조 일치 확인 (정자·간체 차이: 한국 정자 業(13획) vs 중국 간체 业(5획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 120,
+    "id": "hanja-60C5",
+    "character": "情",
+    "codePoint": "U+60C5",
+    "docReading": "정: 뜻, 정",
+    "readings": [
+      {
+        "sound": "정",
+        "meanings": [
+          "뜻",
+          "정"
+        ]
+      }
+    ],
+    "readingDisplay": "정: 뜻, 정",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 11,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 50쪽·11획 대조 일치 확인 (忄 3획+우측 靑[상단 龶 4획+하단 月/円 4획]=11획 정자; 기존 메모의 '生' 오기 정정)",
+    "notes": "교과서 본문 50쪽·11획 대조 일치 확인 (忄 3획+우측 靑[상단 龶 4획+하단 月/円 4획]=11획 정자; 기존 메모의 '生' 오기 정정)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 121,
+    "id": "hanja-8CE3",
+    "character": "賣",
+    "codePoint": "U+8CE3",
+    "docReading": "매: 팔다",
+    "readings": [
+      {
+        "sound": "매",
+        "meanings": [
+          "팔다"
+        ]
+      }
+    ],
+    "readingDisplay": "매: 팔다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 15,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 51쪽·15획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 賣(15획) vs 일본 신자체 売(7획) / 중국 간체 卖(8획))",
+    "notes": "교과서 본문 51쪽·15획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 賣(15획) vs 일본 신자체 売(7획) / 중국 간체 卖(8획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 124,
+    "id": "hanja-98DF",
+    "character": "食",
+    "codePoint": "U+98DF",
+    "docReading": "식: 먹다",
+    "readings": [
+      {
+        "sound": "식",
+        "meanings": [
+          "먹다"
+        ]
+      }
+    ],
+    "readingDisplay": "식: 먹다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 9,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 51쪽·9획 대조 일치 확인 (9획 기본 부수 정자 일치)",
+    "notes": "교과서 본문 51쪽·9획 대조 일치 확인 (9획 기본 부수 정자 일치)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 126,
+    "id": "hanja-958B",
+    "character": "開",
+    "codePoint": "U+958B",
+    "docReading": "개: 열다",
+    "readings": [
+      {
+        "sound": "개",
+        "meanings": [
+          "열다"
+        ]
+      }
+    ],
+    "readingDisplay": "개: 열다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 12,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 54쪽·12획 대조 일치 확인 (門 부수 필순·정자: 정자 12획 vs 중국 开(4획), 내부 开 필순)",
+    "notes": "교과서 본문 54쪽·12획 대조 일치 확인 (門 부수 필순·정자: 정자 12획 vs 중국 开(4획), 내부 开 필순)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 129,
+    "id": "hanja-9589",
+    "character": "閉",
+    "codePoint": "U+9589",
+    "docReading": "폐: 닫다",
+    "readings": [
+      {
+        "sound": "폐",
+        "meanings": [
+          "닫다"
+        ]
+      }
+    ],
+    "readingDisplay": "폐: 닫다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "makemeahanzi",
+    "renderMode": "fill",
+    "strokeCount": 11,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 54쪽·11획 대조 일치 확인 (門 8획+才 3획=11획 정자 일치)",
+    "notes": "교과서 본문 54쪽·11획 대조 일치 확인 (門 8획+才 3획=11획 정자 일치)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 130,
+    "id": "hanja-8CB7",
+    "character": "買",
+    "codePoint": "U+8CB7",
+    "docReading": "매: 사다",
+    "readings": [
+      {
+        "sound": "매",
+        "meanings": [
+          "사다"
+        ]
+      }
+    ],
+    "readingDisplay": "매: 사다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 12,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 54쪽·12획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 買(12획) vs 중국 간체 买(6획))",
+    "notes": "교과서 본문 54쪽·12획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 買(12획) vs 중국 간체 买(6획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 132,
+    "id": "hanja-654E",
+    "character": "敎",
+    "codePoint": "U+654E",
+    "docReading": "교: 가르치다",
+    "readings": [
+      {
+        "sound": "교",
+        "meanings": [
+          "가르치다"
+        ]
+      }
+    ],
+    "readingDisplay": "교: 가르치다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 11,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 54쪽·11획 대조 일치 확인 (한국 정자 爻+子+攵 11획 일치)",
+    "notes": "교과서 본문 54쪽·11획 대조 일치 확인 (한국 정자 爻+子+攵 11획 일치)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 135,
+    "id": "hanja-8A13",
+    "character": "訓",
+    "codePoint": "U+8A13",
+    "docReading": "훈: 가르치다",
+    "readings": [
+      {
+        "sound": "훈",
+        "meanings": [
+          "가르치다"
+        ]
+      }
+    ],
+    "readingDisplay": "훈: 가르치다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 10,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 54쪽·10획 대조 일치 확인 (정자·간체 차이: 한국 정자 訓(10획) vs 중국 간체 训(5획))",
+    "notes": "교과서 본문 54쪽·10획 대조 일치 확인 (정자·간체 차이: 한국 정자 訓(10획) vs 중국 간체 训(5획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 136,
+    "id": "hanja-904E",
+    "character": "過",
+    "codePoint": "U+904E",
+    "docReading": "과: 지나다",
+    "readings": [
+      {
+        "sound": "과",
+        "meanings": [
+          "지나다"
+        ]
+      }
+    ],
+    "readingDisplay": "과: 지나다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 13,
+    "category": "집중 검수 159자",
+    "detail": "전통 책받침(辶 4획, 점 2개) 부합 확인 완료 (animcjk_ko, 13획)",
+    "notes": "전통 책받침(辶 4획, 점 2개) 부합 확인 완료 (animcjk_ko, 13획)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 139,
+    "id": "hanja-9632",
+    "character": "防",
+    "codePoint": "U+9632",
+    "docReading": "방: 막다",
+    "readings": [
+      {
+        "sound": "방",
+        "meanings": [
+          "막다"
+        ]
+      }
+    ],
+    "readingDisplay": "방: 막다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 7,
+    "category": "집중 검수 159자",
+    "detail": "좌부변(阝 3획) 부합 확인 완료 (animcjk_hant, 7획)",
+    "notes": "좌부변(阝 3획) 부합 확인 완료 (animcjk_hant, 7획)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 140,
+    "id": "hanja-7D93",
+    "character": "經",
+    "codePoint": "U+7D93",
+    "docReading": "경: 글, 지나다",
+    "readings": [
+      {
+        "sound": "경",
+        "meanings": [
+          "글",
+          "지나다"
+        ]
+      }
+    ],
+    "readingDisplay": "경: 글, 지나다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 13,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 54쪽·13획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 經(13획) vs 일본 신자체 経(11획) / 중국 간체 经(8획))",
+    "notes": "교과서 본문 54쪽·13획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 經(13획) vs 일본 신자체 経(11획) / 중국 간체 经(8획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 143,
+    "id": "hanja-8005",
+    "character": "者",
+    "codePoint": "U+8005",
+    "docReading": "자: 사람",
+    "readings": [
+      {
+        "sound": "자",
+        "meanings": [
+          "사람"
+        ]
+      }
+    ],
+    "readingDisplay": "자: 사람",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "corrected_internal",
+    "provider": "internal",
+    "renderMode": "fill",
+    "strokeCount": 9,
+    "category": "자체 보정 정체자",
+    "detail": "[3단계 보정 완료] 한국 교과서 9획 정자 보정 완료: AnimCJK Ko 8획(점 생략 자형) -> 5획 위치에 전통 정자 점(丶) 정밀 삽입 (교과서 부록 203쪽 9획 및 점 인쇄 공식 확인)",
+    "notes": "한국 교과서 9획 정자 보정 완료: AnimCJK Ko 8획(점 생략 자형) -> 5획 위치에 전통 정자 점(丶) 정밀 삽입 (교과서 부록 203쪽 9획 및 점 인쇄 공식 확인)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 160,
+    "id": "hanja-5DE6",
+    "character": "左",
+    "codePoint": "U+5DE6",
+    "docReading": "좌: 왼쪽",
+    "readings": [
+      {
+        "sound": "좌",
+        "meanings": [
+          "왼쪽"
+        ]
+      }
+    ],
+    "readingDisplay": "좌: 왼쪽",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 5,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 62쪽·5획 대조 일치 확인 (대표 필순 주의: 한국/일본/중국(가로 먼저, 삐침 나중) - 右와 대조 (5획))",
+    "notes": "교과서 본문 62쪽·5획 대조 일치 확인 (대표 필순 주의: 한국/일본/중국(가로 먼저, 삐침 나중) - 右와 대조 (5획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 161,
+    "id": "hanja-53F3",
+    "character": "右",
+    "codePoint": "U+53F3",
+    "docReading": "우: 오른쪽",
+    "readings": [
+      {
+        "sound": "우",
+        "meanings": [
+          "오른쪽"
+        ]
+      }
+    ],
+    "readingDisplay": "우: 오른쪽",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 5,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 62쪽·5획 대조 일치 확인 (대표 필순 주의: 한국/일본(삐침 먼저, 가로 나중) vs 중국(가로 먼저) - 左와 정반대 (5획))",
+    "notes": "교과서 본문 62쪽·5획 대조 일치 확인 (대표 필순 주의: 한국/일본(삐침 먼저, 가로 나중) vs 중국(가로 먼저) - 左와 정반대 (5획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 164,
+    "id": "hanja-76F4",
+    "character": "直",
+    "codePoint": "U+76F4",
+    "docReading": "직: 곧다",
+    "readings": [
+      {
+        "sound": "직",
+        "meanings": [
+          "곧다"
+        ]
+      }
+    ],
+    "readingDisplay": "직: 곧다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 8,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 62쪽·8획 대조 일치 확인 (十+目+乚 8획 정자 일치)",
+    "notes": "교과서 본문 62쪽·8획 대조 일치 확인 (十+目+乚 8획 정자 일치)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 174,
+    "id": "hanja-9577",
+    "character": "長",
+    "codePoint": "U+9577",
+    "docReading": "장: 길다",
+    "readings": [
+      {
+        "sound": "장",
+        "meanings": [
+          "길다"
+        ]
+      }
+    ],
+    "readingDisplay": "장: 길다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 8,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 68쪽·8획 대조 일치 확인 (대표 필순 주의: 한국 세로선(1) 선작성 vs 가로선 선작성 및 중국 长(4획) (8획))",
+    "notes": "교과서 본문 68쪽·8획 대조 일치 확인 (대표 필순 주의: 한국 세로선(1) 선작성 vs 가로선 선작성 및 중국 长(4획) (8획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 182,
+    "id": "hanja-91CC",
+    "character": "里",
+    "codePoint": "U+91CC",
+    "docReading": "리: 마을, 거리 단위",
+    "readings": [
+      {
+        "sound": "리",
+        "meanings": [
+          "마을",
+          "거리 단위"
+        ],
+        "allowedSounds": [
+          "이"
+        ]
+      }
+    ],
+    "readingDisplay": "리: 마을, 거리 단위",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 7,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 70쪽·7획 대조 일치 확인 (대표 필순 주의: 日/田 닫은 후 세로 vs 세로 관통 후 가로 닫기 (7획))",
+    "notes": "교과서 본문 70쪽·7획 대조 일치 확인 (대표 필순 주의: 日/田 닫은 후 세로 vs 세로 관통 후 가로 닫기 (7획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 184,
+    "id": "hanja-9435",
+    "character": "鐵",
+    "codePoint": "U+9435",
+    "docReading": "철: 쇠",
+    "readings": [
+      {
+        "sound": "철",
+        "meanings": [
+          "쇠"
+        ]
+      }
+    ],
+    "readingDisplay": "철: 쇠",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 21,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 70쪽·21획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 鐵(21획) vs 일본 신자체 鉄(13획) / 중국 간체 铁(10획))",
+    "notes": "교과서 본문 70쪽·21획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 鐵(21획) vs 일본 신자체 鉄(13획) / 중국 간체 铁(10획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 189,
+    "id": "hanja-9854",
+    "character": "顔",
+    "codePoint": "U+9854",
+    "docReading": "안: 얼굴",
+    "readings": [
+      {
+        "sound": "안",
+        "meanings": [
+          "얼굴"
+        ]
+      }
+    ],
+    "readingDisplay": "안: 얼굴",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "corrected_internal",
+    "provider": "kanjivg",
+    "renderMode": "stroke",
+    "strokeCount": 18,
+    "category": "자체 보정 정체자",
+    "detail": "[3단계 보정 완료] KanjiVG 18획(彦 9획 + 頁 9획) 스케일링 완료. 교과서 본문 74쪽·부록 201쪽 18획 공식 일치 확인.",
+    "notes": "KanjiVG 18획(彦 9획 + 頁 9획) 스케일링 완료. 교과서 본문 74쪽·부록 201쪽 18획 공식 일치 확인.",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 190,
+    "id": "hanja-756B",
+    "character": "畫",
+    "codePoint": "U+756B",
+    "docReading": "화: 그림",
+    "readings": [
+      {
+        "sound": "화",
+        "meanings": [
+          "그림"
+        ]
+      }
+    ],
+    "readingDisplay": "화: 그림",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 12,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 74쪽·부록 207쪽 정자 畫(U+756B, 12획) 확정 및 AnimCJK Ko 12획 직접 매핑·대조 일치 완료",
+    "notes": "교과서 본문 74쪽·부록 207쪽 정자 畫(U+756B, 12획) 확정 및 AnimCJK Ko 12획 직접 매핑·대조 일치 완료",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 198,
+    "id": "hanja-6A02",
+    "character": "樂",
+    "codePoint": "U+6A02",
+    "docReading": "락: 즐겁다",
+    "readings": [
+      {
+        "sound": "락",
+        "meanings": [
+          "즐겁다"
+        ],
+        "allowedSounds": [
+          "낙"
+        ]
+      },
+      {
+        "sound": "악",
+        "meanings": [
+          "노래"
+        ]
+      }
+    ],
+    "readingDisplay": "락: 즐겁다 / 악: 노래",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 15,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 74쪽·15획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 樂(15획) vs 일본 신자체 楽(13획) / 중국 간체 乐(5획))",
+    "notes": "교과서 본문 74쪽·15획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 樂(15획) vs 일본 신자체 楽(13획) / 중국 간체 乐(5획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 204,
+    "id": "hanja-91AB",
+    "character": "醫",
+    "codePoint": "U+91AB",
+    "docReading": "의: 의원",
+    "readings": [
+      {
+        "sound": "의",
+        "meanings": [
+          "의원"
+        ]
+      }
+    ],
+    "readingDisplay": "의: 의원",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 18,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 74쪽·18획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 醫(18획) vs 일본 신자체 医(7획) / 중국 간체 医(7획))",
+    "notes": "교과서 본문 74쪽·18획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 醫(18획) vs 일본 신자체 医(7획) / 중국 간체 医(7획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 209,
+    "id": "hanja-9DC4",
+    "character": "鷄",
+    "codePoint": "U+9DC4",
+    "docReading": "계: 닭",
+    "readings": [
+      {
+        "sound": "계",
+        "meanings": [
+          "닭"
+        ]
+      }
+    ],
+    "readingDisplay": "계: 닭",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "makemeahanzi",
+    "renderMode": "fill",
+    "strokeCount": 21,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 78쪽·21획 대조 일치 확인 (한국 정자 奚+鳥 21획 일치)",
+    "notes": "교과서 본문 78쪽·21획 대조 일치 확인 (한국 정자 奚+鳥 21획 일치)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 212,
+    "id": "hanja-9AA8",
+    "character": "骨",
+    "codePoint": "U+9AA8",
+    "docReading": "골: 뼈",
+    "readings": [
+      {
+        "sound": "골",
+        "meanings": [
+          "뼈"
+        ]
+      }
+    ],
+    "readingDisplay": "골: 뼈",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 10,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 78쪽·10획 대조 일치 확인 (한국 정자 상단 내부 좌측 꺾임 10획 일치)",
+    "notes": "교과서 본문 78쪽·10획 대조 일치 확인 (한국 정자 상단 내부 좌측 꺾임 10획 일치)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 217,
+    "id": "hanja-8349",
+    "character": "草",
+    "codePoint": "U+8349",
+    "docReading": "초: 풀",
+    "readings": [
+      {
+        "sound": "초",
+        "meanings": [
+          "풀"
+        ]
+      }
+    ],
+    "readingDisplay": "초: 풀",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "corrected_internal",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 10,
+    "category": "자체 보정 정체자",
+    "detail": "[3단계 보정 완료] 한국 전통 초두머리(艹, 十十 4획) 보정 완료: animcjk_ko (9획) -> animcjk_hant (10획) 교체",
+    "notes": "한국 전통 초두머리(艹, 十十 4획) 보정 완료: animcjk_ko (9획) -> animcjk_hant (10획) 교체",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 220,
+    "id": "hanja-9B5A",
+    "character": "魚",
+    "codePoint": "U+9B5A",
+    "docReading": "어: 물고기",
+    "readings": [
+      {
+        "sound": "어",
+        "meanings": [
+          "물고기"
+        ]
+      }
+    ],
+    "readingDisplay": "어: 물고기",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 11,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 78쪽·11획 대조 일치 확인 (정자·간체 차이: 한국 정자 魚(11획) vs 중국 간체 鱼(8획))",
+    "notes": "교과서 본문 78쪽·11획 대조 일치 확인 (정자·간체 차이: 한국 정자 魚(11획) vs 중국 간체 鱼(8획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 223,
+    "id": "hanja-87A2",
+    "character": "螢",
+    "codePoint": "U+87A2",
+    "docReading": "형: 반딧불이",
+    "readings": [
+      {
+        "sound": "형",
+        "meanings": [
+          "반딧불이"
+        ]
+      }
+    ],
+    "readingDisplay": "형: 반딧불이",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "makemeahanzi",
+    "renderMode": "fill",
+    "strokeCount": 16,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 78쪽·16획 대조 일치 확인 (火+火+冖+虫 구조 16획 정자, 虫 부수; 기존 메모의 '艹 부수' 오기 정정)",
+    "notes": "교과서 본문 78쪽·16획 대조 일치 확인 (火+火+冖+虫 구조 16획 정자, 虫 부수; 기존 메모의 '艹 부수' 오기 정정)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 226,
+    "id": "hanja-8B58",
+    "character": "識",
+    "codePoint": "U+8B58",
+    "docReading": "식: 알다",
+    "readings": [
+      {
+        "sound": "식",
+        "meanings": [
+          "알다"
+        ]
+      }
+    ],
+    "readingDisplay": "식: 알다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 19,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 82쪽·19획 대조 일치 확인 (정자·간체 차이: 한국 정자 識(19획) vs 중국 간체 识(12획))",
+    "notes": "교과서 본문 82쪽·19획 대조 일치 확인 (정자·간체 차이: 한국 정자 識(19획) vs 중국 간체 识(12획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 232,
+    "id": "hanja-964D",
+    "character": "降",
+    "codePoint": "U+964D",
+    "docReading": "강: 내리다",
+    "readings": [
+      {
+        "sound": "강",
+        "meanings": [
+          "내리다"
+        ]
+      }
+    ],
+    "readingDisplay": "강: 내리다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 9,
+    "category": "집중 검수 159자",
+    "detail": "좌부변(阝 3획) 부합 확인 완료 (animcjk_hant, 9획)",
+    "notes": "좌부변(阝 3획) 부합 확인 완료 (animcjk_hant, 9획)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 233,
+    "id": "hanja-9664",
+    "character": "除",
+    "codePoint": "U+9664",
+    "docReading": "제: 덜다",
+    "readings": [
+      {
+        "sound": "제",
+        "meanings": [
+          "덜다"
+        ]
+      }
+    ],
+    "readingDisplay": "제: 덜다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 10,
+    "category": "집중 검수 159자",
+    "detail": "좌부변(阝 3획) 부합 확인 완료 (animcjk_hant, 10획)",
+    "notes": "좌부변(阝 3획) 부합 확인 완료 (animcjk_hant, 10획)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 235,
+    "id": "hanja-665D",
+    "character": "晝",
+    "codePoint": "U+665D",
+    "docReading": "주: 낮",
+    "readings": [
+      {
+        "sound": "주",
+        "meanings": [
+          "낮"
+        ]
+      }
+    ],
+    "readingDisplay": "주: 낮",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 11,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 82쪽·11획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 晝(11획) vs 일본 신자체 昼(9획) / 중국 간체 昼(9획))",
+    "notes": "교과서 본문 82쪽·11획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 晝(11획) vs 일본 신자체 昼(9획) / 중국 간체 昼(9획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 239,
+    "id": "hanja-8A18",
+    "character": "記",
+    "codePoint": "U+8A18",
+    "docReading": "기: 기록하다",
+    "readings": [
+      {
+        "sound": "기",
+        "meanings": [
+          "기록하다"
+        ]
+      }
+    ],
+    "readingDisplay": "기: 기록하다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 10,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 82쪽·10획 대조 일치 확인 (정자·간체 차이: 한국 정자 記(10획) vs 중국 간체 记(5획))",
+    "notes": "교과서 본문 82쪽·10획 대조 일치 확인 (정자·간체 차이: 한국 정자 記(10획) vs 중국 간체 记(5획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 240,
+    "id": "hanja-8996",
+    "character": "視",
+    "codePoint": "U+8996",
+    "docReading": "시: 보다",
+    "readings": [
+      {
+        "sound": "시",
+        "meanings": [
+          "보다"
+        ]
+      }
+    ],
+    "readingDisplay": "시: 보다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "corrected_internal",
+    "provider": "internal",
+    "renderMode": "fill",
+    "strokeCount": 12,
+    "category": "자체 보정 정체자",
+    "detail": "[3단계 보정 완료] 한국 교과서 12획 정자 보정 완료: AnimCJK ZhHant 11획(礻 4획 변) -> AnimCJK Ko 祝의 정자 示(5획 변) + 見(7획) 정밀 융합 (교과서 부록 201쪽 12획 공식 확인)",
+    "notes": "한국 교과서 12획 정자 보정 완료: AnimCJK ZhHant 11획(礻 4획 변) -> AnimCJK Ko 祝의 정자 示(5획 변) + 見(7획) 정밀 융합 (교과서 부록 201쪽 12획 공식 확인)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 241,
+    "id": "hanja-807D",
+    "character": "聽",
+    "codePoint": "U+807D",
+    "docReading": "청: 듣다",
+    "readings": [
+      {
+        "sound": "청",
+        "meanings": [
+          "듣다"
+        ]
+      }
+    ],
+    "readingDisplay": "청: 듣다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 22,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 82쪽·22획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 聽(22획) vs 일본 신자체 聴(17획) / 중국 간체 听(7획))",
+    "notes": "교과서 본문 82쪽·22획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 聽(22획) vs 일본 신자체 聴(17획) / 중국 간체 听(7획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 244,
+    "id": "hanja-690D",
+    "character": "植",
+    "codePoint": "U+690D",
+    "docReading": "식: 심다",
+    "readings": [
+      {
+        "sound": "식",
+        "meanings": [
+          "심다"
+        ]
+      }
+    ],
+    "readingDisplay": "식: 심다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 12,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 84쪽·12획 대조 일치 확인 (木 4획+直 8획=12획 정자 일치)",
+    "notes": "교과서 본문 84쪽·12획 대조 일치 확인 (木 4획+直 8획=12획 정자 일치)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 245,
+    "id": "hanja-8ECA",
+    "character": "車",
+    "codePoint": "U+8ECA",
+    "docReading": "거: 수레",
+    "readings": [
+      {
+        "sound": "거",
+        "meanings": [
+          "수레"
+        ]
+      },
+      {
+        "sound": "차",
+        "meanings": [
+          "차"
+        ]
+      }
+    ],
+    "readingDisplay": "거: 수레 / 차: 차",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 7,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 84쪽·7획 대조 일치 확인 (대표 필순 주의: 한국/일본(가로-밭전-가로-세로) vs 중국(가로-밭전-세로-가로) (7획))",
+    "notes": "교과서 본문 84쪽·7획 대조 일치 확인 (대표 필순 주의: 한국/일본(가로-밭전-가로-세로) vs 중국(가로-밭전-세로-가로) (7획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 252,
+    "id": "hanja-514E",
+    "character": "兎",
+    "codePoint": "U+514E",
+    "docReading": "토: 토끼",
+    "readings": [
+      {
+        "sound": "토",
+        "meanings": [
+          "토끼"
+        ]
+      }
+    ],
+    "readingDisplay": "토: 토끼",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "corrected_internal",
+    "provider": "internal",
+    "renderMode": "fill",
+    "strokeCount": 8,
+    "category": "자체 보정 정체자",
+    "detail": "[3단계 보정 완료] 한국 정자 8획 보정 완료: KanjiVG 일본 신자체 7획(상단 𠂉 축약) -> AnimCJK ZhHant 兔(U+5154, 8획, 상단 𠂉 2획 분할 정자) 승계 (교과서 86쪽 8획 부합)",
+    "notes": "한국 정자 8획 보정 완료: KanjiVG 일본 신자체 7획(상단 𠂉 축약) -> AnimCJK ZhHant 兔(U+5154, 8획, 상단 𠂉 2획 분할 정자) 승계 (교과서 86쪽 8획 부합)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 255,
+    "id": "hanja-6210",
+    "character": "成",
+    "codePoint": "U+6210",
+    "docReading": "성: 이루다",
+    "readings": [
+      {
+        "sound": "성",
+        "meanings": [
+          "이루다"
+        ]
+      }
+    ],
+    "readingDisplay": "성: 이루다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 6,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 86쪽·6획 정자·戈 필순(가로→삐침→꺾임→갈고리→삐침→점) 일치 확인 (참고: 부록 200쪽 '7획' 표기는 교과서 인쇄 예외로 데이터는 표준 6획 유지)",
+    "notes": "교과서 본문 86쪽·6획 정자·戈 필순(가로→삐침→꺾임→갈고리→삐침→점) 일치 확인 (참고: 부록 200쪽 '7획' 표기는 교과서 인쇄 예외로 데이터는 표준 6획 유지)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 257,
+    "id": "hanja-66AE",
+    "character": "暮",
+    "codePoint": "U+66AE",
+    "docReading": "모: 저물다",
+    "readings": [
+      {
+        "sound": "모",
+        "meanings": [
+          "저물다"
+        ]
+      }
+    ],
+    "readingDisplay": "모: 저물다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "corrected_internal",
+    "provider": "internal",
+    "renderMode": "fill",
+    "strokeCount": 15,
+    "category": "자체 보정 정체자",
+    "detail": "[3단계 보정 완료] 한국 교과서 15획 정자 보정 완료: MMH 현대식 艹(3획) -> 전통 초두머리(艹 4획, 十十) 정밀 스케일링 이식 (교과서 부록 198쪽 15획 공식 확인)",
+    "notes": "한국 교과서 15획 정자 보정 완료: MMH 현대식 艹(3획) -> 전통 초두머리(艹 4획, 十十) 정밀 스케일링 이식 (교과서 부록 198쪽 15획 공식 확인)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 258,
+    "id": "hanja-6B65",
+    "character": "步",
+    "codePoint": "U+6B65",
+    "docReading": "보: 걸음",
+    "readings": [
+      {
+        "sound": "보",
+        "meanings": [
+          "걸음"
+        ]
+      }
+    ],
+    "readingDisplay": "보: 걸음",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 7,
+    "category": "집중 검수 159자",
+    "detail": "한국 정자 7획(하단 점 없음) 부합 확인 완료 (animcjk_hant, 7획)",
+    "notes": "한국 정자 7획(하단 점 없음) 부합 확인 완료 (animcjk_hant, 7획)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 261,
+    "id": "hanja-901F",
+    "character": "速",
+    "codePoint": "U+901F",
+    "docReading": "속: 빠르다",
+    "readings": [
+      {
+        "sound": "속",
+        "meanings": [
+          "빠르다"
+        ]
+      }
+    ],
+    "readingDisplay": "속: 빠르다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 11,
+    "category": "집중 검수 159자",
+    "detail": "전통 책받침(辶 4획, 점 2개) 부합 확인 완료 (animcjk_ko, 11획)",
+    "notes": "전통 책받침(辶 4획, 점 2개) 부합 확인 완료 (animcjk_ko, 11획)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 268,
+    "id": "hanja-9020",
+    "character": "造",
+    "codePoint": "U+9020",
+    "docReading": "조: 만들다",
+    "readings": [
+      {
+        "sound": "조",
+        "meanings": [
+          "만들다"
+        ]
+      }
+    ],
+    "readingDisplay": "조: 만들다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 11,
+    "category": "집중 검수 159자",
+    "detail": "전통 책받침(辶 4획, 점 2개) 부합 확인 완료 (animcjk_hant, 11획)",
+    "notes": "전통 책받침(辶 4획, 점 2개) 부합 확인 완료 (animcjk_hant, 11획)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 271,
+    "id": "hanja-91DD",
+    "character": "針",
+    "codePoint": "U+91DD",
+    "docReading": "침: 바늘",
+    "readings": [
+      {
+        "sound": "침",
+        "meanings": [
+          "바늘"
+        ]
+      }
+    ],
+    "readingDisplay": "침: 바늘",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 10,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 90쪽·10획 대조 일치 확인 (정자·간체 차이: 한국 정자 針(10획) vs 중국 간체 针(7획))",
+    "notes": "교과서 본문 90쪽·10획 대조 일치 확인 (정자·간체 차이: 한국 정자 針(10획) vs 중국 간체 针(7획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 272,
+    "id": "hanja-8449",
+    "character": "葉",
+    "codePoint": "U+8449",
+    "docReading": "엽: 잎",
+    "readings": [
+      {
+        "sound": "엽",
+        "meanings": [
+          "잎"
+        ]
+      }
+    ],
+    "readingDisplay": "엽: 잎",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "corrected_internal",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 13,
+    "category": "자체 보정 정체자",
+    "detail": "[3단계 보정 완료] 한국 전통 초두머리(艹, 十十 4획) 보정 완료: animcjk_ko (12획) -> animcjk_hant (13획) 교체",
+    "notes": "한국 전통 초두머리(艹, 十十 4획) 보정 완료: animcjk_ko (12획) -> animcjk_hant (13획) 교체",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 277,
+    "id": "hanja-87F2",
+    "character": "蟲",
+    "codePoint": "U+87F2",
+    "docReading": "충: 벌레",
+    "readings": [
+      {
+        "sound": "충",
+        "meanings": [
+          "벌레"
+        ]
+      }
+    ],
+    "readingDisplay": "충: 벌레",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 18,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 90쪽·18획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 蟲(18획) vs 일본/중국 虫(6획))",
+    "notes": "교과서 본문 90쪽·18획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 蟲(18획) vs 일본/중국 虫(6획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 280,
+    "id": "hanja-6230",
+    "character": "戰",
+    "codePoint": "U+6230",
+    "docReading": "전: 싸움",
+    "readings": [
+      {
+        "sound": "전",
+        "meanings": [
+          "싸움"
+        ]
+      }
+    ],
+    "readingDisplay": "전: 싸움",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 16,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 92쪽·16획 대조 일치 확인 (한국 표준 戈 필순: 斜鉤[14]→삐침[15]→점[16] 일치)",
+    "notes": "교과서 본문 92쪽·16획 대조 일치 확인 (한국 표준 戈 필순: 斜鉤[14]→삐침[15]→점[16] 일치)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 292,
+    "id": "hanja-820A",
+    "character": "舊",
+    "codePoint": "U+820A",
+    "docReading": "구: 예",
+    "readings": [
+      {
+        "sound": "구",
+        "meanings": [
+          "예"
+        ]
+      }
+    ],
+    "readingDisplay": "구: 예",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "corrected_internal",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 18,
+    "category": "자체 보정 정체자",
+    "detail": "[3단계 보정 완료] 한국 전통 정자 총 획수 보정 완료: animcjk_ko (17획) -> animcjk_hant (18획) 교체",
+    "notes": "한국 전통 정자 총 획수 보정 완료: animcjk_ko (17획) -> animcjk_hant (18획) 교체",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 293,
+    "id": "hanja-9060",
+    "character": "遠",
+    "codePoint": "U+9060",
+    "docReading": "원: 멀다",
+    "readings": [
+      {
+        "sound": "원",
+        "meanings": [
+          "멀다"
+        ]
+      }
+    ],
+    "readingDisplay": "원: 멀다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 14,
+    "category": "집중 검수 159자",
+    "detail": "전통 책받침(辶 4획, 점 2개) 부합 확인 완료 (animcjk_ko, 14획)",
+    "notes": "전통 책받침(辶 4획, 점 2개) 부합 확인 완료 (animcjk_ko, 14획)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 296,
+    "id": "hanja-8655",
+    "character": "處",
+    "codePoint": "U+8655",
+    "docReading": "처: 곳",
+    "readings": [
+      {
+        "sound": "처",
+        "meanings": [
+          "곳"
+        ]
+      }
+    ],
+    "readingDisplay": "처: 곳",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 11,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 98쪽·11획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 處(11획) vs 일본 신자체 処(5획) / 중국 간체 处(5획))",
+    "notes": "교과서 본문 98쪽·11획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 處(11획) vs 일본 신자체 処(5획) / 중국 간체 处(5획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 299,
+    "id": "hanja-8FFD",
+    "character": "追",
+    "codePoint": "U+8FFD",
+    "docReading": "추: 쫓다",
+    "readings": [
+      {
+        "sound": "추",
+        "meanings": [
+          "쫓다"
+        ]
+      }
+    ],
+    "readingDisplay": "추: 쫓다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 10,
+    "category": "집중 검수 159자",
+    "detail": "전통 책받침(辶 4획, 점 2개) 부합 확인 완료 (animcjk_hant, 10획)",
+    "notes": "전통 책받침(辶 4획, 점 2개) 부합 확인 완료 (animcjk_hant, 10획)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 301,
+    "id": "hanja-798F",
+    "character": "福",
+    "codePoint": "U+798F",
+    "docReading": "복: 복",
+    "readings": [
+      {
+        "sound": "복",
+        "meanings": [
+          "복"
+        ]
+      }
+    ],
+    "readingDisplay": "복: 복",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 14,
+    "category": "집중 검수 159자",
+    "detail": "보일 시 부수(示 5획) 교과서 부록 공식 총획과 100% 일치 확인 완료 (animcjk_ko, 14획)",
+    "notes": "보일 시 부수(示 5획) 교과서 부록 공식 총획과 100% 일치 확인 완료 (animcjk_ko, 14획)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 305,
+    "id": "hanja-6C23",
+    "character": "氣",
+    "codePoint": "U+6C23",
+    "docReading": "기: 기운",
+    "readings": [
+      {
+        "sound": "기",
+        "meanings": [
+          "기운"
+        ]
+      }
+    ],
+    "readingDisplay": "기: 기운",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 10,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 98쪽·10획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 氣(10획) vs 일본 신자체 気(6획) / 중국 간체 气(4획))",
+    "notes": "교과서 본문 98쪽·10획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 氣(10획) vs 일본 신자체 気(6획) / 중국 간체 气(4획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 309,
+    "id": "hanja-5FB7",
+    "character": "德",
+    "codePoint": "U+5FB7",
+    "docReading": "덕: 크다, 덕",
+    "readings": [
+      {
+        "sound": "덕",
+        "meanings": [
+          "크다",
+          "덕"
+        ]
+      }
+    ],
+    "readingDisplay": "덕: 크다, 덕",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 15,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 104쪽·15획 대조 일치 확인 (彳+十+罒+一+心 15획 정자 일치)",
+    "notes": "교과서 본문 104쪽·15획 대조 일치 확인 (彳+十+罒+一+心 15획 정자 일치)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 312,
+    "id": "hanja-82E6",
+    "character": "苦",
+    "codePoint": "U+82E6",
+    "docReading": "고: 쓰다",
+    "readings": [
+      {
+        "sound": "고",
+        "meanings": [
+          "쓰다"
+        ]
+      }
+    ],
+    "readingDisplay": "고: 쓰다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "corrected_internal",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 9,
+    "category": "자체 보정 정체자",
+    "detail": "[3단계 보정 완료] 한국 전통 초두머리(艹, 十十 4획) 보정 완료: animcjk_ko (8획) -> animcjk_hant (9획) 교체",
+    "notes": "한국 전통 초두머리(艹, 十十 4획) 보정 완료: animcjk_ko (8획) -> animcjk_hant (9획) 교체",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 313,
+    "id": "hanja-76E1",
+    "character": "盡",
+    "codePoint": "U+76E1",
+    "docReading": "진: 다하다",
+    "readings": [
+      {
+        "sound": "진",
+        "meanings": [
+          "다하다"
+        ]
+      }
+    ],
+    "readingDisplay": "진: 다하다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 14,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 106쪽·14획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 盡(14획) vs 일본 신자체 尽(6획) / 중국 간체 尽(6획))",
+    "notes": "교과서 본문 106쪽·14획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 盡(14획) vs 일본 신자체 尽(6획) / 중국 간체 尽(6획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 318,
+    "id": "hanja-89C0",
+    "character": "觀",
+    "codePoint": "U+89C0",
+    "docReading": "관: 보다",
+    "readings": [
+      {
+        "sound": "관",
+        "meanings": [
+          "보다"
+        ]
+      }
+    ],
+    "readingDisplay": "관: 보다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "corrected_internal",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 25,
+    "category": "자체 보정 정체자",
+    "detail": "[3단계 보정 완료] 한국 전통 정자 총 획수 보정 완료: animcjk_ko (24획) -> animcjk_hant (25획) 교체",
+    "notes": "한국 전통 정자 총 획수 보정 완료: animcjk_ko (24획) -> animcjk_hant (25획) 교체",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 328,
+    "id": "hanja-5BE6",
+    "character": "實",
+    "codePoint": "U+5BE6",
+    "docReading": "실: 열매, 실제",
+    "readings": [
+      {
+        "sound": "실",
+        "meanings": [
+          "열매",
+          "실제"
+        ]
+      }
+    ],
+    "readingDisplay": "실: 열매, 실제",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 14,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 110쪽·14획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 實(14획) vs 일본 신자체 実(8획) / 중국 간체 实(8획))",
+    "notes": "교과서 본문 110쪽·14획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 實(14획) vs 일본 신자체 実(8획) / 중국 간체 实(8획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 331,
+    "id": "hanja-5167",
+    "character": "內",
+    "codePoint": "U+5167",
+    "docReading": "내: 안",
+    "readings": [
+      {
+        "sound": "내",
+        "meanings": [
+          "안"
+        ]
+      }
+    ],
+    "readingDisplay": "내: 안",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 4,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 110쪽·4획 대조 일치 확인 (안쪽 入 형태 4획 정자 일치)",
+    "notes": "교과서 본문 110쪽·4획 대조 일치 확인 (안쪽 入 형태 4획 정자 일치)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 336,
+    "id": "hanja-7530",
+    "character": "田",
+    "codePoint": "U+7530",
+    "docReading": "전: 밭",
+    "readings": [
+      {
+        "sound": "전",
+        "meanings": [
+          "밭"
+        ]
+      }
+    ],
+    "readingDisplay": "전: 밭",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 5,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 110쪽·5획 대조 일치 확인 (대표 필순 주의: 바깥 테두리 후 내부 가로-세로(또는 세로-가로) 닫기 (5획))",
+    "notes": "교과서 본문 110쪽·5획 대조 일치 확인 (대표 필순 주의: 바깥 테두리 후 내부 가로-세로(또는 세로-가로) 닫기 (5획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 338,
+    "id": "hanja-8FB2",
+    "character": "農",
+    "codePoint": "U+8FB2",
+    "docReading": "농: 농사",
+    "readings": [
+      {
+        "sound": "농",
+        "meanings": [
+          "농사"
+        ]
+      }
+    ],
+    "readingDisplay": "농: 농사",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 13,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 110쪽·13획 대조 일치 확인 (정자·간체 차이: 한국 정자 農(13획) vs 중국 간체 农(6획))",
+    "notes": "교과서 본문 110쪽·13획 대조 일치 확인 (정자·간체 차이: 한국 정자 農(13획) vs 중국 간체 农(6획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 340,
+    "id": "hanja-8C50",
+    "character": "豐",
+    "codePoint": "U+8C50",
+    "docReading": "풍: 풍성하다",
+    "readings": [
+      {
+        "sound": "풍",
+        "meanings": [
+          "풍성하다"
+        ]
+      }
+    ],
+    "readingDisplay": "풍: 풍성하다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 18,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 110쪽·부록 206쪽 정자 豐(U+8C50, 18획) 확정 및 AnimCJK ZhHant 18획 직접 매핑·대조 일치 완료",
+    "notes": "교과서 본문 110쪽·부록 206쪽 정자 豐(U+8C50, 18획) 확정 및 AnimCJK ZhHant 18획 직접 매핑·대조 일치 완료",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 345,
+    "id": "hanja-6B78",
+    "character": "歸",
+    "codePoint": "U+6B78",
+    "docReading": "귀: 돌아가다",
+    "readings": [
+      {
+        "sound": "귀",
+        "meanings": [
+          "돌아가다"
+        ]
+      }
+    ],
+    "readingDisplay": "귀: 돌아가다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "makemeahanzi",
+    "renderMode": "fill",
+    "strokeCount": 18,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 112쪽·18획 대조 일치 확인 (한국 정자 18획 일치)",
+    "notes": "교과서 본문 112쪽·18획 대조 일치 확인 (한국 정자 18획 일치)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 359,
+    "id": "hanja-5802",
+    "character": "堂",
+    "codePoint": "U+5802",
+    "docReading": "당: 집",
+    "readings": [
+      {
+        "sound": "당",
+        "meanings": [
+          "집"
+        ]
+      }
+    ],
+    "readingDisplay": "당: 집",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 11,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 118쪽·11획 대조 일치 확인 (상단 尙+하단 土 11획 정자 일치)",
+    "notes": "교과서 본문 118쪽·11획 대조 일치 확인 (상단 尙+하단 土 11획 정자 일치)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 366,
+    "id": "hanja-85DD",
+    "character": "藝",
+    "codePoint": "U+85DD",
+    "docReading": "예: 재주",
+    "readings": [
+      {
+        "sound": "예",
+        "meanings": [
+          "재주"
+        ]
+      }
+    ],
+    "readingDisplay": "예: 재주",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 19,
+    "category": "집중 검수 159자",
+    "detail": "전통 초두머리(艹 4획) 부합 확인 완료 (animcjk_hant, 19획)",
+    "notes": "전통 초두머리(艹 4획) 부합 확인 완료 (animcjk_hant, 19획)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 371,
+    "id": "hanja-81E3",
+    "character": "臣",
+    "codePoint": "U+81E3",
+    "docReading": "신: 신하",
+    "readings": [
+      {
+        "sound": "신",
+        "meanings": [
+          "신하"
+        ]
+      }
+    ],
+    "readingDisplay": "신: 신하",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 6,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 118쪽·6획 일치 확인. 실제 medians/획순 확인: 1:상가로→2:상세로→3:중꺾임(ㄱ)→4:중가로→5:하세로→6:좌세로·하가로 1획 연결(ㄴ)(총 6획), 별도 교과서 필순 번호 없음",
+    "notes": "교과서 본문 118쪽·6획 일치 확인. 실제 medians/획순 확인: 1:상가로→2:상세로→3:중꺾임(ㄱ)→4:중가로→5:하세로→6:좌세로·하가로 1획 연결(ㄴ)(총 6획), 별도 교과서 필순 번호 없음",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 373,
+    "id": "hanja-4EE4",
+    "character": "令",
+    "codePoint": "U+4EE4",
+    "docReading": "령: 하여금, 명령",
+    "readings": [
+      {
+        "sound": "령",
+        "meanings": [
+          "하여금",
+          "명령"
+        ],
+        "allowedSounds": [
+          "영"
+        ]
+      }
+    ],
+    "readingDisplay": "령: 하여금, 명령",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 5,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 118쪽·5획 대조 일치 확인 (하단 卩 형태 5획 정자 일치)",
+    "notes": "교과서 본문 118쪽·5획 대조 일치 확인 (하단 卩 형태 5획 정자 일치)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 374,
+    "id": "hanja-90FD",
+    "character": "都",
+    "codePoint": "U+90FD",
+    "docReading": "도: 도읍",
+    "readings": [
+      {
+        "sound": "도",
+        "meanings": [
+          "도읍"
+        ]
+      }
+    ],
+    "readingDisplay": "도: 도읍",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "corrected_internal",
+    "provider": "internal",
+    "renderMode": "fill",
+    "strokeCount": 12,
+    "category": "자체 보정 정체자",
+    "detail": "[3단계 보정 완료] 한국 교과서 12획 정자 보정 완료: AnimCJK Ko 11획(者 점 생략 자형) -> 者 부분 5획 위치에 전통 정자 점(丶) 정밀 삽입 (교과서 부록 197쪽 12획 공식 확인)",
+    "notes": "한국 교과서 12획 정자 보정 완료: AnimCJK Ko 11획(者 점 생략 자형) -> 者 부분 5획 위치에 전통 정자 점(丶) 정밀 삽입 (교과서 부록 197쪽 12획 공식 확인)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 375,
+    "id": "hanja-9091",
+    "character": "邑",
+    "codePoint": "U+9091",
+    "docReading": "읍: 고을",
+    "readings": [
+      {
+        "sound": "읍",
+        "meanings": [
+          "고을"
+        ]
+      }
+    ],
+    "readingDisplay": "읍: 고을",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 7,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 118쪽·7획 대조 일치 확인 (口 3획+巴 4획=7획 정자 일치)",
+    "notes": "교과서 본문 118쪽·7획 대조 일치 확인 (口 3획+巴 4획=7획 정자 일치)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 383,
+    "id": "hanja-5BF6",
+    "character": "寶",
+    "codePoint": "U+5BF6",
+    "docReading": "보: 보배",
+    "readings": [
+      {
+        "sound": "보",
+        "meanings": [
+          "보배"
+        ]
+      }
+    ],
+    "readingDisplay": "보: 보배",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 20,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 122쪽·20획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 寶(20획) vs 일본 신자체 宝(8획) / 중국 간체 宝(8획))",
+    "notes": "교과서 본문 122쪽·20획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 寶(20획) vs 일본 신자체 宝(8획) / 중국 간체 宝(8획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 392,
+    "id": "hanja-9047",
+    "character": "遇",
+    "codePoint": "U+9047",
+    "docReading": "우: 만나다, 대접하다",
+    "readings": [
+      {
+        "sound": "우",
+        "meanings": [
+          "만나다",
+          "대접하다"
+        ]
+      }
+    ],
+    "readingDisplay": "우: 만나다, 대접하다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 13,
+    "category": "집중 검수 159자",
+    "detail": "전통 책받침(辶 4획, 점 2개) 부합 확인 완료 (animcjk_hant, 13획)",
+    "notes": "전통 책받침(辶 4획, 점 2개) 부합 확인 완료 (animcjk_hant, 13획)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 397,
+    "id": "hanja-9AD4",
+    "character": "體",
+    "codePoint": "U+9AD4",
+    "docReading": "체: 몸",
+    "readings": [
+      {
+        "sound": "체",
+        "meanings": [
+          "몸"
+        ]
+      }
+    ],
+    "readingDisplay": "체: 몸",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 23,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 126쪽·23획 정자 및 기본 필순 정합 확인 완료",
+    "notes": "교과서 본문 126쪽·23획 정자 및 기본 필순 정합 확인 완료",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 404,
+    "id": "hanja-6085",
+    "character": "悅",
+    "codePoint": "U+6085",
+    "docReading": "열: 기쁘다",
+    "readings": [
+      {
+        "sound": "열",
+        "meanings": [
+          "기쁘다"
+        ]
+      }
+    ],
+    "readingDisplay": "열: 기쁘다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "makemeahanzi",
+    "renderMode": "fill",
+    "strokeCount": 10,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 126쪽·10획 대조 일치 확인 (忄+兌 10획 정자 일치)",
+    "notes": "교과서 본문 126쪽·10획 대조 일치 확인 (忄+兌 10획 정자 일치)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 406,
+    "id": "hanja-767C",
+    "character": "發",
+    "codePoint": "U+767C",
+    "docReading": "발: 피다, 드러내다",
+    "readings": [
+      {
+        "sound": "발",
+        "meanings": [
+          "피다",
+          "드러내다"
+        ]
+      }
+    ],
+    "readingDisplay": "발: 피다, 드러내다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 12,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 126쪽·12획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 發(12획) vs 일본 신자체 発(9획) / 중국 간체 发(5획))",
+    "notes": "교과서 본문 126쪽·12획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 發(12획) vs 일본 신자체 発(9획) / 중국 간체 发(5획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 411,
+    "id": "hanja-547D",
+    "character": "命",
+    "codePoint": "U+547D",
+    "docReading": "명: 목숨",
+    "readings": [
+      {
+        "sound": "명",
+        "meanings": [
+          "목숨"
+        ]
+      }
+    ],
+    "readingDisplay": "명: 목숨",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 8,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 128쪽·8획 대조 일치 확인 (하단 卩 형태 8획 정자 일치)",
+    "notes": "교과서 본문 128쪽·8획 대조 일치 확인 (하단 卩 형태 8획 정자 일치)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 414,
+    "id": "hanja-9053",
+    "character": "道",
+    "codePoint": "U+9053",
+    "docReading": "도: 길, 말하다",
+    "readings": [
+      {
+        "sound": "도",
+        "meanings": [
+          "길",
+          "말하다"
+        ]
+      }
+    ],
+    "readingDisplay": "도: 길, 말하다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 13,
+    "category": "집중 검수 159자",
+    "detail": "전통 책받침(辶 4획, 점 2개) 부합 확인 완료 (animcjk_ko, 13획)",
+    "notes": "전통 책받침(辶 4획, 점 2개) 부합 확인 완료 (animcjk_ko, 13획)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 415,
+    "id": "hanja-8AAA",
+    "character": "說",
+    "codePoint": "U+8AAA",
+    "docReading": "설: 말씀",
+    "readings": [
+      {
+        "sound": "설",
+        "meanings": [
+          "말씀"
+        ]
+      }
+    ],
+    "readingDisplay": "설: 말씀",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 14,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 130쪽·14획 대조 일치 확인 (言+兌 상단 八 형태 14획 정자 일치)",
+    "notes": "교과서 본문 130쪽·14획 대조 일치 확인 (言+兌 상단 八 형태 14획 정자 일치)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 416,
+    "id": "hanja-898B",
+    "character": "見",
+    "codePoint": "U+898B",
+    "docReading": "견: 보다",
+    "readings": [
+      {
+        "sound": "견",
+        "meanings": [
+          "보다"
+        ]
+      }
+    ],
+    "readingDisplay": "견: 보다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 7,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 130쪽·7획 대조 일치 확인 (정자·간체 차이: 한국 정자 見(7획) vs 중국 간체 见(4획))",
+    "notes": "교과서 본문 130쪽·7획 대조 일치 확인 (정자·간체 차이: 한국 정자 見(7획) vs 중국 간체 见(4획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 417,
+    "id": "hanja-7FA9",
+    "character": "義",
+    "codePoint": "U+7FA9",
+    "docReading": "의: 옳다",
+    "readings": [
+      {
+        "sound": "의",
+        "meanings": [
+          "옳다"
+        ]
+      }
+    ],
+    "readingDisplay": "의: 옳다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "corrected_internal",
+    "provider": "internal",
+    "renderMode": "fill",
+    "strokeCount": 13,
+    "category": "자체 보정 정체자",
+    "detail": "[3단계 보정 완료] 한국 표준 필순 보정 완료: AnimCJK ZhHant 대만식(11:斜鉤→12:점→13:삐침) -> 한국 표준(11:斜鉤→12:삐침→13:점, 戰과 동일) 순서 교체 (교과서 본문 130쪽 13획 일치)",
+    "notes": "한국 표준 필순 보정 완료: AnimCJK ZhHant 대만식(11:斜鉤→12:점→13:삐침) -> 한국 표준(11:斜鉤→12:삐침→13:점, 戰과 동일) 순서 교체 (교과서 본문 130쪽 13획 일치)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 419,
+    "id": "hanja-5FC5",
+    "character": "必",
+    "codePoint": "U+5FC5",
+    "docReading": "필: 반드시",
+    "readings": [
+      {
+        "sound": "필",
+        "meanings": [
+          "반드시"
+        ]
+      }
+    ],
+    "readingDisplay": "필: 반드시",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 5,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 130쪽·5획 대조 일치 확인 (대표 필순 주의: 한국(가운데 삐침/심 변형) vs 일본(삐침→점→갈고리) vs 중국(점→갈고리→삐침) (5획))",
+    "notes": "교과서 본문 130쪽·5획 대조 일치 확인 (대표 필순 주의: 한국(가운데 삐침/심 변형) vs 일본(삐침→점→갈고리) vs 중국(점→갈고리→삐침) (5획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 423,
+    "id": "hanja-52DD",
+    "character": "勝",
+    "codePoint": "U+52DD",
+    "docReading": "승: 이기다",
+    "readings": [
+      {
+        "sound": "승",
+        "meanings": [
+          "이기다"
+        ]
+      }
+    ],
+    "readingDisplay": "승: 이기다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 12,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 134쪽·12획 대조 일치 확인 (정자·간체 차이: 한국 정자 勝(12획, 月+券) vs 중국 간체 胜(9획))",
+    "notes": "교과서 본문 134쪽·12획 대조 일치 확인 (정자·간체 차이: 한국 정자 勝(12획, 月+券) vs 중국 간체 胜(9획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 442,
+    "id": "hanja-8B80",
+    "character": "讀",
+    "codePoint": "U+8B80",
+    "docReading": "독: 읽다",
+    "readings": [
+      {
+        "sound": "독",
+        "meanings": [
+          "읽다"
+        ]
+      }
+    ],
+    "readingDisplay": "독: 읽다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 22,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 142쪽·22획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 讀(22획) vs 일본 신자체 読(14획) / 중국 간체 读(10획))",
+    "notes": "교과서 본문 142쪽·22획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 讀(22획) vs 일본 신자체 読(14획) / 중국 간체 读(10획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 443,
+    "id": "hanja-85E5",
+    "character": "藥",
+    "codePoint": "U+85E5",
+    "docReading": "약: 약",
+    "readings": [
+      {
+        "sound": "약",
+        "meanings": [
+          "약"
+        ]
+      }
+    ],
+    "readingDisplay": "약: 약",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "corrected_internal",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 19,
+    "category": "자체 보정 정체자",
+    "detail": "[3단계 보정 완료] 한국 전통 초두머리(艹, 十十 4획) 보정 완료: animcjk_ko (18획) -> animcjk_hant (19획) 교체",
+    "notes": "한국 전통 초두머리(艹, 十十 4획) 보정 완료: animcjk_ko (18획) -> animcjk_hant (19획) 교체",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 450,
+    "id": "hanja-82B1",
+    "character": "花",
+    "codePoint": "U+82B1",
+    "docReading": "화: 꽃",
+    "readings": [
+      {
+        "sound": "화",
+        "meanings": [
+          "꽃"
+        ]
+      }
+    ],
+    "readingDisplay": "화: 꽃",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "corrected_internal",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 8,
+    "category": "자체 보정 정체자",
+    "detail": "[3단계 보정 완료] 한국 전통 초두머리(艹, 十十 4획) 보정 완료: animcjk_ko (7획) -> animcjk_hant (8획) 교체",
+    "notes": "한국 전통 초두머리(艹, 十十 4획) 보정 완료: animcjk_ko (7획) -> animcjk_hant (8획) 교체",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 451,
+    "id": "hanja-843D",
+    "character": "落",
+    "codePoint": "U+843D",
+    "docReading": "락: 떨어지다",
+    "readings": [
+      {
+        "sound": "락",
+        "meanings": [
+          "떨어지다"
+        ],
+        "allowedSounds": [
+          "낙"
+        ]
+      }
+    ],
+    "readingDisplay": "락: 떨어지다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "corrected_internal",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 13,
+    "category": "자체 보정 정체자",
+    "detail": "[3단계 보정 완료] 한국 전통 초두머리(艹, 十十 4획) 보정 완료: animcjk_ko (12획) -> animcjk_hant (13획) 교체",
+    "notes": "한국 전통 초두머리(艹, 十十 4획) 보정 완료: animcjk_ko (12획) -> animcjk_hant (13획) 교체",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 452,
+    "id": "hanja-8A9E",
+    "character": "語",
+    "codePoint": "U+8A9E",
+    "docReading": "어: 말씀",
+    "readings": [
+      {
+        "sound": "어",
+        "meanings": [
+          "말씀"
+        ]
+      }
+    ],
+    "readingDisplay": "어: 말씀",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 14,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 142쪽·14획 대조 일치 확인 (정자·간체 차이: 한국 정자 語(14획) vs 중국 간체 语(9획))",
+    "notes": "교과서 본문 142쪽·14획 대조 일치 확인 (정자·간체 차이: 한국 정자 語(14획) vs 중국 간체 语(9획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 454,
+    "id": "hanja-9038",
+    "character": "逸",
+    "codePoint": "U+9038",
+    "docReading": "일: 편안하다",
+    "readings": [
+      {
+        "sound": "일",
+        "meanings": [
+          "편안하다"
+        ]
+      }
+    ],
+    "readingDisplay": "일: 편안하다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "corrected_internal",
+    "provider": "internal",
+    "renderMode": "fill",
+    "strokeCount": 12,
+    "category": "자체 보정 정체자",
+    "detail": "[3단계 보정 완료] 한국 교과서 12획 정자 보정 완료: MMH 11획(辶 3획) -> 免(8획) + 한국 전통 辶(4획, 遠 기반) 결합 12획 (교과서 본문 142쪽·p.19 辶 4획 기준 일치)",
+    "notes": "한국 교과서 12획 정자 보정 완료: MMH 11획(辶 3획) -> 免(8획) + 한국 전통 辶(4획, 遠 기반) 결합 12획 (교과서 본문 142쪽·p.19 辶 4획 기준 일치)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 458,
+    "id": "hanja-8A71",
+    "character": "話",
+    "codePoint": "U+8A71",
+    "docReading": "화: 말씀",
+    "readings": [
+      {
+        "sound": "화",
+        "meanings": [
+          "말씀"
+        ]
+      }
+    ],
+    "readingDisplay": "화: 말씀",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 13,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 146쪽·13획 대조 일치 확인 (정자·간체 차이: 한국 정자 話(13획) vs 중국 간체 话(8획))",
+    "notes": "교과서 본문 146쪽·13획 대조 일치 확인 (정자·간체 차이: 한국 정자 話(13획) vs 중국 간체 话(8획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 460,
+    "id": "hanja-88FD",
+    "character": "製",
+    "codePoint": "U+88FD",
+    "docReading": "제: 짓다",
+    "readings": [
+      {
+        "sound": "제",
+        "meanings": [
+          "짓다"
+        ]
+      }
+    ],
+    "readingDisplay": "제: 짓다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 14,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 146쪽·14획 대조 일치 확인 (정자·간체 차이: 한국 정자 製(14획) vs 중국 간체 制(8획))",
+    "notes": "교과서 본문 146쪽·14획 대조 일치 확인 (정자·간체 차이: 한국 정자 製(14획) vs 중국 간체 制(8획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 461,
+    "id": "hanja-9023",
+    "character": "連",
+    "codePoint": "U+9023",
+    "docReading": "련: 잇다",
+    "readings": [
+      {
+        "sound": "련",
+        "meanings": [
+          "잇다"
+        ],
+        "allowedSounds": [
+          "연"
+        ]
+      }
+    ],
+    "readingDisplay": "련: 잇다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 11,
+    "category": "집중 검수 159자",
+    "detail": "전통 책받침(辶 4획, 점 2개) 부합 확인 완료 (animcjk_hant, 11획)",
+    "notes": "전통 책받침(辶 4획, 점 2개) 부합 확인 완료 (animcjk_hant, 11획)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 462,
+    "id": "hanja-7E8C",
+    "character": "續",
+    "codePoint": "U+7E8C",
+    "docReading": "속: 잇다",
+    "readings": [
+      {
+        "sound": "속",
+        "meanings": [
+          "잇다"
+        ]
+      }
+    ],
+    "readingDisplay": "속: 잇다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 21,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 146쪽·21획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 續(21획) vs 일본 신자체 続(13획) / 중국 간체 续(11획))",
+    "notes": "교과서 본문 146쪽·21획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 續(21획) vs 일본 신자체 続(13획) / 중국 간체 续(11획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 463,
+    "id": "hanja-7DDA",
+    "character": "線",
+    "codePoint": "U+7DDA",
+    "docReading": "선: 줄",
+    "readings": [
+      {
+        "sound": "선",
+        "meanings": [
+          "줄"
+        ]
+      }
+    ],
+    "readingDisplay": "선: 줄",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 15,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 146쪽·15획 대조 일치 확인 (정자·간체 차이: 한국 정자 線(15획) vs 중국 간체 线(8획))",
+    "notes": "교과서 본문 146쪽·15획 대조 일치 확인 (정자·간체 차이: 한국 정자 線(15획) vs 중국 간체 线(8획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 464,
+    "id": "hanja-96FB",
+    "character": "電",
+    "codePoint": "U+96FB",
+    "docReading": "전: 번개, 전기",
+    "readings": [
+      {
+        "sound": "전",
+        "meanings": [
+          "번개",
+          "전기"
+        ]
+      }
+    ],
+    "readingDisplay": "전: 번개, 전기",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 13,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 146쪽·13획 대조 일치 확인 (정자·간체 차이: 한국 정자 電(13획) vs 중국 간체 电(5획))",
+    "notes": "교과서 본문 146쪽·13획 대조 일치 확인 (정자·간체 차이: 한국 정자 電(13획) vs 중국 간체 电(5획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 465,
+    "id": "hanja-9650",
+    "character": "限",
+    "codePoint": "U+9650",
+    "docReading": "한: 한정하다",
+    "readings": [
+      {
+        "sound": "한",
+        "meanings": [
+          "한정하다"
+        ]
+      }
+    ],
+    "readingDisplay": "한: 한정하다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 9,
+    "category": "집중 검수 159자",
+    "detail": "좌부변(阝 3획) 부합 확인 완료 (animcjk_hant, 9획)",
+    "notes": "좌부변(阝 3획) 부합 확인 완료 (animcjk_hant, 9획)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 467,
+    "id": "hanja-967D",
+    "character": "陽",
+    "codePoint": "U+967D",
+    "docReading": "양: 볕",
+    "readings": [
+      {
+        "sound": "양",
+        "meanings": [
+          "볕"
+        ]
+      }
+    ],
+    "readingDisplay": "양: 볕",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 12,
+    "category": "집중 검수 159자",
+    "detail": "좌부변(阝 3획) 부합 확인 완료 (animcjk_ko, 12획)",
+    "notes": "좌부변(阝 3획) 부합 확인 완료 (animcjk_ko, 12획)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 468,
+    "id": "hanja-98A8",
+    "character": "風",
+    "codePoint": "U+98A8",
+    "docReading": "풍: 바람",
+    "readings": [
+      {
+        "sound": "풍",
+        "meanings": [
+          "바람"
+        ]
+      }
+    ],
+    "readingDisplay": "풍: 바람",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 9,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 146쪽·9획 대조 일치 확인 (정자·간체 차이: 한국 정자 風(9획) vs 중국 간체 风(4획))",
+    "notes": "교과서 본문 146쪽·9획 대조 일치 확인 (정자·간체 차이: 한국 정자 風(9획) vs 중국 간체 风(4획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 470,
+    "id": "hanja-975C",
+    "character": "靜",
+    "codePoint": "U+975C",
+    "docReading": "정: 고요하다",
+    "readings": [
+      {
+        "sound": "정",
+        "meanings": [
+          "고요하다"
+        ]
+      }
+    ],
+    "readingDisplay": "정: 고요하다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 16,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 146쪽·16획 대조 일치 확인 (좌측 靑[상단 龶 4획+하단 月 4획]+우측 爭 8획=16획 정자; 기존 메모의 '生' 오기 정정)",
+    "notes": "교과서 본문 146쪽·16획 대조 일치 확인 (좌측 靑[상단 龶 4획+하단 月 4획]+우측 爭 8획=16획 정자; 기존 메모의 '生' 오기 정정)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 474,
+    "id": "hanja-5152",
+    "character": "兒",
+    "codePoint": "U+5152",
+    "docReading": "아: 아이",
+    "readings": [
+      {
+        "sound": "아",
+        "meanings": [
+          "아이"
+        ]
+      }
+    ],
+    "readingDisplay": "아: 아이",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 8,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 146쪽·8획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 兒(8획) vs 일본 신자체 児(7획) / 중국 간체 儿(2획))",
+    "notes": "교과서 본문 146쪽·8획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 兒(8획) vs 일본 신자체 児(7획) / 중국 간체 儿(2획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 480,
+    "id": "hanja-5617",
+    "character": "嘗",
+    "codePoint": "U+5617",
+    "docReading": "상: 일찍이",
+    "readings": [
+      {
+        "sound": "상",
+        "meanings": [
+          "일찍이"
+        ]
+      }
+    ],
+    "readingDisplay": "상: 일찍이",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 14,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 150쪽·14획 대조 일치 확인 (상단 尙+하단 旨 14획 정자 일치)",
+    "notes": "교과서 본문 150쪽·14획 대조 일치 확인 (상단 尙+하단 旨 14획 정자 일치)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 483,
+    "id": "hanja-9EC3",
+    "character": "黃",
+    "codePoint": "U+9EC3",
+    "docReading": "황: 누렇다",
+    "readings": [
+      {
+        "sound": "황",
+        "meanings": [
+          "누렇다"
+        ]
+      }
+    ],
+    "readingDisplay": "황: 누렇다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 12,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 150쪽·12획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 黃(12획) vs 일본 신자체 黄(11획) / 중국 간체 黄(11획))",
+    "notes": "교과서 본문 150쪽·12획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 黃(12획) vs 일본 신자체 黄(11획) / 중국 간체 黄(11획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 485,
+    "id": "hanja-5396",
+    "character": "厖",
+    "codePoint": "U+5396",
+    "docReading": "방: 크다",
+    "readings": [
+      {
+        "sound": "방",
+        "meanings": [
+          "크다"
+        ]
+      }
+    ],
+    "readingDisplay": "방: 크다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "corrected_internal",
+    "provider": "kanjivg",
+    "renderMode": "stroke",
+    "strokeCount": 9,
+    "category": "자체 보정 정체자",
+    "detail": "[3단계 보정 완료] KanjiVG 9획(厂 2획 + 尨 7획) 스케일링/메디안 완료. 교과서 150쪽 정자 글리프 육안 대조 일치.",
+    "notes": "KanjiVG 9획(厂 2획 + 尨 7획) 스케일링/메디안 완료. 교과서 150쪽 정자 글리프 육안 대조 일치.",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 486,
+    "id": "hanja-865F",
+    "character": "號",
+    "codePoint": "U+865F",
+    "docReading": "호: 이름, 부르다",
+    "readings": [
+      {
+        "sound": "호",
+        "meanings": [
+          "이름",
+          "부르다"
+        ]
+      }
+    ],
+    "readingDisplay": "호: 이름, 부르다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 13,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 150쪽·13획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 號(13획) vs 일본 신자체 号(5획) / 중국 간체 号(5획))",
+    "notes": "교과서 본문 150쪽·13획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 號(13획) vs 일본 신자체 号(5획) / 중국 간체 号(5획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 487,
+    "id": "hanja-6BCF",
+    "character": "每",
+    "codePoint": "U+6BCF",
+    "docReading": "매: 매양",
+    "readings": [
+      {
+        "sound": "매",
+        "meanings": [
+          "매양"
+        ]
+      }
+    ],
+    "readingDisplay": "매: 매양",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 7,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 150쪽·7획 대조 일치 확인 (대표 필순 주의: 상단 𠂉 및 하단 母 형태의 결합과 필순 (7획))",
+    "notes": "교과서 본문 150쪽·7획 대조 일치 확인 (대표 필순 주의: 상단 𠂉 및 하단 母 형태의 결합과 필순 (7획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 492,
+    "id": "hanja-9280",
+    "character": "銀",
+    "codePoint": "U+9280",
+    "docReading": "은: 은",
+    "readings": [
+      {
+        "sound": "은",
+        "meanings": [
+          "은"
+        ]
+      }
+    ],
+    "readingDisplay": "은: 은",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 14,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 154쪽·14획 대조 일치 확인 (정자·간체 차이: 한국 정자 銀(14획) vs 중국 간체 银(11획))",
+    "notes": "교과서 본문 154쪽·14획 대조 일치 확인 (정자·간체 차이: 한국 정자 銀(14획) vs 중국 간체 银(11획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 497,
+    "id": "hanja-9751",
+    "character": "靑",
+    "codePoint": "U+9751",
+    "docReading": "청: 푸르다",
+    "readings": [
+      {
+        "sound": "청",
+        "meanings": [
+          "푸르다"
+        ]
+      }
+    ],
+    "readingDisplay": "청: 푸르다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 8,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 154쪽·8획 대조 일치 확인 (상단 龶 4획+하단 円 4획=8획 정자; 기존 메모의 '상단 生' 오기 정정)",
+    "notes": "교과서 본문 154쪽·8획 대조 일치 확인 (상단 龶 4획+하단 円 4획=8획 정자; 기존 메모의 '상단 生' 오기 정정)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 498,
+    "id": "hanja-9ED1",
+    "character": "黑",
+    "codePoint": "U+9ED1",
+    "docReading": "흑: 검다",
+    "readings": [
+      {
+        "sound": "흑",
+        "meanings": [
+          "검다"
+        ]
+      }
+    ],
+    "readingDisplay": "흑: 검다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 12,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 154쪽·12획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 黑(12획) vs 일본 신자체 黒(11획) / 중국 간체 黑(12획))",
+    "notes": "교과서 본문 154쪽·12획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 黑(12획) vs 일본 신자체 黒(11획) / 중국 간체 黑(12획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 500,
+    "id": "hanja-83AB",
+    "character": "莫",
+    "codePoint": "U+83AB",
+    "docReading": "막: 없다",
+    "readings": [
+      {
+        "sound": "막",
+        "meanings": [
+          "없다"
+        ]
+      }
+    ],
+    "readingDisplay": "막: 없다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 11,
+    "category": "집중 검수 159자",
+    "detail": "전통 초두머리(艹 4획) 부합 확인 완료 (animcjk_hant, 11획)",
+    "notes": "전통 초두머리(艹 4획) 부합 확인 완료 (animcjk_hant, 11획)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 502,
+    "id": "hanja-9CE5",
+    "character": "鳥",
+    "codePoint": "U+9CE5",
+    "docReading": "조: 새",
+    "readings": [
+      {
+        "sound": "조",
+        "meanings": [
+          "새"
+        ]
+      }
+    ],
+    "readingDisplay": "조: 새",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 11,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 154쪽·11획 대조 일치 확인 (정자·간체 차이: 한국 정자 鳥(11획) vs 중국 간체 鸟(5획))",
+    "notes": "교과서 본문 154쪽·11획 대조 일치 확인 (정자·간체 차이: 한국 정자 鳥(11획) vs 중국 간체 鸟(5획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 508,
+    "id": "hanja-990A",
+    "character": "養",
+    "codePoint": "U+990A",
+    "docReading": "양: 기르다",
+    "readings": [
+      {
+        "sound": "양",
+        "meanings": [
+          "기르다"
+        ]
+      }
+    ],
+    "readingDisplay": "양: 기르다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 15,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 154쪽·15획 대조 일치 확인 (羊 6획+食 9획=15획 정자 일치)",
+    "notes": "교과서 본문 154쪽·15획 대조 일치 확인 (羊 6획+食 9획=15획 정자 일치)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 509,
+    "id": "hanja-9593",
+    "character": "間",
+    "codePoint": "U+9593",
+    "docReading": "간: 사이",
+    "readings": [
+      {
+        "sound": "간",
+        "meanings": [
+          "사이"
+        ]
+      }
+    ],
+    "readingDisplay": "간: 사이",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 12,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 156쪽·12획 대조 일치 확인 (門 부수 필순·정자: 정자 12획 vs 중국 间(7획), 내부 日 결합)",
+    "notes": "교과서 본문 156쪽·12획 대조 일치 확인 (門 부수 필순·정자: 정자 12획 vs 중국 间(7획), 내부 日 결합)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 511,
+    "id": "hanja-6211",
+    "character": "我",
+    "codePoint": "U+6211",
+    "docReading": "아: 나",
+    "readings": [
+      {
+        "sound": "아",
+        "meanings": [
+          "나"
+        ]
+      }
+    ],
+    "readingDisplay": "아: 나",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "corrected_internal",
+    "provider": "internal",
+    "renderMode": "fill",
+    "strokeCount": 7,
+    "category": "자체 보정 정체자",
+    "detail": "[3단계 보정 완료] 한국 표준 필순 보정 완료: AnimCJK ZhHant 대만식(5:斜鉤→6:점→7:삐침) -> 한국 표준(5:斜鉤→6:삐침→7:점, 戰과 동일) 순서 교체 (교과서 본문 158쪽 7획 일치)",
+    "notes": "한국 표준 필순 보정 완료: AnimCJK ZhHant 대만식(5:斜鉤→6:점→7:삐침) -> 한국 표준(5:斜鉤→6:삐침→7:점, 戰과 동일) 순서 교체 (교과서 본문 158쪽 7획 일치)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 515,
+    "id": "hanja-65B9",
+    "character": "方",
+    "codePoint": "U+65B9",
+    "docReading": "방: 모, 방위",
+    "readings": [
+      {
+        "sound": "방",
+        "meanings": [
+          "모",
+          "방위"
+        ]
+      }
+    ],
+    "readingDisplay": "방: 모, 방위",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 4,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 158쪽·4획 대조 및 실제 medians/SVG 획순 검증 완료: animcjk_ko 원천이 이미 한국 표준(1:점→2:가로→3:꺾임갈고리→4:삐침)과 100% 일치 (순서 변경 불필요)",
+    "notes": "교과서 본문 158쪽·4획 대조 및 실제 medians/SVG 획순 검증 완료: animcjk_ko 원천이 이미 한국 표준(1:점→2:가로→3:꺾임갈고리→4:삐침)과 100% 일치 (순서 변경 불필요)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 518,
+    "id": "hanja-98EE",
+    "character": "飮",
+    "codePoint": "U+98EE",
+    "docReading": "음: 마시다",
+    "readings": [
+      {
+        "sound": "음",
+        "meanings": [
+          "마시다"
+        ]
+      }
+    ],
+    "readingDisplay": "음: 마시다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 13,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 158쪽·13획 대조 일치 확인 (한국 전통 밥식변 飠 9획+欠 4획=13획 정자; 기존 메모의 '飠 8획' 오기 정정)",
+    "notes": "교과서 본문 158쪽·13획 대조 일치 확인 (한국 전통 밥식변 飠 9획+欠 4획=13획 정자; 기존 메모의 '飠 8획' 오기 정정)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 520,
+    "id": "hanja-5168",
+    "character": "全",
+    "codePoint": "U+5168",
+    "docReading": "전: 모두",
+    "readings": [
+      {
+        "sound": "전",
+        "meanings": [
+          "모두"
+        ]
+      }
+    ],
+    "readingDisplay": "전: 모두",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 6,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 162쪽·6획 대조 일치 확인 (人+王 6획 정자 일치)",
+    "notes": "교과서 본문 162쪽·6획 대조 일치 확인 (人+王 6획 정자 일치)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 525,
+    "id": "hanja-83EF",
+    "character": "華",
+    "codePoint": "U+83EF",
+    "docReading": "화: 빛나다",
+    "readings": [
+      {
+        "sound": "화",
+        "meanings": [
+          "빛나다"
+        ]
+      }
+    ],
+    "readingDisplay": "화: 빛나다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "corrected_internal",
+    "provider": "makemeahanzi",
+    "renderMode": "fill",
+    "strokeCount": 11,
+    "category": "자체 보정 정체자",
+    "detail": "[3단계 보정 완료] 한국 교과서 11획 정자 보정 완료: AnimCJK ZhHant 12획 -> MakeMeAHanzi 11획 교체 (교과서 부록 207쪽 11획 공식 확인)",
+    "notes": "한국 교과서 11획 정자 보정 완료: AnimCJK ZhHant 12획 -> MakeMeAHanzi 11획 교체 (교과서 부록 207쪽 11획 공식 확인)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 526,
+    "id": "hanja-8302",
+    "character": "茂",
+    "codePoint": "U+8302",
+    "docReading": "무: 무성하다",
+    "readings": [
+      {
+        "sound": "무",
+        "meanings": [
+          "무성하다"
+        ]
+      }
+    ],
+    "readingDisplay": "무: 무성하다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "corrected_internal",
+    "provider": "internal",
+    "renderMode": "fill",
+    "strokeCount": 9,
+    "category": "자체 보정 정체자",
+    "detail": "[3단계 보정 완료] 한국 교과서 9획 정자 보정 완료: MMH 현대식 艹(3획) -> 전통 초두머리(艹 4획, 十十) 정밀 스케일링 이식 (교과서 부록 198쪽 9획 공식 확인)",
+    "notes": "한국 교과서 9획 정자 보정 완료: MMH 현대식 艹(3획) -> 전통 초두머리(艹 4획, 十十) 정밀 스케일링 이식 (교과서 부록 198쪽 9획 공식 확인)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 530,
+    "id": "hanja-4E16",
+    "character": "世",
+    "codePoint": "U+4E16",
+    "docReading": "세: 세상",
+    "readings": [
+      {
+        "sound": "세",
+        "meanings": [
+          "세상"
+        ]
+      }
+    ],
+    "readingDisplay": "세: 세상",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 5,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 162쪽·5획 대조 일치 확인 (대표 필순 주의: 가로(1) 후 세로 3획의 작성 순서(중앙-우-좌 또는 좌-중앙-우) (5획))",
+    "notes": "교과서 본문 162쪽·5획 대조 일치 확인 (대표 필순 주의: 가로(1) 후 세로 3획의 작성 순서(중앙-우-좌 또는 좌-중앙-우) (5획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 544,
+    "id": "hanja-5E38",
+    "character": "常",
+    "codePoint": "U+5E38",
+    "docReading": "상: 항상",
+    "readings": [
+      {
+        "sound": "상",
+        "meanings": [
+          "항상"
+        ]
+      }
+    ],
+    "readingDisplay": "상: 항상",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 11,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 170쪽·11획 대조 일치 확인 (상단 尙+하단 巾 11획 정자 일치)",
+    "notes": "교과서 본문 170쪽·11획 대조 일치 확인 (상단 尙+하단 巾 11획 정자 일치)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 546,
+    "id": "hanja-9054",
+    "character": "達",
+    "codePoint": "U+9054",
+    "docReading": "달: 통달하다",
+    "readings": [
+      {
+        "sound": "달",
+        "meanings": [
+          "통달하다"
+        ]
+      }
+    ],
+    "readingDisplay": "달: 통달하다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 13,
+    "category": "집중 검수 159자",
+    "detail": "전통 책받침(辶 4획, 점 2개) 부합 확인 완료 (animcjk_hant, 13획)",
+    "notes": "전통 책받침(辶 4획, 점 2개) 부합 확인 완료 (animcjk_hant, 13획)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 547,
+    "id": "hanja-5A66",
+    "character": "婦",
+    "codePoint": "U+5A66",
+    "docReading": "부: 아내",
+    "readings": [
+      {
+        "sound": "부",
+        "meanings": [
+          "아내"
+        ]
+      }
+    ],
+    "readingDisplay": "부: 아내",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 11,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 170쪽·11획 대조 일치 확인 (정자·간체 차이: 한국 정자 婦(11획) vs 중국 간체 妇(6획))",
+    "notes": "교과서 본문 170쪽·11획 대조 일치 확인 (정자·간체 차이: 한국 정자 婦(11획) vs 중국 간체 妇(6획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 548,
+    "id": "hanja-4ECA",
+    "character": "今",
+    "codePoint": "U+4ECA",
+    "docReading": "금: 이제",
+    "readings": [
+      {
+        "sound": "금",
+        "meanings": [
+          "이제"
+        ]
+      }
+    ],
+    "readingDisplay": "금: 이제",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 4,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 170쪽·4획 대조 일치 확인 (4획 정자 일치)",
+    "notes": "교과서 본문 170쪽·4획 대조 일치 확인 (4획 정자 일치)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 563,
+    "id": "hanja-907A",
+    "character": "遺",
+    "codePoint": "U+907A",
+    "docReading": "유: 남기다",
+    "readings": [
+      {
+        "sound": "유",
+        "meanings": [
+          "남기다"
+        ]
+      }
+    ],
+    "readingDisplay": "유: 남기다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "corrected_internal",
+    "provider": "internal",
+    "renderMode": "fill",
+    "strokeCount": 16,
+    "category": "자체 보정 정체자",
+    "detail": "[3단계 보정 완료] 한국 교과서 16획 정자 보정 완료: MMH 15획(辶 3획) -> 貴(12획) + 한국 전통 辶(4획, 遠 기반) 결합 16획 (교과서 본문 174쪽·부록 203쪽 16획 일치)",
+    "notes": "한국 교과서 16획 정자 보정 완료: MMH 15획(辶 3획) -> 貴(12획) + 한국 전통 辶(4획, 遠 기반) 결합 16획 (교과서 본문 174쪽·부록 203쪽 16획 일치)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 566,
+    "id": "hanja-90DE",
+    "character": "郞",
+    "codePoint": "U+90DE",
+    "docReading": "랑: 사내",
+    "readings": [
+      {
+        "sound": "랑",
+        "meanings": [
+          "사내"
+        ],
+        "allowedSounds": [
+          "낭"
+        ]
+      }
+    ],
+    "readingDisplay": "랑: 사내",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "corrected_internal",
+    "provider": "kanjivg",
+    "renderMode": "stroke",
+    "strokeCount": 10,
+    "category": "자체 보정 정체자",
+    "detail": "[3단계 보정 완료] KanjiVG 10획(良 7획 + 阝 3획) 스케일링 완료. 교과서 부록 198쪽 10획 공식 일치 확인.",
+    "notes": "KanjiVG 10획(良 7획 + 阝 3획) 스케일링 완료. 교과서 부록 198쪽 10획 공식 일치 확인.",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 570,
+    "id": "hanja-795D",
+    "character": "祝",
+    "codePoint": "U+795D",
+    "docReading": "축: 빌다",
+    "readings": [
+      {
+        "sound": "축",
+        "meanings": [
+          "빌다"
+        ]
+      }
+    ],
+    "readingDisplay": "축: 빌다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 10,
+    "category": "집중 검수 159자",
+    "detail": "보일 시 부수(示 5획) 교과서 부록 공식 총획과 100% 일치 확인 완료 (animcjk_ko, 10획)",
+    "notes": "보일 시 부수(示 5획) 교과서 부록 공식 총획과 100% 일치 확인 완료 (animcjk_ko, 10획)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 573,
+    "id": "hanja-89E3",
+    "character": "解",
+    "codePoint": "U+89E3",
+    "docReading": "해: 풀다",
+    "readings": [
+      {
+        "sound": "해",
+        "meanings": [
+          "풀다"
+        ]
+      }
+    ],
+    "readingDisplay": "해: 풀다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 13,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 176쪽·13획 대조 일치 확인 (좌측 角 7획+刀 2획+牛 4획=13획 정자 일치)",
+    "notes": "교과서 본문 176쪽·13획 대조 일치 확인 (좌측 角 7획+刀 2획+牛 4획=13획 정자 일치)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 575,
+    "id": "hanja-842C",
+    "character": "萬",
+    "codePoint": "U+842C",
+    "docReading": "만: 일만",
+    "readings": [
+      {
+        "sound": "만",
+        "meanings": [
+          "일만"
+        ]
+      }
+    ],
+    "readingDisplay": "만: 일만",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "corrected_internal",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 13,
+    "category": "자체 보정 정체자",
+    "detail": "[3단계 보정 완료] 한국 전통 초두머리(艹, 十十 4획) 보정 완료: animcjk_ko (12획) -> animcjk_hant (13획) 교체",
+    "notes": "한국 전통 초두머리(艹, 十十 4획) 보정 완료: animcjk_ko (12획) -> animcjk_hant (13획) 교체",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 578,
+    "id": "hanja-9918",
+    "character": "餘",
+    "codePoint": "U+9918",
+    "docReading": "여: 남다",
+    "readings": [
+      {
+        "sound": "여",
+        "meanings": [
+          "남다"
+        ]
+      }
+    ],
+    "readingDisplay": "여: 남다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "corrected_internal",
+    "provider": "internal",
+    "renderMode": "fill",
+    "strokeCount": 16,
+    "category": "자체 보정 정체자",
+    "detail": "[3단계 보정 완료] 한국 교과서 16획 정자 보정 완료: AnimCJK ZhHant 15획(飠 8획) -> 飮(AnimCJK Ko) 飠 9획 + 余 7획 결합 16획 (교과서 본문 178쪽·부록 202쪽 16획 일치)",
+    "notes": "한국 교과서 16획 정자 보정 완료: AnimCJK ZhHant 15획(飠 8획) -> 飮(AnimCJK Ko) 飠 9획 + 余 7획 결합 16획 (교과서 본문 178쪽·부록 202쪽 16획 일치)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 583,
+    "id": "hanja-96F2",
+    "character": "雲",
+    "codePoint": "U+96F2",
+    "docReading": "운: 구름",
+    "readings": [
+      {
+        "sound": "운",
+        "meanings": [
+          "구름"
+        ]
+      }
+    ],
+    "readingDisplay": "운: 구름",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 12,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 178쪽·12획 대조 일치 확인 (정자·간체 차이: 한국 정자 雲(12획) vs 중국 간체 云(4획))",
+    "notes": "교과서 본문 178쪽·12획 대조 일치 확인 (정자·간체 차이: 한국 정자 雲(12획) vs 중국 간체 云(4획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 584,
+    "id": "hanja-82E5",
+    "character": "若",
+    "codePoint": "U+82E5",
+    "docReading": "약: 같다",
+    "readings": [
+      {
+        "sound": "약",
+        "meanings": [
+          "같다"
+        ]
+      }
+    ],
+    "readingDisplay": "약: 같다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "corrected_internal",
+    "provider": "internal",
+    "renderMode": "fill",
+    "strokeCount": 9,
+    "category": "자체 보정 정체자",
+    "detail": "[3단계 보정 완료] 한국 교과서 9획 정자 보정 완료: MMH 현대식 艹(3획) -> 전통 초두머리(艹 4획, 十十) 정밀 스케일링 이식 (교과서 부록 201쪽 9획 공식 확인)",
+    "notes": "한국 교과서 9획 정자 보정 완료: MMH 현대식 艹(3획) -> 전통 초두머리(艹 4획, 十十) 정밀 스케일링 이식 (교과서 부록 201쪽 9획 공식 확인)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 588,
+    "id": "hanja-8A69",
+    "character": "詩",
+    "codePoint": "U+8A69",
+    "docReading": "시: 글, 시",
+    "readings": [
+      {
+        "sound": "시",
+        "meanings": [
+          "글",
+          "시"
+        ]
+      }
+    ],
+    "readingDisplay": "시: 글, 시",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 13,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 182쪽·13획 대조 일치 확인 (정자·간체 차이: 한국 정자 詩(13획) vs 중국 간체 诗(8획))",
+    "notes": "교과서 본문 182쪽·13획 대조 일치 확인 (정자·간체 차이: 한국 정자 詩(13획) vs 중국 간체 诗(8획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 593,
+    "id": "hanja-5FF5",
+    "character": "念",
+    "codePoint": "U+5FF5",
+    "docReading": "념: 생각",
+    "readings": [
+      {
+        "sound": "념",
+        "meanings": [
+          "생각"
+        ],
+        "allowedSounds": [
+          "염"
+        ]
+      }
+    ],
+    "readingDisplay": "념: 생각",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 8,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 182쪽·8획 대조 일치 확인 (상단 今 4획+하단 心 4획=8획 정자 일치)",
+    "notes": "교과서 본문 182쪽·8획 대조 일치 확인 (상단 今 4획+하단 心 4획=8획 정자 일치)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 596,
+    "id": "hanja-8B1D",
+    "character": "謝",
+    "codePoint": "U+8B1D",
+    "docReading": "사: 사례하다",
+    "readings": [
+      {
+        "sound": "사",
+        "meanings": [
+          "사례하다"
+        ]
+      }
+    ],
+    "readingDisplay": "사: 사례하다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 17,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 182쪽·17획 대조 일치 확인 (정자·간체 차이: 한국 정자 謝(17획) vs 중국 간체 谢(12획))",
+    "notes": "교과서 본문 182쪽·17획 대조 일치 확인 (정자·간체 차이: 한국 정자 謝(17획) vs 중국 간체 谢(12획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 597,
+    "id": "hanja-79AE",
+    "character": "禮",
+    "codePoint": "U+79AE",
+    "docReading": "례: 예도",
+    "readings": [
+      {
+        "sound": "례",
+        "meanings": [
+          "예도"
+        ],
+        "allowedSounds": [
+          "예"
+        ]
+      }
+    ],
+    "readingDisplay": "례: 예도",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 18,
+    "category": "집중 검수 159자",
+    "detail": "보일 시 부수(示 5획) 교과서 부록 공식 총획과 100% 일치 확인 완료 (animcjk_ko, 18획)",
+    "notes": "보일 시 부수(示 5획) 교과서 부록 공식 총획과 100% 일치 확인 완료 (animcjk_ko, 18획)",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 609,
+    "id": "hanja-91CD",
+    "character": "重",
+    "codePoint": "U+91CD",
+    "docReading": "중: 무겁다",
+    "readings": [
+      {
+        "sound": "중",
+        "meanings": [
+          "무겁다"
+        ]
+      }
+    ],
+    "readingDisplay": "중: 무겁다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 9,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 186쪽·9획 대조 일치 확인 (대표 필순 주의: 중앙 세로 관통선 순서 및 가로획 배열 순서 (9획))",
+    "notes": "교과서 본문 186쪽·9획 대조 일치 확인 (대표 필순 주의: 중앙 세로 관통선 순서 및 가로획 배열 순서 (9획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 613,
+    "id": "hanja-7368",
+    "character": "獨",
+    "codePoint": "U+7368",
+    "docReading": "독: 홀로",
+    "readings": [
+      {
+        "sound": "독",
+        "meanings": [
+          "홀로"
+        ]
+      }
+    ],
+    "readingDisplay": "독: 홀로",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 16,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 186쪽·16획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 獨(16획) vs 일본 신자체 独(9획) / 중국 간체 独(9획))",
+    "notes": "교과서 본문 186쪽·16획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 獨(16획) vs 일본 신자체 独(9획) / 중국 간체 独(9획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 621,
+    "id": "hanja-55AE",
+    "character": "單",
+    "codePoint": "U+55AE",
+    "docReading": "단: 홑",
+    "readings": [
+      {
+        "sound": "단",
+        "meanings": [
+          "홑"
+        ]
+      }
+    ],
+    "readingDisplay": "단: 홑",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_hant",
+    "renderMode": "fill",
+    "strokeCount": 12,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 190쪽·12획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 單(12획) vs 일본 신자체 単(9획) / 중국 간체 单(8획))",
+    "notes": "교과서 본문 190쪽·12획 대조 일치 확인 (정자·신자체·간체 차이: 한국 정자 單(12획) vs 일본 신자체 単(9획) / 중국 간체 单(8획))",
+    "reviewStatus": "일치"
+  },
+  {
+    "order": 637,
+    "id": "hanja-91CF",
+    "character": "量",
+    "codePoint": "U+91CF",
+    "docReading": "량: 헤아리다",
+    "readings": [
+      {
+        "sound": "량",
+        "meanings": [
+          "헤아리다"
+        ],
+        "allowedSounds": [
+          "양"
+        ]
+      }
+    ],
+    "readingDisplay": "량: 헤아리다",
+    "isHighPriority159": true,
+    "needsManualReview": false,
+    "auditStatus": "verified_candidate",
+    "provider": "animcjk_ko",
+    "renderMode": "fill",
+    "strokeCount": 12,
+    "category": "집중 검수 159자",
+    "detail": "교과서 본문 190쪽·12획 대조 일치 확인 (대표 필순 주의: 日+里 결합부 필순 및 관통선 순서 (12획))",
+    "notes": "교과서 본문 190쪽·12획 대조 일치 확인 (대표 필순 주의: 日+里 결합부 필순 및 관통선 순서 (12획))",
+    "reviewStatus": "일치"
+  }
+]
