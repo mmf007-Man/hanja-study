@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <title>한자 쓰기 획 보정(어시스트) 시제품 및 159자 검수 뷰어</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Top Navigation Header -->
+  <header>
+    <div class="brand-area">
+      <h1 class="app-title">
+        <span>✍️ 한자 쓰기 획 보정 & 검수 뷰어</span>
+        <span class="badge-version">Phase 03 Prototype</span>
+      </h1>
+    </div>
+    <nav class="mode-nav">
+      <button id="tabAssist" class="nav-tab-btn active">✍️ 모드 A: 획 보정 시제품</button>
+      <button id="tabReview" class="nav-tab-btn">🔍 모드 B: 159자 집중 검수</button>
+    </nav>
+  </header>
+
+  <!-- Main Container -->
+  <main>
+
+    <!-- ====================================================================
+         MODE A: STROKE ASSIST PROTOTYPE
+         ==================================================================== -->
+    <section id="viewAssist" class="view-section active">
+      <div class="assist-container">
+
+        <!-- Left Controls: Character Selector & Tolerances -->
+        <div class="panel">
+          <div class="panel-header">
+            <h2>⚙️ 글자 선택 및 판정 기준</h2>
+          </div>
+          <div class="panel-body">
+
+            <!-- Character Quick Selector -->
+            <div class="char-selector-box">
+              <div class="selector-label">검증 샘플 한자 (12자)</div>
+              <div class="char-btn-grid">
+                <button class="char-btn active" data-char="土">土<span class="sub">흙 토</span></button>
+                <button class="char-btn" data-char="士">士<span class="sub">선비 사</span></button>
+                <button class="char-btn" data-char="日">日<span class="sub">날 일</span></button>
+                <button class="char-btn" data-char="曰">曰<span class="sub">가로 왈</span></button>
+                <button class="char-btn" data-char="木">木<span class="sub">나무 목</span></button>
+                <button class="char-btn" data-char="永">永<span class="sub">길 영</span></button>
+                <button class="char-btn" data-char="學">學<span class="sub">배울 학</span></button>
+                <button class="char-btn" data-char="道">道<span class="sub">길 도</span></button>
+                <button class="char-btn" data-char="馬">馬<span class="sub">말 마</span></button>
+                <button class="char-btn" data-char="國">國<span class="sub">나라 국</span></button>
+                <button class="char-btn" data-char="火">火<span class="sub">불 화</span></button>
+                <button class="char-btn" data-char="九">九<span class="sub">아홉 구</span></button>
+              </div>
+            </div>
+
+            <!-- Current Character Info -->
+            <div class="current-char-info">
+              <div id="charHuge" class="char-huge">土</div>
+              <div class="char-meta-text">
+                <div id="charMetaTitle" class="char-meta-title">土 (흙: 토)</div>
+                <div id="charMetaSub" class="char-meta-sub">U+571F · 총 3획 · 정규 필순</div>
+              </div>
+            </div>
+
+            <!-- Tolerance Controls (Phase 03 Test UI) -->
+            <div class="tolerance-box">
+              <div class="selector-label">허용 오차 기준 (실제 결과 도출용)</div>
+              <div class="preset-btn-group">
+                <button class="preset-btn" data-preset="strict">엄격</button>
+                <button class="preset-btn active" data-preset="normal">보통</button>
+                <button class="preset-btn" data-preset="lenient">관대</button>
+              </div>
+
+              <div class="slider-group">
+                <div class="slider-row">
+                  <div class="slider-header">
+                    <span>시작점 오차 반경</span>
+                    <span id="valSliderStart" class="slider-val">165px</span>
+                  </div>
+                  <input type="range" id="sliderStart" min="60" max="300" step="5" value="165">
+                </div>
+
+                <div class="slider-row">
+                  <div class="slider-header">
+                    <span>끝점 오차 반경</span>
+                    <span id="valSliderEnd" class="slider-val">185px</span>
+                  </div>
+                  <input type="range" id="sliderEnd" min="60" max="320" step="5" value="185">
+                </div>
+
+                <div class="slider-row">
+                  <div class="slider-header">
+                    <span>궤적 평균 오차 허용치</span>
+                    <span id="valSliderAvg" class="slider-val">140px</span>
+                  </div>
+                  <input type="range" id="sliderAvg" min="50" max="250" step="5" value="140">
+                </div>
+
+                <div class="slider-row">
+                  <div class="slider-header">
+                    <span>최소 방향 코사인 유사도</span>
+                    <span id="valSliderCos" class="slider-val">0.60 (약 53°)</span>
+                  </div>
+                  <input type="range" id="sliderCos" min="0.2" max="0.95" step="0.05" value="0.60">
+                </div>
+
+                <div class="slider-row">
+                  <div class="slider-header">
+                    <span>길이 오차 허용 폭</span>
+                    <span id="valSliderRatio" class="slider-val">±65%</span>
+                  </div>
+                  <input type="range" id="sliderRatio" min="0.2" max="1.0" step="0.05" value="0.65">
+                </div>
+              </div>
+            </div>
+
+            <!-- Guides Options -->
+            <div class="guide-options">
+              <label class="guide-checkbox-label">
+                <input type="checkbox" id="chkGhost" checked> 흐린 정자 가이드 (Ghost Outline)
+              </label>
+              <label class="guide-checkbox-label">
+                <input type="checkbox" id="chkHint" checked> 현재 획 필순 힌트 (시작점/궤적선)
+              </label>
+              <label class="guide-checkbox-label">
+                <input type="checkbox" id="chkNumbers" checked> 획 번호 배지 표시 (1, 2, 3...)
+              </label>
+            </div>
+
+            <!-- Action Buttons -->
+            <div class="action-btn-group">
+              <button id="btnReset" class="btn btn-default">⟲ 처음부터 다시</button>
+              <button id="btnUndo" class="btn btn-default">↶ 이전 획 취소</button>
+            </div>
+
+          </div>
+        </div>
+
+        <!-- Center: Interactive Drawing Stage & Snapped SVGs -->
+        <div class="panel canvas-panel">
+          <div class="panel-header" style="width:100%;">
+            <h2>✍️ 획 쓰기 캔버스</h2>
+            <span style="font-size:12px;color:var(--gray-500);">한 획을 긋고 손을 떼면 판정·스냅</span>
+          </div>
+
+          <div class="panel-body" style="display:flex;flex-direction:column;align-items:center;">
+            
+            <div id="stageWrapper" class="stroke-stage-wrapper">
+              <!-- 1. Background Grid (米 Grid) -->
+              <svg class="stage-grid-svg" viewBox="0 0 1024 1024">
+                <rect width="1024" height="1024" fill="#ffffff" />
+                <line x1="512" y1="0" x2="512" y2="1024" stroke="#e2e8f0" stroke-width="2" />
+                <line x1="0" y1="512" x2="1024" y2="512" stroke="#e2e8f0" stroke-width="2" />
+                <line x1="0" y1="0" x2="1024" y2="1024" stroke="#f1f5f9" stroke-width="2" stroke-dasharray="10 10" />
+                <line x1="1024" y1="0" x2="0" y2="1024" stroke="#f1f5f9" stroke-width="2" stroke-dasharray="10 10" />
+              </svg>
+
+              <!-- 2. Ghost Layer (Full character faint preview) -->
+              <svg id="svgGhost" class="stage-svg-layer" viewBox="0 0 1024 1024"></svg>
+
+              <!-- 3. Current Stroke Hint Layer -->
+              <svg id="svgHint" class="stage-svg-layer" viewBox="0 0 1024 1024"></svg>
+
+              <!-- 4. Snapped Regular Vector Strokes Layer -->
+              <svg id="svgSnapped" class="stage-svg-layer" viewBox="0 0 1024 1024"></svg>
+
+              <!-- 5. Live User Drawing Canvas Layer -->
+              <canvas id="drawingCanvas"></canvas>
+
+              <!-- Live Toast Feedback -->
+              <div id="feedbackOverlay" class="feedback-overlay"></div>
+            </div>
+
+            <!-- Stage Status Bar -->
+            <div class="stage-status-bar">
+              <div id="strokeCounterText" class="stroke-counter-badge">현재 획: 1 / 3</div>
+              <div id="strokePills" class="stroke-indicator-pills"></div>
+            </div>
+
+            <!-- Complete Card -->
+            <div id="completeCard" class="complete-card">
+              <div class="complete-title">🎉 한자 완성!</div>
+              <div style="font-size:13px;color:var(--gray-700);">모든 획을 올바른 필순과 정자로 완성했습니다.</div>
+            </div>
+
+          </div>
+        </div>
+
+        <!-- Right: Debugger & Real-time Metrics Analysis -->
+        <div class="panel assist-debugger-panel">
+          <div class="panel-header">
+            <h2>📊 실시간 획 판정 분석기</h2>
+            <span id="metricStatusBadge" class="metric-status-badge">대기중</span>
+          </div>
+
+          <div class="panel-body debugger-content">
+
+            <!-- Score & Message Card -->
+            <div class="metric-card">
+              <div class="metric-header">
+                <span style="font-size:12px;color:var(--gray-600);font-weight:600;">정확도 점수</span>
+                <span id="metricScoreNum" style="font-size:16px;font-weight:800;color:var(--primary-color);">--</span>
+              </div>
+              <div class="metric-score-bar-bg">
+                <div id="metricScoreBar" class="metric-score-bar-fill" style="width:0%;"></div>
+              </div>
+              <div id="metricFeedbackText" style="font-size:13px;font-weight:600;color:var(--gray-700);line-height:1.4;">
+                마우스나 터치로 한 획을 그어보세요. 손을 떼는 순간 판정 결과가 표시됩니다.
+              </div>
+            </div>
+
+            <!-- Special Rule Alert Box -->
+            <div id="specialAlertBox" class="special-alert-box"></div>
+
+            <!-- Detail Metrics Table -->
+            <div class="metric-card">
+              <div style="font-size:12px;font-weight:700;color:var(--gray-800);margin-bottom:8px;">항목별 판정 수치</div>
+              <table class="metric-table">
+                <tbody>
+                  <tr>
+                    <th>시작점 오차</th>
+                    <td id="valStartDist" class="val">-</td>
+                  </tr>
+                  <tr>
+                    <th>끝점 오차</th>
+                    <td id="valEndDist" class="val">-</td>
+                  </tr>
+                  <tr>
+                    <th>궤적 평균 오차</th>
+                    <td id="valAvgDist" class="val">-</td>
+                  </tr>
+                  <tr>
+                    <th>길이 비율</th>
+                    <td id="valLenRatio" class="val">-</td>
+                  </tr>
+                  <tr>
+                    <th>진행 방향 (사잇각)</th>
+                    <td id="valAngle" class="val">-</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+
+            <!-- Assist Rule Guide Note -->
+            <div style="background:var(--gray-50);border:1px solid var(--gray-200);border-radius:6px;padding:12px;font-size:12px;color:var(--gray-600);line-height:1.5;">
+              <strong>💡 획 보정(어시스트) 규칙:</strong><br>
+              1. 통과 시 해당 획이 정자 벡터로 <strong>즉시 교체(스냅)</strong>됩니다.<br>
+              2. 실패 시 정답으로 자동 교체되지 않으며, <strong>기존 성공 획만 유지</strong>한 채 현재 획을 다시 씁니다.<br>
+              3. <code>土/士</code> 및 <code>日/曰</code>는 글자 변별성을 위해 가로·세로 비율을 엄격히 판정합니다.
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ====================================================================
+         MODE B: 159 INSPECTION VIEWER
+         ==================================================================== -->
+    <section id="viewReview" class="view-section">
+      <div class="review-container">
+
+        <!-- Top Filter & Action Bar -->
+        <div class="filter-bar">
+          <div class="filter-inputs">
+            <select id="reviewScopeFilter" class="filter-select" style="font-weight:700;color:var(--primary-color);border-color:var(--primary-color);">
+              <option value="high159" selected>집중 검수 159자만 보기 (High Priority)</option>
+              <option value="manual">수동 검수/불일치 필요 글자 (Manual Review)</option>
+              <option value="all637">전체 637자 보기 (ALL 637)</option>
+            </select>
+
+            <input type="text" id="reviewSearch" class="search-input" placeholder="한자, 뜻, 음, 유니코드 검색...">
+            
+            <select id="reviewCategoryFilter" class="filter-select">
+              <option value="ALL">전체 차이 분류</option>
+              <option value="교과서 보존 정자">교과서 보존 정자</option>
+              <option value="자형 미세차이">자형 미세차이 계열</option>
+              <option value="艹">艹 (초두머리) 계열</option>
+              <option value="辶">辶 (책받침) 계열</option>
+              <option value="阝">阝 (좌부변/우부방) 계열</option>
+              <option value="示">示 / 礻 (보일 시) 계열</option>
+              <option value="食">食 / 飠 (밥 식) 계열</option>
+              <option value="門">門 (문 문) 계열</option>
+              <option value="戈">戈 (창 과) 계열</option>
+              <option value="대표 필순 주의">한국 교과서 대표 필순 주의</option>
+              <option value="정자">정자·간체·신자체 축약 차이</option>
+            </select>
+
+            <select id="reviewStatusFilter" class="filter-select">
+              <option value="ALL">전체 검수 상태</option>
+              <option value="대기">대기</option>
+              <option value="일치">일치 (verified)</option>
+              <option value="자형보정">자형 보정 필요</option>
+              <option value="필순보정">필순 보정 필요</option>
+              <option value="제외">제외 (unavailable)</option>
+            </select>
+          </div>
+
+          <div class="filter-actions">
+            <button id="btnExportJson" class="btn btn-default">📥 검수 결과 JSON 내보내기</button>
+            <button id="btnImportJson" class="btn btn-default">📤 JSON 불러오기</button>
+          </div>
+        </div>
+
+        <!-- Statistics Ribbon -->
+        <div class="stats-ribbon">
+          <div class="stat-chip">전체 대상: <span id="statTotal" class="num">159</span>자</div>
+          <div class="stat-chip">검수 대기: <span id="statPending" class="num">159</span>자</div>
+          <div class="stat-chip">교과서 일치: <span id="statVerified" class="num" style="color:var(--success-color);">0</span>자</div>
+          <div class="stat-chip">자형 보정 필요: <span id="statShapeCorrection" class="num" style="color:var(--danger-color);">0</span>자</div>
+          <div class="stat-chip">필순 보정 필요: <span id="statOrderCorrection" class="num" style="color:var(--warning-color);">0</span>자</div>
+          <div class="stat-chip">출제 제외: <span id="statExcluded" class="num" style="color:var(--gray-500);">0</span>자</div>
+        </div>
+
+        <!-- Split Review Area: Left List & Right Detail -->
+        <div class="review-split">
+
+          <!-- Left: 159 Target Characters List Table -->
+          <div class="target-list-wrapper">
+            <table class="target-table">
+              <thead>
+                <tr>
+                  <th style="width:40px;">No</th>
+                  <th style="width:50px;text-align:center;">한자</th>
+                  <th>교과서 뜻·음 / 코드</th>
+                  <th>차이 분류</th>
+                  <th style="width:70px;">상태</th>
+                </tr>
+              </thead>
+              <tbody id="reviewTableBody">
+                <!-- Dynamically rendered rows -->
+              </tbody>
+            </table>
+          </div>
+
+          <!-- Right: Character Detail Inspection & Animation Stage -->
+          <div class="detail-panel">
+
+            <!-- Detail Header -->
+            <div class="detail-header">
+              <div id="detailCharBox" class="detail-char-box">馬</div>
+              <div class="detail-title-group" style="flex:1;">
+                <h3 id="detailTitle">馬 (마: 말)</h3>
+                <div id="detailSubMeta" class="detail-sub-meta">hanja-99AC · U+99AC · [정자·간체 차이]</div>
+              </div>
+              <button id="btnPracticeInAssist" class="btn btn-primary">✍️ 이 글자 획 보정 연습</button>
+            </div>
+
+            <!-- Expected Differences Alert Note -->
+            <div style="background:var(--primary-light);border:1px solid #bfdbfe;border-radius:6px;padding:12px;font-size:13px;color:#1e40af;">
+              <strong>📌 한국 교과서 대조 주의사항:</strong>
+              <div id="detailNoteBox" style="margin-top:4px;color:#1e3a8a;">한국 정자 馬(10획) vs 중국 간체 马(3획)</div>
+            </div>
+
+            <!-- Stroke Order Animator Box -->
+            <div class="animator-box">
+              <div style="width:100%;display:flex;justify-content:space-between;align-items:center;">
+                <span style="font-size:13px;font-weight:700;color:var(--gray-800);">획별 렌더링 및 필순 애니메이션</span>
+                <span id="animStepText" style="font-size:12px;font-weight:600;color:var(--primary-color);">획 진행: 0 / 10획</span>
+              </div>
+
+              <!-- Stage -->
+              <div id="animatorStage" class="animatorStage" style="position:relative;width:320px;height:320px;background:#ffffff;border:1px solid var(--gray-300);border-radius:8px;box-shadow:var(--box-shadow);overflow:hidden;"></div>
+
+              <!-- Controls -->
+              <div class="animator-controls">
+                <button id="btnAnimReset" class="btn btn-default" style="padding:6px 10px;">⏮ 처음으로</button>
+                <button id="btnAnimPrev" class="btn btn-default" style="padding:6px 10px;">◀ 이전 획</button>
+                <button id="btnAnimPlay" class="btn btn-primary" style="padding:6px 14px;">▶ 필순 재생</button>
+                <button id="btnAnimNext" class="btn btn-default" style="padding:6px 10px;">다음 획 ▶</button>
+              </div>
+            </div>
+
+            <!-- Review Status Form -->
+            <div class="review-form-card">
+              <div class="form-label">검수 판정 및 상태 등록</div>
+              
+              <div class="radio-pills">
+                <label class="radio-pill-label selected">
+                  <input type="radio" name="reviewStatus" value="대기" checked> 대기
+                </label>
+                <label class="radio-pill-label">
+                  <input type="radio" name="reviewStatus" value="일치"> 한국 교과서와 일치 (verified)
+                </label>
+                <label class="radio-pill-label">
+                  <input type="radio" name="reviewStatus" value="자형보정"> 자형 보정 필요 (draft)
+                </label>
+                <label class="radio-pill-label">
+                  <input type="radio" name="reviewStatus" value="필순보정"> 필순 보정 필요 (draft)
+                </label>
+                <label class="radio-pill-label">
+                  <input type="radio" name="reviewStatus" value="제외"> 쓰기 출제 제외 (unavailable)
+                </label>
+              </div>
+
+              <div class="form-label" style="margin-top:6px;">검수자 메모 / 보정 지침</div>
+              <textarea id="reviewNotesInput" class="notes-textarea" placeholder="자형 차이 상세 내용, 보정 획 번호, 참고 사항을 입력하세요."></textarea>
+
+              <div style="display:flex;justify-content:flex-end;">
+                <button id="btnSaveReview" class="btn btn-primary">💾 검수 상태 및 메모 저장</button>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Scripts -->
+  <script src="js/review-data.js"></script>
+  <script src="js/sample-strokes.js"></script>
+  <script src="js/strokes-bundle.js" onerror="/* optional bundle for file:/// protocol */"></script>
+  <script src="js/stroke-engine.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
