@@ -22,17 +22,53 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Validate textbook and character data
+        run: python scripts/validate_data.py
+
+      - name: Build static runtime data chunks
+        run: python scripts/build_app_data.py
+
+      - name: Typecheck
+        run: npm run typecheck
+
+      - name: Run unit and integration tests
+        run: npm test
+
+      - name: Build production bundle
+        run: npm run build
+
+      - name: Install Playwright Chromium
+        run: npx playwright install chromium --with-deps
+
+      - name: Run Playwright E2E tests
+        run: npm run test:e2e
+
       - name: Assemble runtime static site (_site)
         run: |
           rm -rf _site
-          mkdir -p _site/css _site/js _site/data
-          cp prototype/stroke-assist/index.html _site/
-          cp -r prototype/stroke-assist/css/. _site/css/
-          cp -r prototype/stroke-assist/js/. _site/js/
-          cp prototype/stroke-assist/data/catalog-targets.json _site/data/
-          cp prototype/stroke-assist/data/review-targets.json _site/data/
-          cp prototype/stroke-assist/data/sample-strokes.json _site/data/
-          cp THIRD-PARTY-NOTICES.md _site/
+          mkdir -p _site/prototype/stroke-assist/css _site/prototype/stroke-assist/js _site/prototype/stroke-assist/data
+          cp -r dist/. _site/
+          cp prototype/stroke-assist/index.html _site/prototype/stroke-assist/
+          cp -r prototype/stroke-assist/css/. _site/prototype/stroke-assist/css/
+          cp -r prototype/stroke-assist/js/. _site/prototype/stroke-assist/js/
+          cp prototype/stroke-assist/data/catalog-targets.json _site/prototype/stroke-assist/data/
+          cp prototype/stroke-assist/data/review-targets.json _site/prototype/stroke-assist/data/
+          cp prototype/stroke-assist/data/sample-strokes.json _site/prototype/stroke-assist/data/
+          test -f _site/THIRD-PARTY-NOTICES.md
           touch _site/.nojekyll
 
       - name: Setup Pages

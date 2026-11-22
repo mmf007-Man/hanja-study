@@ -17,16 +17,28 @@ function removeDirRecursively(dirPath: string): void {
 }
 
 function cleanOutDirPlugin(): Plugin {
+  let rootDir = process.cwd();
   let resolvedOutDir = path.resolve(process.cwd(), 'dist');
   return {
     name: 'clean-out-dir',
     apply: 'build',
     configResolved(config) {
+      rootDir = config.root;
       resolvedOutDir = path.resolve(config.root, config.build.outDir);
     },
     buildStart() {
       // Work around Node 24 Windows fs.rmSync(recursive: true) crash on non-ASCII paths
       removeDirRecursively(resolvedOutDir);
+    },
+    closeBundle() {
+      const noticesSrc = path.join(rootDir, 'THIRD-PARTY-NOTICES.md');
+      if (fs.existsSync(noticesSrc)) {
+        fs.mkdirSync(resolvedOutDir, { recursive: true });
+        fs.copyFileSync(
+          noticesSrc,
+          path.join(resolvedOutDir, 'THIRD-PARTY-NOTICES.md'),
+        );
+      }
     },
   };
 }
@@ -40,5 +52,6 @@ export default defineConfig({
   },
   test: {
     environment: 'jsdom',
+    exclude: ['**/node_modules/**', '**/dist/**', '**/e2e/**'],
   },
 });
