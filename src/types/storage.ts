@@ -23,10 +23,12 @@ export interface FrozenQuestion {
   questionType: QuestionType;
   targetSound: string;
   targetMeanings: string[];
+  correctMeaning?: string;
   meaningChoices?: string[];
   soundChoices?: string[];
   characterChoices?: string[];
   reviewItemId?: string;
+  isReviewFiller?: boolean;
 }
 
 export type AnswerOutcome = 'correct' | 'incorrect' | 'dont_know' | 'abandoned';
@@ -51,6 +53,9 @@ export interface AnswerRecord {
   pairMatched?: boolean;
   errorType?: AnswerErrorType;
   strokeGuideUsed?: boolean;
+  submittedMeaning?: string;
+  submittedSound?: string;
+  submittedCharacterId?: string;
   submittedAt: string;
 }
 
@@ -66,6 +71,7 @@ export interface SessionSnapshot {
   currentIndex: number;
   exposedQuestionIds: string[];
   answers: AnswerRecord[];
+  lastReviewedItemId?: string;
   startedAt: string;
   updatedAt: string;
 }

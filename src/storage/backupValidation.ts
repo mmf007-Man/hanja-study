@@ -174,6 +174,12 @@ function validateFrozenQuestion(value: unknown, path: string): FrozenQuestion {
     targetMeanings: assertStringArray(value.targetMeanings, `${path}.targetMeanings`),
   };
 
+  if (value.correctMeaning !== undefined) {
+    question.correctMeaning = assertNonEmptyString(
+      value.correctMeaning,
+      `${path}.correctMeaning`,
+    );
+  }
   if (value.meaningChoices !== undefined) {
     question.meaningChoices = assertStringArray(value.meaningChoices, `${path}.meaningChoices`);
   }
@@ -188,6 +194,12 @@ function validateFrozenQuestion(value: unknown, path: string): FrozenQuestion {
   }
   if (value.reviewItemId !== undefined) {
     question.reviewItemId = assertNonEmptyString(value.reviewItemId, `${path}.reviewItemId`);
+  }
+  if (value.isReviewFiller !== undefined) {
+    if (typeof value.isReviewFiller !== 'boolean') {
+      throw new BackupValidationError(`${path}.isReviewFiller는 boolean이어야 합니다.`);
+    }
+    question.isReviewFiller = value.isReviewFiller;
   }
 
   return question;
@@ -250,6 +262,24 @@ function validateAnswerRecord(value: unknown, path: string): AnswerRecord {
     }
     record.strokeGuideUsed = value.strokeGuideUsed;
   }
+  if (value.submittedMeaning !== undefined) {
+    if (typeof value.submittedMeaning !== 'string') {
+      throw new BackupValidationError(`${path}.submittedMeaning은 문자열이어야 합니다.`);
+    }
+    record.submittedMeaning = value.submittedMeaning;
+  }
+  if (value.submittedSound !== undefined) {
+    if (typeof value.submittedSound !== 'string') {
+      throw new BackupValidationError(`${path}.submittedSound는 문자열이어야 합니다.`);
+    }
+    record.submittedSound = value.submittedSound;
+  }
+  if (value.submittedCharacterId !== undefined) {
+    if (typeof value.submittedCharacterId !== 'string') {
+      throw new BackupValidationError(`${path}.submittedCharacterId는 문자열이어야 합니다.`);
+    }
+    record.submittedCharacterId = value.submittedCharacterId;
+  }
 
   return record;
 }
@@ -274,7 +304,7 @@ function validateSessionSnapshot(value: unknown, path: string): SessionSnapshot 
     throw new BackupValidationError(`${path}.answers는 배열이어야 합니다.`);
   }
 
-  return {
+  const snapshot: SessionSnapshot = {
     sessionId: assertNonEmptyString(value.sessionId, `${path}.sessionId`),
     mode: value.mode as SessionMode,
     dataVersion: assertNonEmptyString(value.dataVersion, `${path}.dataVersion`),
@@ -296,6 +326,15 @@ function validateSessionSnapshot(value: unknown, path: string): SessionSnapshot 
     startedAt: assertNonEmptyString(value.startedAt, `${path}.startedAt`),
     updatedAt: assertNonEmptyString(value.updatedAt, `${path}.updatedAt`),
   };
+
+  if (value.lastReviewedItemId !== undefined) {
+    snapshot.lastReviewedItemId = assertNonEmptyString(
+      value.lastReviewedItemId,
+      `${path}.lastReviewedItemId`,
+    );
+  }
+
+  return snapshot;
 }
 
 function validateExposureStats(

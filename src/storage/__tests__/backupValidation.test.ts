@@ -195,6 +195,89 @@ describe('Backup validation and import/export round-trip', () => {
     expect(({} as Record<string, unknown>).polluted).toBeUndefined();
   });
 
+  it('preserves M2 optional fields on FrozenQuestion, AnswerRecord, and SessionSnapshot during round-trip', async () => {
+    const adapter = new LocalStorageAdapter({ storage: window.localStorage });
+    await adapter.saveProfile(makeProfile('prof_m2', '지민'));
+    await adapter.setActiveProfileId('prof_m2');
+
+    await adapter.saveActiveSession('prof_m2', {
+      sessionId: 'review_m2_01',
+      mode: 'review',
+      dataVersion: '0.3.0',
+      unitIds: ['chunjae-middle-hanja-2022-ahn-unit-01'],
+      selectedTypes: ['hanja_to_choice', 'reading_to_choice'],
+      questions: [
+        {
+          questionId: 'rev-1',
+          characterId: 'hanja-6A02',
+          questionType: 'hanja_to_choice',
+          targetSound: '락',
+          targetMeanings: ['즐겁다'],
+          correctMeaning: '즐겁다',
+          meaningChoices: ['즐겁다', '하늘', '땅', '물'],
+          soundChoices: ['락', '천', '지', '수'],
+          reviewItemId: 'hanja-6A02::hanja_to_choice::락',
+        },
+        {
+          questionId: 'rev-2',
+          characterId: 'hanja-6F22',
+          questionType: 'reading_to_choice',
+          targetSound: '한',
+          targetMeanings: ['한나라'],
+          characterChoices: ['hanja-6F22', 'hanja-65E5', 'hanja-6708', 'hanja-706B'],
+          isReviewFiller: true,
+        },
+      ],
+      currentIndex: 1,
+      exposedQuestionIds: ['rev-1', 'rev-2'],
+      answers: [
+        {
+          questionId: 'rev-1',
+          characterId: 'hanja-6A02',
+          questionType: 'hanja_to_choice',
+          targetSound: '락',
+          score: 0,
+          outcome: 'incorrect',
+          meaningCorrect: true,
+          soundCorrect: false,
+          pairMatched: false,
+          errorType: 'sound_error',
+          submittedMeaning: '즐겁다',
+          submittedSound: '천',
+          submittedAt: '2026-11-22T12:00:00Z',
+        },
+        {
+          questionId: 'rev-2',
+          characterId: 'hanja-6F22',
+          questionType: 'reading_to_choice',
+          targetSound: '한',
+          score: 2,
+          outcome: 'correct',
+          submittedCharacterId: 'hanja-6F22',
+          submittedAt: '2026-11-22T12:00:10Z',
+        },
+      ],
+      lastReviewedItemId: 'hanja-6A02::hanja_to_choice::락',
+      startedAt: '2026-11-22T11:59:00Z',
+      updatedAt: '2026-11-22T12:00:10Z',
+    });
+
+    const exported = await adapter.exportBackup();
+    const jsonText = JSON.stringify(exported);
+
+    window.localStorage.clear();
+    await adapter.importBackupJson(jsonText, 'replace');
+
+    const restored = await adapter.getActiveSession('prof_m2');
+    expect(restored).not.toBeNull();
+    expect(restored!.lastReviewedItemId).toBe('hanja-6A02::hanja_to_choice::락');
+    expect(restored!.questions[0]!.correctMeaning).toBe('즐겁다');
+    expect(restored!.questions[1]!.isReviewFiller).toBe(true);
+    expect(restored!.answers[0]!.submittedMeaning).toBe('즐겁다');
+    expect(restored!.answers[0]!.submittedSound).toBe('천');
+    expect(restored!.answers[1]!.submittedCharacterId).toBe('hanja-6F22');
+  });
+
   it('rolls back atomically if QuotaExceededError occurs mid-import', async () => {
     const backing = new Map<string, string>();
     let failOnKeyPrefix: string | null = null;
