@@ -4,3 +4,8 @@ __pycache__/
 data/sources/chunjae-middle-hanja-2022-ahn-pages/
 data/sources/chunjae-middle-hanja-2022-ahn-stroke-checks/
 data/strokes/raw_mapped.json
+node_modules/
+dist/
+public/data/
+.vite/
+coverage/
