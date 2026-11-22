@@ -2,12 +2,12 @@
 
 천재교과서 2022 개정 중학교 『한문』(안대회 외) 교과서의 새 한자를 단원 순서로 구성한 기초 데이터다. 20개 소단원에 638개 항목이 있으며, 서로 다른 글자는 637자다. 공식 공개 미리보기에서 정리한 [참고 목록](../docs/참고-교과서-단원별-한자목록.md)을 기준으로 한다.
 
-**최종 현행화 기준일: `2026-11-21`** (데이터 버전 `0.2.0` / `schemaVersion: 1`)
+**최종 현행화 기준일: `2026-11-22`** (데이터 버전 `0.3.0` / `schemaVersion: 1`)
 - **637자 뜻·음 전수 검수 완료** (`readingStatus: "verified"`, 642개 독음 쌍, `readingVerifiedAt: "2026-10-19"`)
 - **두음법칙 추가 허용 음(`allowedSounds`) 29자 반영** ([추가 허용 음 검수 문서](../docs/참고-추가-허용-음-검수.md))
 - **교과서 정자 코드포인트 교정 완료**: `豊` (`U+8C4A`) → `豐` (`U+8C50`), `畵` (`U+7575`) → `畫` (`U+756B`)
-- **637자 전체 `strokeData` 연결 완료** (`strokeStatus: "draft"`, 총 5,932획, Top-Down `1024×1024` 정규화 기준 [normalized_strokes.json](strokes/normalized_strokes.json))
-- 시제품 손글씨 허용 오차 검증 및 육안 검수 통과 후 `strokeStatus`를 `verified`로 최종 승격할 예정이다.
+- **637자 전체 `strokeData` 연결 및 `verified` 승격 완료** (`strokeStatus: "verified"`, 총 5,932획, Top-Down `1024×1024` 정규화 기준 [normalized_strokes.json](strokes/normalized_strokes.json))
+- 2026-11-22 시제품 필기 검증 통과(`PRESETS.normal` 허용 오차 및 연속 3회 실패 점선 가이드 확정)에 따라 637자 전체를 `verified`로 승격했다.
 
 ---
 
@@ -63,7 +63,7 @@
     "key": "6F22",
     "version": "c63765b1"
   },
-  "strokeStatus": "draft",
+  "strokeStatus": "verified",
   "readingVerifiedAt": "2026-10-19",
   "readingSourceIds": ["unit-01-hanja-6F22"]
 }
@@ -89,7 +89,7 @@
 
 `樂`의 `락: 즐겁다`와 `악: 노래`는 서로 다른 묶음이며, `不`의 `불`과 `부`에는 각각 `아니다`를 연결했다. 쉼표로 나열된 뜻은 같은 음의 `meanings` 배열에 보존했다. 새 한자란에 없는 사전 뜻·음은 추가하지 않았으며, 두음법칙 허용 음은 사전 검수로 확정된 29개 독음 쌍에만 `allowedSounds`로 별도 연결했다(`樂`은 `락` 묶음에만 `"allowedSounds": ["낙"]` 반영).
 
-`strokeData`에는 `data/strokes/normalized_strokes.json`과 연동되는 획 자료의 `provider`, `key`, `version`을 기록한다. 현재 637자 모두 `strokeData` 연결 및 `strokeStatus: "draft"` 상태이며, `normalized_strokes.json`은 모든 획 외곽선(`strokes`)과 중심선(`medians`)을 **Top-Down `1024×1024` 표준 SVG 좌표계**로 통일했다. 시제품 손글씨 허용 오차 테스트 통과 후 `verified`로 승격한다. `strokeStatus`는 `pending`, `draft`, `verified`, `unavailable` 중 하나다.
+`strokeData`에는 `data/strokes/normalized_strokes.json`과 연동되는 획 자료의 `provider`, `key`, `version`을 기록한다. 현재 637자 모두 `strokeData` 연결 및 `strokeStatus: "verified"` 상태이며, `normalized_strokes.json`은 모든 획 외곽선(`strokes`)과 중심선(`medians`)을 **Top-Down `1024×1024` 표준 SVG 좌표계**로 통일했다. `strokeStatus`는 `pending`, `draft`, `verified`, `unavailable` 중 하나다.
 
 앱은 `readingStatus`가 `verified`인 글자만 뜻·음 퀴즈에 사용하고, `strokeStatus`가 `verified`이며 실제 획 자료를 불러올 수 있는 글자만 쓰기 문제 후보로 사용해야 한다.
 
@@ -129,4 +129,4 @@ python scripts/verify_stroke_mapping.py
 
 `validate_data.py`는 실제 저장한 JSON을 읽어 중복 ID와 누락된 참조, 단원 순서, 한자 순서, 집계 수치, `allowedSounds` 29쌍, `strokeData` 연결 상태 및 검수 상태의 모순을 확인한다. 원문 표기 해석은 [reading_format.py](../scripts/reading_format.py)가 담당한다.
 
-`schemaVersion`은 데이터 구조 버전이며 현재 `1`이다. `dataVersion`은 내용 버전이며 현재 한자·교과서 파일 모두 `0.2.0`이다. 내용을 배포용으로 갱신할 때 두 파일의 내용 버전과 수정 날짜를 함께 올린다.
+`schemaVersion`은 데이터 구조 버전이며 현재 `1`이다. `dataVersion`은 내용 버전이며 현재 한자·교과서 파일 모두 `0.3.0`이다. 내용을 배포용으로 갱신할 때 두 파일의 내용 버전과 수정 날짜를 함께 올린다.
