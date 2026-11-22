@@ -54,3 +54,35 @@ export {
   type StartReviewSessionOptions,
   type SubmitQuestionResult,
 } from './sessionEngine';
+
+export {
+  FONT_TRANSFORM_Y,
+  STROKE_PRESETS,
+  calcCosineSimilarity,
+  calcPathLength,
+  convertMedianToSvg,
+  dist,
+  evaluateStroke,
+  getBoundingBox,
+  resamplePoints,
+  type BoundingBox,
+  type MedianPoint,
+  type StrokeConfig,
+  type StrokeEvalChecks,
+  type StrokeEvalContext,
+  type StrokeEvalMetrics,
+  type StrokeEvalOptions,
+  type StrokeEvalResult,
+  type StrokeFailReason,
+  type StrokePoint,
+  type StrokePresetName,
+} from './strokeEngine';
+
+export {
+  DOTTED_GUIDE_FAILURE_THRESHOLD,
+  applyStrokeAttemptResult,
+  createStrokeAttemptState,
+  resetStrokeAttempt,
+  type StrokeAttemptState,
+  type StrokeFeedbackTone,
+} from './strokeSession';
